@@ -16,11 +16,11 @@ flowchart TD
     end
 
     subgraph infobox completion
-        B --- T[["data/infoboxes.json"]]--> F & G
-        F(complete_infoboxes_threshold.py)
+        B --- T[["data/infoboxes.json"]]--> G & F
         G(complete_infoboxes_robust.py)
-        F--> U[[data/completed_infoboxes_features.json]]
+        F(complete_infoboxes_threshold.py)
         G--> V[[data/completed_infoboxes_robust.json]]
+        F--> U[[data/completed_infoboxes_features.json]]
     end
 
 ```
