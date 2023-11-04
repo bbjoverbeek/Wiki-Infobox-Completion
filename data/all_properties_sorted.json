@@ -1,0 +1,7580 @@
+[
+    [
+        "P1082",
+        {
+            "en": "population",
+            "nl": "inwonertal",
+            "absolute_frequency": 1418,
+            "relative_frequency": 1.0
+        }
+    ],
+    [
+        "P17",
+        {
+            "en": "",
+            "nl": "land",
+            "absolute_frequency": 1418,
+            "relative_frequency": 1.0
+        }
+    ],
+    [
+        "P31",
+        {
+            "en": "",
+            "nl": "is een",
+            "absolute_frequency": 1418,
+            "relative_frequency": 1.0
+        }
+    ],
+    [
+        "P625",
+        {
+            "en": "",
+            "nl": "geografische locatie",
+            "absolute_frequency": 1417,
+            "relative_frequency": 0.9992947813822285
+        }
+    ],
+    [
+        "P131",
+        {
+            "en": "",
+            "nl": "gelegen in bestuurlijke eenheid",
+            "absolute_frequency": 1414,
+            "relative_frequency": 0.997179125528914
+        }
+    ],
+    [
+        "P1566",
+        {
+            "en": "GeoNames ID",
+            "nl": "GeoNames-identificatiecode",
+            "absolute_frequency": 1400,
+            "relative_frequency": 0.9873060648801129
+        }
+    ],
+    [
+        "P646",
+        {
+            "en": "",
+            "nl": "Freebase-identificatiecode",
+            "absolute_frequency": 1391,
+            "relative_frequency": 0.9809590973201693
+        }
+    ],
+    [
+        "P6766",
+        {
+            "en": "Who's on First ID",
+            "nl": "Who's on First-identificatiecode",
+            "absolute_frequency": 1372,
+            "relative_frequency": 0.9675599435825106
+        }
+    ],
+    [
+        "P373",
+        {
+            "en": "",
+            "nl": "Commonscategorie",
+            "absolute_frequency": 1371,
+            "relative_frequency": 0.9668547249647391
+        }
+    ],
+    [
+        "P18",
+        {
+            "en": "",
+            "nl": "afbeelding",
+            "absolute_frequency": 1345,
+            "relative_frequency": 0.9485190409026798
+        }
+    ],
+    [
+        "P2044",
+        {
+            "en": "",
+            "nl": "hoogte boven de zeespiegel",
+            "absolute_frequency": 1281,
+            "relative_frequency": 0.9033850493653033
+        }
+    ],
+    [
+        "P214",
+        {
+            "en": "",
+            "nl": "VIAF-identificatiecode",
+            "absolute_frequency": 1272,
+            "relative_frequency": 0.8970380818053597
+        }
+    ],
+    [
+        "P910",
+        {
+            "en": "",
+            "nl": "hoofdcategorie van onderwerp",
+            "absolute_frequency": 1255,
+            "relative_frequency": 0.885049365303244
+        }
+    ],
+    [
+        "P1376",
+        {
+            "en": "",
+            "nl": "hoofdplaats van",
+            "absolute_frequency": 1198,
+            "relative_frequency": 0.844851904090268
+        }
+    ],
+    [
+        "P8189",
+        {
+            "en": "",
+            "nl": "Nationale Bibliotheek van Isra\u00ebl-identificatiecode voor J9U",
+            "absolute_frequency": 1187,
+            "relative_frequency": 0.8370944992947814
+        }
+    ],
+    [
+        "P1417",
+        {
+            "en": "",
+            "nl": "Encyclop\u00e6dia Britannica Online-identificatiecode",
+            "absolute_frequency": 1125,
+            "relative_frequency": 0.7933709449929478
+        }
+    ],
+    [
+        "P244",
+        {
+            "en": "",
+            "nl": "LCAuth-identificatiecode",
+            "absolute_frequency": 1096,
+            "relative_frequency": 0.7729196050775741
+        }
+    ],
+    [
+        "P1464",
+        {
+            "en": "",
+            "nl": "categorie met mensen die hier zijn geboren",
+            "absolute_frequency": 1081,
+            "relative_frequency": 0.7623413258110014
+        }
+    ],
+    [
+        "P2046",
+        {
+            "en": "area",
+            "nl": "oppervlakte",
+            "absolute_frequency": 1078,
+            "relative_frequency": 0.7602256699576869
+        }
+    ],
+    [
+        "P421",
+        {
+            "en": "",
+            "nl": "tijdzone",
+            "absolute_frequency": 1074,
+            "relative_frequency": 0.7574047954866009
+        }
+    ],
+    [
+        "P1792",
+        {
+            "en": "",
+            "nl": "categorie van geassocieerde mensen",
+            "absolute_frequency": 1070,
+            "relative_frequency": 0.7545839210155149
+        }
+    ],
+    [
+        "P3417",
+        {
+            "en": "",
+            "nl": "Quora-identificatiecode voor onderwerp",
+            "absolute_frequency": 1033,
+            "relative_frequency": 0.728490832157969
+        }
+    ],
+    [
+        "P11693",
+        {
+            "en": "",
+            "nl": "OpenStreetMap-identificatiecode voor knoop",
+            "absolute_frequency": 1022,
+            "relative_frequency": 0.7207334273624824
+        }
+    ],
+    [
+        "P227",
+        {
+            "en": "",
+            "nl": "GND-identificatiecode",
+            "absolute_frequency": 1011,
+            "relative_frequency": 0.7129760225669958
+        }
+    ],
+    [
+        "P856",
+        {
+            "en": "",
+            "nl": "offici\u00eble website",
+            "absolute_frequency": 947,
+            "relative_frequency": 0.6678420310296191
+        }
+    ],
+    [
+        "P948",
+        {
+            "en": "",
+            "nl": "Wikivoyagebanner",
+            "absolute_frequency": 898,
+            "relative_frequency": 0.6332863187588152
+        }
+    ],
+    [
+        "P7305",
+        {
+            "en": "",
+            "nl": "Online PWN Encyclopedia-identificatiecode voor artikel",
+            "absolute_frequency": 892,
+            "relative_frequency": 0.6290550070521862
+        }
+    ],
+    [
+        "P8168",
+        {
+            "en": "FactGrid item ID",
+            "nl": "FactGrid-identificatiecode voor item",
+            "absolute_frequency": 868,
+            "relative_frequency": 0.61212976022567
+        }
+    ],
+    [
+        "P4342",
+        {
+            "en": "Store norske leksikon ID",
+            "nl": "Store norske leksikon-identificatiecode",
+            "absolute_frequency": 849,
+            "relative_frequency": 0.5987306064880112
+        }
+    ],
+    [
+        "P190",
+        {
+            "en": "",
+            "nl": "zusterplaats",
+            "absolute_frequency": 849,
+            "relative_frequency": 0.5987306064880112
+        }
+    ],
+    [
+        "P281",
+        {
+            "en": "",
+            "nl": "postcode",
+            "absolute_frequency": 818,
+            "relative_frequency": 0.5768688293370945
+        }
+    ],
+    [
+        "P1343",
+        {
+            "en": "",
+            "nl": "beschreven door bron",
+            "absolute_frequency": 812,
+            "relative_frequency": 0.5726375176304654
+        }
+    ],
+    [
+        "P7859",
+        {
+            "en": "WorldCat Identities ID (superseded)",
+            "nl": "WorldCat Identities-identificatiecode",
+            "absolute_frequency": 809,
+            "relative_frequency": 0.5705218617771509
+        }
+    ],
+    [
+        "P2924",
+        {
+            "en": "",
+            "nl": "Great Russian Encyclopedia-identificatiecode",
+            "absolute_frequency": 779,
+            "relative_frequency": 0.5493653032440057
+        }
+    ],
+    [
+        "P1705",
+        {
+            "en": "",
+            "nl": "label in oorspronkelijke taal",
+            "absolute_frequency": 761,
+            "relative_frequency": 0.5366713681241185
+        }
+    ],
+    [
+        "P1296",
+        {
+            "en": "",
+            "nl": "GEC-identificatiecode",
+            "absolute_frequency": 751,
+            "relative_frequency": 0.5296191819464033
+        }
+    ],
+    [
+        "P571",
+        {
+            "en": "",
+            "nl": "datum van oprichting of creatie",
+            "absolute_frequency": 747,
+            "relative_frequency": 0.5267983074753173
+        }
+    ],
+    [
+        "P1448",
+        {
+            "en": "",
+            "nl": "offici\u00eble naam",
+            "absolute_frequency": 737,
+            "relative_frequency": 0.5197461212976022
+        }
+    ],
+    [
+        "P1465",
+        {
+            "en": "",
+            "nl": "categorie met mensen die hier zijn overleden",
+            "absolute_frequency": 732,
+            "relative_frequency": 0.5162200282087447
+        }
+    ],
+    [
+        "P982",
+        {
+            "en": "MusicBrainz area ID",
+            "nl": "MusicBrainz-identificatiecode voor gebied",
+            "absolute_frequency": 721,
+            "relative_frequency": 0.5084626234132581
+        }
+    ],
+    [
+        "P473",
+        {
+            "en": "",
+            "nl": "netnummer",
+            "absolute_frequency": 711,
+            "relative_frequency": 0.501410437235543
+        }
+    ],
+    [
+        "P8313",
+        {
+            "en": "",
+            "nl": "Den Store Danske-identificatiecode",
+            "absolute_frequency": 633,
+            "relative_frequency": 0.4464033850493653
+        }
+    ],
+    [
+        "P94",
+        {
+            "en": "",
+            "nl": "wapenafbeelding",
+            "absolute_frequency": 591,
+            "relative_frequency": 0.41678420310296194
+        }
+    ],
+    [
+        "P9957",
+        {
+            "en": "",
+            "nl": "museum-digital-identificatiecode voor plaats",
+            "absolute_frequency": 561,
+            "relative_frequency": 0.39562764456981664
+        }
+    ],
+    [
+        "P691",
+        {
+            "en": "",
+            "nl": "NKC-identificatiecode",
+            "absolute_frequency": 559,
+            "relative_frequency": 0.3942172073342736
+        }
+    ],
+    [
+        "P1997",
+        {
+            "en": "",
+            "nl": "Facebook-identificatiecode voor locatie",
+            "absolute_frequency": 530,
+            "relative_frequency": 0.37376586741889983
+        }
+    ],
+    [
+        "P5573",
+        {
+            "en": "",
+            "nl": "archINFORM-identificatiecode voor locatie",
+            "absolute_frequency": 500,
+            "relative_frequency": 0.3526093088857546
+        }
+    ],
+    [
+        "P242",
+        {
+            "en": "",
+            "nl": "liggingskaart",
+            "absolute_frequency": 500,
+            "relative_frequency": 0.3526093088857546
+        }
+    ],
+    [
+        "P1036",
+        {
+            "en": "",
+            "nl": "Dewey Decimale Classificatie",
+            "absolute_frequency": 493,
+            "relative_frequency": 0.34767277856135403
+        }
+    ],
+    [
+        "P935",
+        {
+            "en": "",
+            "nl": "Commonsgalerij",
+            "absolute_frequency": 484,
+            "relative_frequency": 0.34132581100141046
+        }
+    ],
+    [
+        "P1889",
+        {
+            "en": "",
+            "nl": "niet gelijk aan",
+            "absolute_frequency": 473,
+            "relative_frequency": 0.3335684062059238
+        }
+    ],
+    [
+        "P41",
+        {
+            "en": "flag image",
+            "nl": "vlagafbeelding",
+            "absolute_frequency": 464,
+            "relative_frequency": 0.32722143864598024
+        }
+    ],
+    [
+        "P998",
+        {
+            "en": "",
+            "nl": "dmoz-identificatiecode",
+            "absolute_frequency": 464,
+            "relative_frequency": 0.32722143864598024
+        }
+    ],
+    [
+        "P269",
+        {
+            "en": "",
+            "nl": "idRef-identificatiecode",
+            "absolute_frequency": 431,
+            "relative_frequency": 0.3039492242595205
+        }
+    ],
+    [
+        "P268",
+        {
+            "en": "",
+            "nl": "BnF-identificatiecode",
+            "absolute_frequency": 420,
+            "relative_frequency": 0.29619181946403383
+        }
+    ],
+    [
+        "P3219",
+        {
+            "en": "Encyclop\u00e6dia Universalis ID",
+            "nl": "Encyclop\u00e6dia Universalis-identificatiecode",
+            "absolute_frequency": 413,
+            "relative_frequency": 0.2912552891396333
+        }
+    ],
+    [
+        "P1225",
+        {
+            "en": "U.S. National Archives Identifier",
+            "nl": "NARA-identificatiecode",
+            "absolute_frequency": 412,
+            "relative_frequency": 0.29055007052186177
+        }
+    ],
+    [
+        "P7471",
+        {
+            "en": "",
+            "nl": "iNaturalist-identificatiecode voor plaats",
+            "absolute_frequency": 395,
+            "relative_frequency": 0.27856135401974613
+        }
+    ],
+    [
+        "P7867",
+        {
+            "en": "category for maps",
+            "nl": "categorie voor kaarten",
+            "absolute_frequency": 392,
+            "relative_frequency": 0.2764456981664316
+        }
+    ],
+    [
+        "P402",
+        {
+            "en": "",
+            "nl": "OpenStreetMap-identificatiecode voor relatie",
+            "absolute_frequency": 387,
+            "relative_frequency": 0.27291960507757407
+        }
+    ],
+    [
+        "P5063",
+        {
+            "en": "Interlingual Index ID",
+            "nl": "ILI-identificatiecode",
+            "absolute_frequency": 378,
+            "relative_frequency": 0.26657263751763044
+        }
+    ],
+    [
+        "P206",
+        {
+            "en": "",
+            "nl": "gelegen in of aan waterlichaam",
+            "absolute_frequency": 371,
+            "relative_frequency": 0.2616361071932299
+        }
+    ],
+    [
+        "P1281",
+        {
+            "en": "",
+            "nl": "Where On Earth-identificatiecode",
+            "absolute_frequency": 361,
+            "relative_frequency": 0.2545839210155148
+        }
+    ],
+    [
+        "P8814",
+        {
+            "en": "",
+            "nl": "WordNet 3.1-identificatiecode voor synset",
+            "absolute_frequency": 357,
+            "relative_frequency": 0.25176304654442877
+        }
+    ],
+    [
+        "P1667",
+        {
+            "en": "",
+            "nl": "TGN-identificatiecode",
+            "absolute_frequency": 351,
+            "relative_frequency": 0.24753173483779972
+        }
+    ],
+    [
+        "P7197",
+        {
+            "en": "OpenWeatherMap city ID",
+            "nl": "OpenWeatherMap-identificatiecode voor stad",
+            "absolute_frequency": 350,
+            "relative_frequency": 0.2468265162200282
+        }
+    ],
+    [
+        "P1549",
+        {
+            "en": "demonym",
+            "nl": "demoniem",
+            "absolute_frequency": 327,
+            "relative_frequency": 0.2306064880112835
+        }
+    ],
+    [
+        "P6",
+        {
+            "en": "",
+            "nl": "bestuurshoofd",
+            "absolute_frequency": 325,
+            "relative_frequency": 0.22919605077574048
+        }
+    ],
+    [
+        "P47",
+        {
+            "en": "shares border with",
+            "nl": "grenst aan",
+            "absolute_frequency": 307,
+            "relative_frequency": 0.2165021156558533
+        }
+    ],
+    [
+        "P6706",
+        {
+            "en": "",
+            "nl": "De Agostini-identificatiecode",
+            "absolute_frequency": 293,
+            "relative_frequency": 0.2066290550070522
+        }
+    ],
+    [
+        "P8989",
+        {
+            "en": "",
+            "nl": "Commons-categorie voor zicht op item",
+            "absolute_frequency": 293,
+            "relative_frequency": 0.2066290550070522
+        }
+    ],
+    [
+        "P8519",
+        {
+            "en": "",
+            "nl": "RKDthesaurus-identificatiecode",
+            "absolute_frequency": 283,
+            "relative_frequency": 0.1995768688293371
+        }
+    ],
+    [
+        "P8406",
+        {
+            "en": "",
+            "nl": "Grove Art Online-identificatiecode",
+            "absolute_frequency": 276,
+            "relative_frequency": 0.19464033850493653
+        }
+    ],
+    [
+        "P7818",
+        {
+            "en": "",
+            "nl": "Vikidia-identificatiecode voor Frans artikel",
+            "absolute_frequency": 269,
+            "relative_frequency": 0.18970380818053598
+        }
+    ],
+    [
+        "P10565",
+        {
+            "en": "",
+            "nl": "Encyclopedie van China (3e editie)-identificatiecode",
+            "absolute_frequency": 268,
+            "relative_frequency": 0.18899858956276447
+        }
+    ],
+    [
+        "P1245",
+        {
+            "en": "OmegaWiki Defined Meaning",
+            "nl": "OmegaWiki-identificatiecode voor definitie",
+            "absolute_frequency": 255,
+            "relative_frequency": 0.17983074753173484
+        }
+    ],
+    [
+        "P2347",
+        {
+            "en": "YSO ID",
+            "nl": "YSO-identificatiecode",
+            "absolute_frequency": 250,
+            "relative_frequency": 0.1763046544428773
+        }
+    ],
+    [
+        "P2716",
+        {
+            "en": "",
+            "nl": "fotocollage",
+            "absolute_frequency": 237,
+            "relative_frequency": 0.16713681241184766
+        }
+    ],
+    [
+        "P3365",
+        {
+            "en": "",
+            "nl": "Enciclopedia Treccani-identificatiecode",
+            "absolute_frequency": 231,
+            "relative_frequency": 0.16290550070521861
+        }
+    ],
+    [
+        "P1791",
+        {
+            "en": "",
+            "nl": "categorie met mensen die hier zijn begraven",
+            "absolute_frequency": 230,
+            "relative_frequency": 0.1622002820874471
+        }
+    ],
+    [
+        "P1830",
+        {
+            "en": "",
+            "nl": "eigenaar van",
+            "absolute_frequency": 230,
+            "relative_frequency": 0.1622002820874471
+        }
+    ],
+    [
+        "P3984",
+        {
+            "en": "",
+            "nl": "Reddit-identificatiecode voor forum",
+            "absolute_frequency": 229,
+            "relative_frequency": 0.1614950634696756
+        }
+    ],
+    [
+        "P2163",
+        {
+            "en": "",
+            "nl": "FAST-identificatiecode",
+            "absolute_frequency": 221,
+            "relative_frequency": 0.15585331452750353
+        }
+    ],
+    [
+        "P793",
+        {
+            "en": "",
+            "nl": "belangrijke gebeurtenis",
+            "absolute_frequency": 217,
+            "relative_frequency": 0.1530324400564175
+        }
+    ],
+    [
+        "P10832",
+        {
+            "en": "",
+            "nl": "WorldCat Entities-identificatiecode",
+            "absolute_frequency": 208,
+            "relative_frequency": 0.1466854724964739
+        }
+    ],
+    [
+        "P443",
+        {
+            "en": "pronunciation audio",
+            "nl": "uitspraak (audiobestand)",
+            "absolute_frequency": 203,
+            "relative_frequency": 0.14315937940761636
+        }
+    ],
+    [
+        "P395",
+        {
+            "en": "",
+            "nl": "kentekenplaatcode",
+            "absolute_frequency": 203,
+            "relative_frequency": 0.14315937940761636
+        }
+    ],
+    [
+        "P5843",
+        {
+            "en": "",
+            "nl": "Gynopedia-identificatiecode voor plaats",
+            "absolute_frequency": 202,
+            "relative_frequency": 0.14245416078984485
+        }
+    ],
+    [
+        "P5019",
+        {
+            "en": "Brockhaus Enzyklop\u00e4die online ID",
+            "nl": "Brockhaus-encyclopedie-identificatiecode",
+            "absolute_frequency": 199,
+            "relative_frequency": 0.14033850493653033
+        }
+    ],
+    [
+        "P5008",
+        {
+            "en": "",
+            "nl": "op focuslijst van Wikimedia-project",
+            "absolute_frequency": 198,
+            "relative_frequency": 0.13963328631875882
+        }
+    ],
+    [
+        "P3222",
+        {
+            "en": "",
+            "nl": "Nationalencyklopedin Online-identificatiecode",
+            "absolute_frequency": 194,
+            "relative_frequency": 0.1368124118476728
+        }
+    ],
+    [
+        "P6404",
+        {
+            "en": "",
+            "nl": "Dizionario di Storia Treccani-identificatiecode",
+            "absolute_frequency": 184,
+            "relative_frequency": 0.12976022566995768
+        }
+    ],
+    [
+        "P37",
+        {
+            "en": "",
+            "nl": "offici\u00eble taal",
+            "absolute_frequency": 184,
+            "relative_frequency": 0.12976022566995768
+        }
+    ],
+    [
+        "P1313",
+        {
+            "en": "",
+            "nl": "hoogste ambt",
+            "absolute_frequency": 180,
+            "relative_frequency": 0.12693935119887165
+        }
+    ],
+    [
+        "P9100",
+        {
+            "en": "",
+            "nl": "GitHub-identificatiecode voor onderwerp",
+            "absolute_frequency": 179,
+            "relative_frequency": 0.12623413258110014
+        }
+    ],
+    [
+        "P361",
+        {
+            "en": "",
+            "nl": "onderdeel van",
+            "absolute_frequency": 177,
+            "relative_frequency": 0.12482369534555712
+        }
+    ],
+    [
+        "P949",
+        {
+            "en": "",
+            "nl": "NLI-identificatiecode (Isra\u00ebl) (oud)",
+            "absolute_frequency": 171,
+            "relative_frequency": 0.12059238363892807
+        }
+    ],
+    [
+        "P8744",
+        {
+            "en": "",
+            "nl": "economie van onderwerp",
+            "absolute_frequency": 166,
+            "relative_frequency": 0.11706629055007052
+        }
+    ],
+    [
+        "P8826",
+        {
+            "en": "",
+            "nl": "Edition humboldt digital-identificatiecode",
+            "absolute_frequency": 166,
+            "relative_frequency": 0.11706629055007052
+        }
+    ],
+    [
+        "P4223",
+        {
+            "en": "",
+            "nl": "Enciclopedia Italiana-identificatiecode",
+            "absolute_frequency": 162,
+            "relative_frequency": 0.11424541607898449
+        }
+    ],
+    [
+        "P950",
+        {
+            "en": "",
+            "nl": "BNE-identificatiecode",
+            "absolute_frequency": 159,
+            "relative_frequency": 0.11212976022566996
+        }
+    ],
+    [
+        "P10397",
+        {
+            "en": "",
+            "nl": "SBN-identificatiecode voor plaats",
+            "absolute_frequency": 156,
+            "relative_frequency": 0.11001410437235543
+        }
+    ],
+    [
+        "P463",
+        {
+            "en": "",
+            "nl": "lid van",
+            "absolute_frequency": 152,
+            "relative_frequency": 0.1071932299012694
+        }
+    ],
+    [
+        "P1740",
+        {
+            "en": "category for films shot at this location",
+            "nl": "categorie met films die hier zijn opgenomen",
+            "absolute_frequency": 150,
+            "relative_frequency": 0.10578279266572638
+        }
+    ],
+    [
+        "P9495",
+        {
+            "en": "National Historical Museums of Sweden ID",
+            "nl": "Nationale Historische Musea van Zweden-identificatiecode voor agent",
+            "absolute_frequency": 148,
+            "relative_frequency": 0.10437235543018336
+        }
+    ],
+    [
+        "P9037",
+        {
+            "en": "",
+            "nl": "BHCL-identificatiecode (UUID)",
+            "absolute_frequency": 148,
+            "relative_frequency": 0.10437235543018336
+        }
+    ],
+    [
+        "P138",
+        {
+            "en": "",
+            "nl": "vernoemd naar",
+            "absolute_frequency": 145,
+            "relative_frequency": 0.10225669957686882
+        }
+    ],
+    [
+        "P6200",
+        {
+            "en": "",
+            "nl": "BBC News-identificatiecode voor onderwerp",
+            "absolute_frequency": 145,
+            "relative_frequency": 0.10225669957686882
+        }
+    ],
+    [
+        "P8687",
+        {
+            "en": "social media followers",
+            "nl": "aantal volgers op sociale media",
+            "absolute_frequency": 138,
+            "relative_frequency": 0.09732016925246827
+        }
+    ],
+    [
+        "P7982",
+        {
+            "en": "",
+            "nl": "Hrvatska enciklopedija-identificatiecode",
+            "absolute_frequency": 135,
+            "relative_frequency": 0.09520451339915374
+        }
+    ],
+    [
+        "P1617",
+        {
+            "en": "",
+            "nl": "BBC Things-identificatiecode",
+            "absolute_frequency": 131,
+            "relative_frequency": 0.0923836389280677
+        }
+    ],
+    [
+        "P8179",
+        {
+            "en": "",
+            "nl": "Canadiana-identificatiecode (NCF)",
+            "absolute_frequency": 130,
+            "relative_frequency": 0.09167842031029619
+        }
+    ],
+    [
+        "P237",
+        {
+            "en": "",
+            "nl": "wapenbeschrijving",
+            "absolute_frequency": 129,
+            "relative_frequency": 0.09097320169252468
+        }
+    ],
+    [
+        "P2013",
+        {
+            "en": "",
+            "nl": "Facebook-identificatiecode",
+            "absolute_frequency": 128,
+            "relative_frequency": 0.09026798307475317
+        }
+    ],
+    [
+        "P3451",
+        {
+            "en": "nighttime view",
+            "nl": "nachtaanzicht",
+            "absolute_frequency": 126,
+            "relative_frequency": 0.08885754583921016
+        }
+    ],
+    [
+        "P2581",
+        {
+            "en": "BabelNet ID",
+            "nl": "BabelNet-identificatiecode",
+            "absolute_frequency": 124,
+            "relative_frequency": 0.08744710860366714
+        }
+    ],
+    [
+        "P2002",
+        {
+            "en": "",
+            "nl": "Twitter-gebruikersnaam",
+            "absolute_frequency": 123,
+            "relative_frequency": 0.08674188998589563
+        }
+    ],
+    [
+        "P30",
+        {
+            "en": "",
+            "nl": "continent",
+            "absolute_frequency": 122,
+            "relative_frequency": 0.08603667136812412
+        }
+    ],
+    [
+        "P194",
+        {
+            "en": "",
+            "nl": "wetgevend orgaan",
+            "absolute_frequency": 120,
+            "relative_frequency": 0.0846262341325811
+        }
+    ],
+    [
+        "P4672",
+        {
+            "en": "",
+            "nl": "EMLO-identificatiecode voor locatie",
+            "absolute_frequency": 119,
+            "relative_frequency": 0.08392101551480959
+        }
+    ],
+    [
+        "P2326",
+        {
+            "en": "",
+            "nl": "GNS Unique Feature-identificatiecode",
+            "absolute_frequency": 118,
+            "relative_frequency": 0.08321579689703808
+        }
+    ],
+    [
+        "P11514",
+        {
+            "en": "",
+            "nl": "Groot Russische Encyclopedie-identificatiecode voor portaal",
+            "absolute_frequency": 115,
+            "relative_frequency": 0.08110014104372355
+        }
+    ],
+    [
+        "P7850",
+        {
+            "en": "",
+            "nl": "Joconde-identificatiecode voor locatie",
+            "absolute_frequency": 114,
+            "relative_frequency": 0.08039492242595205
+        }
+    ],
+    [
+        "P150",
+        {
+            "en": "",
+            "nl": "omvat bestuurlijke eenheid",
+            "absolute_frequency": 109,
+            "relative_frequency": 0.0768688293370945
+        }
+    ],
+    [
+        "P4527",
+        {
+            "en": "",
+            "nl": "UK Parliament thesaurus-identificatiecode",
+            "absolute_frequency": 106,
+            "relative_frequency": 0.07475317348377997
+        }
+    ],
+    [
+        "P1937",
+        {
+            "en": "",
+            "nl": "UN/LOCODE",
+            "absolute_frequency": 102,
+            "relative_frequency": 0.07193229901269393
+        }
+    ],
+    [
+        "P1438",
+        {
+            "en": "",
+            "nl": "Jewish Encyclopedia identificatiecode",
+            "absolute_frequency": 101,
+            "relative_frequency": 0.07122708039492243
+        }
+    ],
+    [
+        "P3749",
+        {
+            "en": "Google Maps Customer ID",
+            "nl": "Google Maps-identificatiecode",
+            "absolute_frequency": 100,
+            "relative_frequency": 0.07052186177715092
+        }
+    ],
+    [
+        "P6058",
+        {
+            "en": "",
+            "nl": "Larousse-identificatiecode",
+            "absolute_frequency": 100,
+            "relative_frequency": 0.07052186177715092
+        }
+    ],
+    [
+        "P213",
+        {
+            "en": "",
+            "nl": "ISNI-identificatiecode",
+            "absolute_frequency": 97,
+            "relative_frequency": 0.0684062059238364
+        }
+    ],
+    [
+        "P163",
+        {
+            "en": "",
+            "nl": "vlagbeschrijving",
+            "absolute_frequency": 95,
+            "relative_frequency": 0.06699576868829338
+        }
+    ],
+    [
+        "P797",
+        {
+            "en": "",
+            "nl": "uitvoerende autoriteit",
+            "absolute_frequency": 95,
+            "relative_frequency": 0.06699576868829338
+        }
+    ],
+    [
+        "P1936",
+        {
+            "en": "",
+            "nl": "DARE-identificatiecode",
+            "absolute_frequency": 95,
+            "relative_frequency": 0.06699576868829338
+        }
+    ],
+    [
+        "P12062",
+        {
+            "en": "",
+            "nl": "Pinakes-identificatiecode voor stad",
+            "absolute_frequency": 94,
+            "relative_frequency": 0.06629055007052186
+        }
+    ],
+    [
+        "P8592",
+        {
+            "en": "",
+            "nl": "luchtfoto",
+            "absolute_frequency": 94,
+            "relative_frequency": 0.06629055007052186
+        }
+    ],
+    [
+        "P5587",
+        {
+            "en": "",
+            "nl": "Libris-identificatiecode",
+            "absolute_frequency": 93,
+            "relative_frequency": 0.06558533145275035
+        }
+    ],
+    [
+        "P1621",
+        {
+            "en": "",
+            "nl": "detailkaart",
+            "absolute_frequency": 91,
+            "relative_frequency": 0.06417489421720733
+        }
+    ],
+    [
+        "P2003",
+        {
+            "en": "",
+            "nl": "Instagram-gebruikersnaam",
+            "absolute_frequency": 91,
+            "relative_frequency": 0.06417489421720733
+        }
+    ],
+    [
+        "P1249",
+        {
+            "en": "",
+            "nl": "voor het eerst beschreven in",
+            "absolute_frequency": 90,
+            "relative_frequency": 0.06346967559943582
+        }
+    ],
+    [
+        "P1584",
+        {
+            "en": "",
+            "nl": "Pleiades-identificatiecode",
+            "absolute_frequency": 89,
+            "relative_frequency": 0.06276445698166432
+        }
+    ],
+    [
+        "P6573",
+        {
+            "en": "",
+            "nl": "Klexikon-identificatiecode voor artikel",
+            "absolute_frequency": 88,
+            "relative_frequency": 0.06205923836389281
+        }
+    ],
+    [
+        "P4291",
+        {
+            "en": "",
+            "nl": "panoramafoto",
+            "absolute_frequency": 88,
+            "relative_frequency": 0.06205923836389281
+        }
+    ],
+    [
+        "P158",
+        {
+            "en": "",
+            "nl": "zegelafbeelding",
+            "absolute_frequency": 87,
+            "relative_frequency": 0.0613540197461213
+        }
+    ],
+    [
+        "P417",
+        {
+            "en": "",
+            "nl": "patroonheilige",
+            "absolute_frequency": 86,
+            "relative_frequency": 0.06064880112834979
+        }
+    ],
+    [
+        "P6343",
+        {
+            "en": "",
+            "nl": "stedelijke bevolking",
+            "absolute_frequency": 85,
+            "relative_frequency": 0.059943582510578276
+        }
+    ],
+    [
+        "P1151",
+        {
+            "en": "topic's main Wikimedia portal",
+            "nl": "portaal van onderwerp",
+            "absolute_frequency": 84,
+            "relative_frequency": 0.05923836389280677
+        }
+    ],
+    [
+        "P2572",
+        {
+            "en": "hashtag",
+            "nl": "hashtag",
+            "absolute_frequency": 83,
+            "relative_frequency": 0.05853314527503526
+        }
+    ],
+    [
+        "P2184",
+        {
+            "en": "",
+            "nl": "geschiedenis van onderwerp",
+            "absolute_frequency": 83,
+            "relative_frequency": 0.05853314527503526
+        }
+    ],
+    [
+        "P6344",
+        {
+            "en": "",
+            "nl": "plattelandsbevolking",
+            "absolute_frequency": 83,
+            "relative_frequency": 0.05853314527503526
+        }
+    ],
+    [
+        "P9545",
+        {
+            "en": "",
+            "nl": "Encyclopedie van China-identificatiecode",
+            "absolute_frequency": 81,
+            "relative_frequency": 0.057122708039492244
+        }
+    ],
+    [
+        "P300",
+        {
+            "en": "",
+            "nl": "ISO 3166-2-identificatiecode",
+            "absolute_frequency": 81,
+            "relative_frequency": 0.057122708039492244
+        }
+    ],
+    [
+        "P901",
+        {
+            "en": "",
+            "nl": "FIPS 10-4-identificatiecode voor land- of regio",
+            "absolute_frequency": 81,
+            "relative_frequency": 0.057122708039492244
+        }
+    ],
+    [
+        "P1365",
+        {
+            "en": "",
+            "nl": "vervangt",
+            "absolute_frequency": 80,
+            "relative_frequency": 0.056417489421720736
+        }
+    ],
+    [
+        "P8349",
+        {
+            "en": "Proleksis enciklopedija ID",
+            "nl": "Proleksis Encyclopedia-identificatiecode",
+            "absolute_frequency": 79,
+            "relative_frequency": 0.05571227080394922
+        }
+    ],
+    [
+        "P6723",
+        {
+            "en": "",
+            "nl": "BlackPast.org-identificatiecode",
+            "absolute_frequency": 78,
+            "relative_frequency": 0.05500705218617771
+        }
+    ],
+    [
+        "P2936",
+        {
+            "en": "",
+            "nl": "voertaal",
+            "absolute_frequency": 77,
+            "relative_frequency": 0.054301833568406205
+        }
+    ],
+    [
+        "P349",
+        {
+            "en": "",
+            "nl": "NDL-identificatiecode",
+            "absolute_frequency": 76,
+            "relative_frequency": 0.0535966149506347
+        }
+    ],
+    [
+        "P10227",
+        {
+            "en": "National Library of Ireland ID",
+            "nl": "Nationale Bibliotheek van Ierland-identificatiecode",
+            "absolute_frequency": 75,
+            "relative_frequency": 0.05289139633286319
+        }
+    ],
+    [
+        "P9629",
+        {
+            "en": "",
+            "nl": "Armeniapedia-identificatiecode",
+            "absolute_frequency": 74,
+            "relative_frequency": 0.05218617771509168
+        }
+    ],
+    [
+        "P2397",
+        {
+            "en": "",
+            "nl": "YouTube-identificatiecode voor kanaal",
+            "absolute_frequency": 74,
+            "relative_frequency": 0.05218617771509168
+        }
+    ],
+    [
+        "P8408",
+        {
+            "en": "",
+            "nl": "KBpedia-identificatiecode",
+            "absolute_frequency": 72,
+            "relative_frequency": 0.05077574047954866
+        }
+    ],
+    [
+        "P11012",
+        {
+            "en": "",
+            "nl": "EU Knowledge Graph-identificatiecode voor item",
+            "absolute_frequency": 72,
+            "relative_frequency": 0.05077574047954866
+        }
+    ],
+    [
+        "P5905",
+        {
+            "en": "",
+            "nl": "Comic Vine-identificatiecode",
+            "absolute_frequency": 71,
+            "relative_frequency": 0.05007052186177715
+        }
+    ],
+    [
+        "P4212",
+        {
+            "en": "",
+            "nl": "PACTOLS-identificatiecode voor thesaurus",
+            "absolute_frequency": 71,
+            "relative_frequency": 0.05007052186177715
+        }
+    ],
+    [
+        "P10291",
+        {
+            "en": "",
+            "nl": "Wikisimpsons-identificatiecode",
+            "absolute_frequency": 70,
+            "relative_frequency": 0.04936530324400564
+        }
+    ],
+    [
+        "P6821",
+        {
+            "en": "",
+            "nl": "Alvin-identificatiecode",
+            "absolute_frequency": 70,
+            "relative_frequency": 0.04936530324400564
+        }
+    ],
+    [
+        "P9757",
+        {
+            "en": "Schoenberg Database of Manuscripts place ID",
+            "nl": "Schoenberg Database of Manuscripts-identificatiecode voor plaats",
+            "absolute_frequency": 69,
+            "relative_frequency": 0.04866008462623413
+        }
+    ],
+    [
+        "P8402",
+        {
+            "en": "open data portal",
+            "nl": "open data-portaal",
+            "absolute_frequency": 69,
+            "relative_frequency": 0.04866008462623413
+        }
+    ],
+    [
+        "P7827",
+        {
+            "en": "",
+            "nl": "Vikidia-identificatiecode voor Spaans artikel",
+            "absolute_frequency": 69,
+            "relative_frequency": 0.04866008462623413
+        }
+    ],
+    [
+        "P4619",
+        {
+            "en": "",
+            "nl": "BLBNB-identificatiecode",
+            "absolute_frequency": 67,
+            "relative_frequency": 0.04724964739069112
+        }
+    ],
+    [
+        "P8119",
+        {
+            "en": "",
+            "nl": "HASC-identificatiecode",
+            "absolute_frequency": 67,
+            "relative_frequency": 0.04724964739069112
+        }
+    ],
+    [
+        "P1540",
+        {
+            "en": "",
+            "nl": "mannelijke bevolking",
+            "absolute_frequency": 67,
+            "relative_frequency": 0.04724964739069112
+        }
+    ],
+    [
+        "P1539",
+        {
+            "en": "",
+            "nl": "vrouwelijke bevolking",
+            "absolute_frequency": 67,
+            "relative_frequency": 0.04724964739069112
+        }
+    ],
+    [
+        "P2950",
+        {
+            "en": "",
+            "nl": "Nomisma-identificatiecode",
+            "absolute_frequency": 66,
+            "relative_frequency": 0.0465444287729196
+        }
+    ],
+    [
+        "P7314",
+        {
+            "en": "",
+            "nl": "TDV \u0130slam Ansiklopedisi-identificatiecode",
+            "absolute_frequency": 66,
+            "relative_frequency": 0.0465444287729196
+        }
+    ],
+    [
+        "P3896",
+        {
+            "en": "",
+            "nl": "geografische vorm",
+            "absolute_frequency": 66,
+            "relative_frequency": 0.0465444287729196
+        }
+    ],
+    [
+        "P10280",
+        {
+            "en": "category for honorary citizens of entity",
+            "nl": "categorie voor ereburgers van een plaats of land",
+            "absolute_frequency": 63,
+            "relative_frequency": 0.04442877291960508
+        }
+    ],
+    [
+        "P112",
+        {
+            "en": "founded by",
+            "nl": "opgericht door",
+            "absolute_frequency": 62,
+            "relative_frequency": 0.04372355430183357
+        }
+    ],
+    [
+        "P6621",
+        {
+            "en": "",
+            "nl": "Le Figaro-identificatiecode voor onderwerp",
+            "absolute_frequency": 61,
+            "relative_frequency": 0.04301833568406206
+        }
+    ],
+    [
+        "P1943",
+        {
+            "en": "",
+            "nl": "positiekaart",
+            "absolute_frequency": 60,
+            "relative_frequency": 0.04231311706629055
+        }
+    ],
+    [
+        "P1842",
+        {
+            "en": "",
+            "nl": "GAMEO-identificatiecode",
+            "absolute_frequency": 59,
+            "relative_frequency": 0.04160789844851904
+        }
+    ],
+    [
+        "P5337",
+        {
+            "en": "",
+            "nl": "Google News-identificatiecode voor onderwerp",
+            "absolute_frequency": 57,
+            "relative_frequency": 0.04019746121297602
+        }
+    ],
+    [
+        "P3134",
+        {
+            "en": "",
+            "nl": "TripAdvisor-identificatiecode",
+            "absolute_frequency": 57,
+            "relative_frequency": 0.04019746121297602
+        }
+    ],
+    [
+        "P7502",
+        {
+            "en": "",
+            "nl": "Golden-identificatiecode",
+            "absolute_frequency": 56,
+            "relative_frequency": 0.039492242595204514
+        }
+    ],
+    [
+        "P166",
+        {
+            "en": "",
+            "nl": "onderscheiding",
+            "absolute_frequency": 56,
+            "relative_frequency": 0.039492242595204514
+        }
+    ],
+    [
+        "P8068",
+        {
+            "en": "",
+            "nl": "ToposText-identificatiecode voor plaats",
+            "absolute_frequency": 56,
+            "relative_frequency": 0.039492242595204514
+        }
+    ],
+    [
+        "P9223",
+        {
+            "en": "",
+            "nl": "Provenio-identificatiecode (UUID)",
+            "absolute_frequency": 55,
+            "relative_frequency": 0.038787023977433006
+        }
+    ],
+    [
+        "P3553",
+        {
+            "en": "",
+            "nl": "Zhihu-identificatiecode voor onderwerp",
+            "absolute_frequency": 53,
+            "relative_frequency": 0.03737658674188998
+        }
+    ],
+    [
+        "P208",
+        {
+            "en": "",
+            "nl": "uitvoerende macht",
+            "absolute_frequency": 53,
+            "relative_frequency": 0.03737658674188998
+        }
+    ],
+    [
+        "P1976",
+        {
+            "en": "",
+            "nl": "Mexicaanse plaats of gemeente-identificatiecode",
+            "absolute_frequency": 53,
+            "relative_frequency": 0.03737658674188998
+        }
+    ],
+    [
+        "P898",
+        {
+            "en": "",
+            "nl": "IPA-transcriptie",
+            "absolute_frequency": 52,
+            "relative_frequency": 0.036671368124118475
+        }
+    ],
+    [
+        "P706",
+        {
+            "en": "located in/on physical feature",
+            "nl": "gelegen in geografisch gebied",
+            "absolute_frequency": 50,
+            "relative_frequency": 0.03526093088857546
+        }
+    ],
+    [
+        "P7666",
+        {
+            "en": "",
+            "nl": "Visuotin\u0117 lietuvi\u0173 enciklopedija-identificatiecode",
+            "absolute_frequency": 49,
+            "relative_frequency": 0.03455571227080395
+        }
+    ],
+    [
+        "P8974",
+        {
+            "en": "",
+            "nl": "SAPA-identificatiecode",
+            "absolute_frequency": 49,
+            "relative_frequency": 0.03455571227080395
+        }
+    ],
+    [
+        "P154",
+        {
+            "en": "",
+            "nl": "logo",
+            "absolute_frequency": 49,
+            "relative_frequency": 0.03455571227080395
+        }
+    ],
+    [
+        "P460",
+        {
+            "en": "",
+            "nl": "naar verluidt hetzelfde als",
+            "absolute_frequency": 48,
+            "relative_frequency": 0.03385049365303244
+        }
+    ],
+    [
+        "P906",
+        {
+            "en": "",
+            "nl": "SELIBR-identificatiecode",
+            "absolute_frequency": 46,
+            "relative_frequency": 0.03244005641748942
+        }
+    ],
+    [
+        "P989",
+        {
+            "en": "",
+            "nl": "gesproken tekst",
+            "absolute_frequency": 46,
+            "relative_frequency": 0.03244005641748942
+        }
+    ],
+    [
+        "P3241",
+        {
+            "en": "",
+            "nl": "Catholic Encyclopedia-identificatiecode",
+            "absolute_frequency": 45,
+            "relative_frequency": 0.03173483779971791
+        }
+    ],
+    [
+        "P8885",
+        {
+            "en": "",
+            "nl": "Namuwiki-identificatiecode",
+            "absolute_frequency": 45,
+            "relative_frequency": 0.03173483779971791
+        }
+    ],
+    [
+        "P9498",
+        {
+            "en": "",
+            "nl": "Enzyklop\u00e4die des europ\u00e4ischen Ostens-identificatiecode",
+            "absolute_frequency": 45,
+            "relative_frequency": 0.03173483779971791
+        }
+    ],
+    [
+        "P1449",
+        {
+            "en": "",
+            "nl": "bijnaam",
+            "absolute_frequency": 44,
+            "relative_frequency": 0.031029619181946404
+        }
+    ],
+    [
+        "P7832",
+        {
+            "en": "",
+            "nl": "Vikidia-identificatiecode voor Baskisch artikel",
+            "absolute_frequency": 44,
+            "relative_frequency": 0.031029619181946404
+        }
+    ],
+    [
+        "P10321",
+        {
+            "en": "",
+            "nl": "Elektrisch Stadsvervoer-identificatiecode voor plaats",
+            "absolute_frequency": 44,
+            "relative_frequency": 0.031029619181946404
+        }
+    ],
+    [
+        "P7829",
+        {
+            "en": "English Vikidia ID",
+            "nl": "Vikidia-identificatiecode voor Engelstalig artikel",
+            "absolute_frequency": 43,
+            "relative_frequency": 0.030324400564174896
+        }
+    ],
+    [
+        "P8714",
+        {
+            "en": "",
+            "nl": "GADM-identificatiecode",
+            "absolute_frequency": 43,
+            "relative_frequency": 0.030324400564174896
+        }
+    ],
+    [
+        "P1435",
+        {
+            "en": "",
+            "nl": "monumentstatus",
+            "absolute_frequency": 42,
+            "relative_frequency": 0.029619181946403384
+        }
+    ],
+    [
+        "P9984",
+        {
+            "en": "",
+            "nl": "CANTIC-identificatiecode",
+            "absolute_frequency": 41,
+            "relative_frequency": 0.028913963328631876
+        }
+    ],
+    [
+        "P1375",
+        {
+            "en": "",
+            "nl": "NSK-identificatiecode",
+            "absolute_frequency": 41,
+            "relative_frequency": 0.028913963328631876
+        }
+    ],
+    [
+        "P1538",
+        {
+            "en": "",
+            "nl": "aantal huishoudens",
+            "absolute_frequency": 41,
+            "relative_frequency": 0.028913963328631876
+        }
+    ],
+    [
+        "P6698",
+        {
+            "en": "",
+            "nl": "Japan Search-identificatiecode voor naam",
+            "absolute_frequency": 40,
+            "relative_frequency": 0.028208744710860368
+        }
+    ],
+    [
+        "P7959",
+        {
+            "en": "",
+            "nl": "historisch gebied",
+            "absolute_frequency": 40,
+            "relative_frequency": 0.028208744710860368
+        }
+    ],
+    [
+        "P7506",
+        {
+            "en": "",
+            "nl": "Naver Encyclopedia-identificatiecode",
+            "absolute_frequency": 40,
+            "relative_frequency": 0.028208744710860368
+        }
+    ],
+    [
+        "P11137",
+        {
+            "en": "",
+            "nl": "Reddit-identificatiecode voor onderwerp",
+            "absolute_frequency": 39,
+            "relative_frequency": 0.027503526093088856
+        }
+    ],
+    [
+        "P2633",
+        {
+            "en": "",
+            "nl": "geografie van onderwerp",
+            "absolute_frequency": 39,
+            "relative_frequency": 0.027503526093088856
+        }
+    ],
+    [
+        "P1441",
+        {
+            "en": "present in work",
+            "nl": "komt voor in werk",
+            "absolute_frequency": 38,
+            "relative_frequency": 0.02679830747531735
+        }
+    ],
+    [
+        "P3500",
+        {
+            "en": "",
+            "nl": "Ringgold-identificatiecode",
+            "absolute_frequency": 38,
+            "relative_frequency": 0.02679830747531735
+        }
+    ],
+    [
+        "P2959",
+        {
+            "en": "",
+            "nl": "permanente doublure",
+            "absolute_frequency": 38,
+            "relative_frequency": 0.02679830747531735
+        }
+    ],
+    [
+        "P3120",
+        {
+            "en": "",
+            "nl": "TOID",
+            "absolute_frequency": 38,
+            "relative_frequency": 0.02679830747531735
+        }
+    ],
+    [
+        "P9314",
+        {
+            "en": "",
+            "nl": "Latin Place Names-identificatiecode",
+            "absolute_frequency": 38,
+            "relative_frequency": 0.02679830747531735
+        }
+    ],
+    [
+        "P36",
+        {
+            "en": "",
+            "nl": "hoofdplaats",
+            "absolute_frequency": 38,
+            "relative_frequency": 0.02679830747531735
+        }
+    ],
+    [
+        "P1333",
+        {
+            "en": "",
+            "nl": "geografische locatie zuidelijkste punt",
+            "absolute_frequency": 37,
+            "relative_frequency": 0.02609308885754584
+        }
+    ],
+    [
+        "P1335",
+        {
+            "en": "",
+            "nl": "geografische locatie westelijkste punt",
+            "absolute_frequency": 37,
+            "relative_frequency": 0.02609308885754584
+        }
+    ],
+    [
+        "P1334",
+        {
+            "en": "",
+            "nl": "geografische locatie oostelijkste punt",
+            "absolute_frequency": 37,
+            "relative_frequency": 0.02609308885754584
+        }
+    ],
+    [
+        "P1332",
+        {
+            "en": "",
+            "nl": "geografische locatie noordelijkste punt",
+            "absolute_frequency": 37,
+            "relative_frequency": 0.02609308885754584
+        }
+    ],
+    [
+        "P7960",
+        {
+            "en": "",
+            "nl": "Joconde-identificatiecode voor vinding",
+            "absolute_frequency": 37,
+            "relative_frequency": 0.02609308885754584
+        }
+    ],
+    [
+        "P9241",
+        {
+            "en": "",
+            "nl": "demografie van onderwerp",
+            "absolute_frequency": 36,
+            "relative_frequency": 0.02538787023977433
+        }
+    ],
+    [
+        "P1456",
+        {
+            "en": "",
+            "nl": "lijst van monumenten",
+            "absolute_frequency": 36,
+            "relative_frequency": 0.02538787023977433
+        }
+    ],
+    [
+        "P3616",
+        {
+            "en": "",
+            "nl": "Vision of Britain-identificatiecode voor plaats",
+            "absolute_frequency": 36,
+            "relative_frequency": 0.02538787023977433
+        }
+    ],
+    [
+        "P2671",
+        {
+            "en": "",
+            "nl": "Google Knowledge Graph-identificatiecode",
+            "absolute_frequency": 36,
+            "relative_frequency": 0.02538787023977433
+        }
+    ],
+    [
+        "P8309",
+        {
+            "en": "",
+            "nl": "Yle-identificatiecode voor onderwerp",
+            "absolute_frequency": 35,
+            "relative_frequency": 0.02468265162200282
+        }
+    ],
+    [
+        "P7822",
+        {
+            "en": "",
+            "nl": "Vikidia-identificatiecode voor Italiaans artikel",
+            "absolute_frequency": 35,
+            "relative_frequency": 0.02468265162200282
+        }
+    ],
+    [
+        "P605",
+        {
+            "en": "",
+            "nl": "NUTS-code",
+            "absolute_frequency": 35,
+            "relative_frequency": 0.02468265162200282
+        }
+    ],
+    [
+        "P6482",
+        {
+            "en": "",
+            "nl": "Beeldarchief Herder-Institut-identificatiecode",
+            "absolute_frequency": 35,
+            "relative_frequency": 0.02468265162200282
+        }
+    ],
+    [
+        "P4839",
+        {
+            "en": "",
+            "nl": "Wolfram Language-entiteitscode",
+            "absolute_frequency": 34,
+            "relative_frequency": 0.023977433004231313
+        }
+    ],
+    [
+        "P2614",
+        {
+            "en": "",
+            "nl": "Werelderfgoed-criteria (2005)",
+            "absolute_frequency": 34,
+            "relative_frequency": 0.023977433004231313
+        }
+    ],
+    [
+        "P4838",
+        {
+            "en": "",
+            "nl": "CATO-identificatiecode",
+            "absolute_frequency": 34,
+            "relative_frequency": 0.023977433004231313
+        }
+    ],
+    [
+        "P409",
+        {
+            "en": "",
+            "nl": "NLA-identificatiecode",
+            "absolute_frequency": 33,
+            "relative_frequency": 0.0232722143864598
+        }
+    ],
+    [
+        "P4613",
+        {
+            "en": "",
+            "nl": "Encyclopedie van Modern Oekra\u00efne-identificatiecode",
+            "absolute_frequency": 33,
+            "relative_frequency": 0.0232722143864598
+        }
+    ],
+    [
+        "P6293",
+        {
+            "en": "YSA ID",
+            "nl": "YSA-identificatiecode",
+            "absolute_frequency": 32,
+            "relative_frequency": 0.022566995768688293
+        }
+    ],
+    [
+        "P10297",
+        {
+            "en": "",
+            "nl": "Google Arts & Culture-identificatiecode voor entiteit",
+            "absolute_frequency": 32,
+            "relative_frequency": 0.022566995768688293
+        }
+    ],
+    [
+        "P7700",
+        {
+            "en": "",
+            "nl": "Slowaakse Nationale Bibliotheek-identificatiecode (VIAF)",
+            "absolute_frequency": 31,
+            "relative_frequency": 0.021861777150916785
+        }
+    ],
+    [
+        "P51",
+        {
+            "en": "",
+            "nl": "audio",
+            "absolute_frequency": 31,
+            "relative_frequency": 0.021861777150916785
+        }
+    ],
+    [
+        "P8590",
+        {
+            "en": "",
+            "nl": "Jewish Encyclopedia-identificatiecode",
+            "absolute_frequency": 30,
+            "relative_frequency": 0.021156558533145273
+        }
+    ],
+    [
+        "P1958",
+        {
+            "en": "",
+            "nl": "Trismegistos-identificatiecode voor locatie",
+            "absolute_frequency": 30,
+            "relative_frequency": 0.021156558533145273
+        }
+    ],
+    [
+        "P1451",
+        {
+            "en": "",
+            "nl": "tekst van motto",
+            "absolute_frequency": 29,
+            "relative_frequency": 0.020451339915373765
+        }
+    ],
+    [
+        "P3615",
+        {
+            "en": "",
+            "nl": "Vision of Britain-identificatiecode voor eenheid",
+            "absolute_frequency": 29,
+            "relative_frequency": 0.020451339915373765
+        }
+    ],
+    [
+        "P4171",
+        {
+            "en": "",
+            "nl": "werelderfgoedkandidaat-identificatiecode",
+            "absolute_frequency": 29,
+            "relative_frequency": 0.020451339915373765
+        }
+    ],
+    [
+        "P10046",
+        {
+            "en": "",
+            "nl": "Apple Maps-identificatiecode",
+            "absolute_frequency": 28,
+            "relative_frequency": 0.019746121297602257
+        }
+    ],
+    [
+        "P6262",
+        {
+            "en": "",
+            "nl": "Fandom-identificatiecode voor artikel",
+            "absolute_frequency": 28,
+            "relative_frequency": 0.019746121297602257
+        }
+    ],
+    [
+        "P7699",
+        {
+            "en": "",
+            "nl": "Nationale Bibliotheek van Litouwen-identificatiecode",
+            "absolute_frequency": 28,
+            "relative_frequency": 0.019746121297602257
+        }
+    ],
+    [
+        "P3065",
+        {
+            "en": "",
+            "nl": "RERO-identificatiecode",
+            "absolute_frequency": 28,
+            "relative_frequency": 0.019746121297602257
+        }
+    ],
+    [
+        "P5184",
+        {
+            "en": "",
+            "nl": "Daum Encyclopedia-identificatiecode",
+            "absolute_frequency": 28,
+            "relative_frequency": 0.019746121297602257
+        }
+    ],
+    [
+        "P10",
+        {
+            "en": "",
+            "nl": "video",
+            "absolute_frequency": 28,
+            "relative_frequency": 0.019746121297602257
+        }
+    ],
+    [
+        "P1476",
+        {
+            "en": "",
+            "nl": "titel",
+            "absolute_frequency": 28,
+            "relative_frequency": 0.019746121297602257
+        }
+    ],
+    [
+        "P8672",
+        {
+            "en": "Twitter topic ID",
+            "nl": "Twitter-identificatiecode voor onderwerp",
+            "absolute_frequency": 27,
+            "relative_frequency": 0.01904090267983075
+        }
+    ],
+    [
+        "P635",
+        {
+            "en": "",
+            "nl": "Italiaanse gemeente-identificatiecode",
+            "absolute_frequency": 27,
+            "relative_frequency": 0.01904090267983075
+        }
+    ],
+    [
+        "P8248",
+        {
+            "en": "",
+            "nl": "colonclassificatie",
+            "absolute_frequency": 27,
+            "relative_frequency": 0.01904090267983075
+        }
+    ],
+    [
+        "P9235",
+        {
+            "en": "",
+            "nl": "seismische classificatie",
+            "absolute_frequency": 27,
+            "relative_frequency": 0.01904090267983075
+        }
+    ],
+    [
+        "P6832",
+        {
+            "en": "",
+            "nl": "IndicePA-identificatiecode",
+            "absolute_frequency": 27,
+            "relative_frequency": 0.01904090267983075
+        }
+    ],
+    [
+        "P2186",
+        {
+            "en": "",
+            "nl": "Wiki Loves Monuments-identificatiecode",
+            "absolute_frequency": 27,
+            "relative_frequency": 0.01904090267983075
+        }
+    ],
+    [
+        "P806",
+        {
+            "en": "",
+            "nl": "Italiaanse kadaster-identificatiecode",
+            "absolute_frequency": 27,
+            "relative_frequency": 0.01904090267983075
+        }
+    ],
+    [
+        "P6900",
+        {
+            "en": "",
+            "nl": "NicoNicoPedia-identificatiecode voor artikel",
+            "absolute_frequency": 26,
+            "relative_frequency": 0.018335684062059238
+        }
+    ],
+    [
+        "P3639",
+        {
+            "en": "",
+            "nl": "KEPN-identificatiecode",
+            "absolute_frequency": 26,
+            "relative_frequency": 0.018335684062059238
+        }
+    ],
+    [
+        "P1424",
+        {
+            "en": "",
+            "nl": "hoofdsjabloon van onderwerp",
+            "absolute_frequency": 25,
+            "relative_frequency": 0.01763046544428773
+        }
+    ],
+    [
+        "P1481",
+        {
+            "en": "",
+            "nl": "vici.org-identificatiecode",
+            "absolute_frequency": 25,
+            "relative_frequency": 0.01763046544428773
+        }
+    ],
+    [
+        "P7084",
+        {
+            "en": "",
+            "nl": "gerelateerde categorie",
+            "absolute_frequency": 25,
+            "relative_frequency": 0.01763046544428773
+        }
+    ],
+    [
+        "P527",
+        {
+            "en": "",
+            "nl": "omvat deel",
+            "absolute_frequency": 25,
+            "relative_frequency": 0.01763046544428773
+        }
+    ],
+    [
+        "P5002",
+        {
+            "en": "",
+            "nl": "Orthodox Encyclopedia-identificatiecode",
+            "absolute_frequency": 24,
+            "relative_frequency": 0.01692524682651622
+        }
+    ],
+    [
+        "P3012",
+        {
+            "en": "",
+            "nl": "Statistics Canada-identificatiecode voor geografische eenheid",
+            "absolute_frequency": 24,
+            "relative_frequency": 0.01692524682651622
+        }
+    ],
+    [
+        "P821",
+        {
+            "en": "",
+            "nl": "CGNDB-identificatiecode",
+            "absolute_frequency": 24,
+            "relative_frequency": 0.01692524682651622
+        }
+    ],
+    [
+        "P6713",
+        {
+            "en": "",
+            "nl": "Australian War Memorial-identificatiecode",
+            "absolute_frequency": 24,
+            "relative_frequency": 0.01692524682651622
+        }
+    ],
+    [
+        "P8217",
+        {
+            "en": "",
+            "nl": "iDAI.gazetteer-identificatiecode",
+            "absolute_frequency": 23,
+            "relative_frequency": 0.01622002820874471
+        }
+    ],
+    [
+        "P2564",
+        {
+            "en": "",
+            "nl": "klimaatclassificatie van K\u00f6ppen",
+            "absolute_frequency": 23,
+            "relative_frequency": 0.01622002820874471
+        }
+    ],
+    [
+        "P11196",
+        {
+            "en": "",
+            "nl": "Baidu Tieba-identificatiecode voor onderwerp",
+            "absolute_frequency": 23,
+            "relative_frequency": 0.01622002820874471
+        }
+    ],
+    [
+        "P4046",
+        {
+            "en": "",
+            "nl": "SIMC-identificatiecode voor plaats",
+            "absolute_frequency": 23,
+            "relative_frequency": 0.01622002820874471
+        }
+    ],
+    [
+        "P1653",
+        {
+            "en": "",
+            "nl": "TERC-identificatiecode voor gemeente",
+            "absolute_frequency": 23,
+            "relative_frequency": 0.01622002820874471
+        }
+    ],
+    [
+        "P1813",
+        {
+            "en": "",
+            "nl": "verkorte naam",
+            "absolute_frequency": 22,
+            "relative_frequency": 0.015514809590973202
+        }
+    ],
+    [
+        "P9850",
+        {
+            "en": "",
+            "nl": "Enciclopedia dell'Arte Medievale-identificatiecode",
+            "absolute_frequency": 22,
+            "relative_frequency": 0.015514809590973202
+        }
+    ],
+    [
+        "P3198",
+        {
+            "en": "",
+            "nl": "JewishGen-identificatiecode voor plaats",
+            "absolute_frequency": 22,
+            "relative_frequency": 0.015514809590973202
+        }
+    ],
+    [
+        "P8034",
+        {
+            "en": "",
+            "nl": "VcBA-identificatiecode",
+            "absolute_frequency": 21,
+            "relative_frequency": 0.014809590973201692
+        }
+    ],
+    [
+        "P3847",
+        {
+            "en": "",
+            "nl": "Open Library-identificatiecode voor onderwerp",
+            "absolute_frequency": 21,
+            "relative_frequency": 0.014809590973201692
+        }
+    ],
+    [
+        "P6591",
+        {
+            "en": "",
+            "nl": "record van hoogste temperatuur",
+            "absolute_frequency": 21,
+            "relative_frequency": 0.014809590973201692
+        }
+    ],
+    [
+        "P6778",
+        {
+            "en": "OBO Gazetteer ID",
+            "nl": "OBO Gazetteer-identificatiecode",
+            "absolute_frequency": 20,
+            "relative_frequency": 0.014104372355430184
+        }
+    ],
+    [
+        "P11729",
+        {
+            "en": "",
+            "nl": "K\u00fclt\u00fcr Envanteri-identificatiecode",
+            "absolute_frequency": 20,
+            "relative_frequency": 0.014104372355430184
+        }
+    ],
+    [
+        "P9809",
+        {
+            "en": "",
+            "nl": "Enciclopedia dell'Arte Antica-identificatiecode",
+            "absolute_frequency": 20,
+            "relative_frequency": 0.014104372355430184
+        }
+    ],
+    [
+        "P4093",
+        {
+            "en": "",
+            "nl": "Australian Statistical Geography 2016-identificatiecode",
+            "absolute_frequency": 20,
+            "relative_frequency": 0.014104372355430184
+        }
+    ],
+    [
+        "P10112",
+        {
+            "en": "",
+            "nl": "Australian Statistical Geography 2021-identificatiecode",
+            "absolute_frequency": 20,
+            "relative_frequency": 0.014104372355430184
+        }
+    ],
+    [
+        "P271",
+        {
+            "en": "",
+            "nl": "CiNii-identificatiecode voor auteur van boek",
+            "absolute_frequency": 19,
+            "relative_frequency": 0.013399153737658674
+        }
+    ],
+    [
+        "P9123",
+        {
+            "en": "",
+            "nl": "Vikidia-identificatiecode voor Catalaans artikel",
+            "absolute_frequency": 19,
+            "relative_frequency": 0.013399153737658674
+        }
+    ],
+    [
+        "P7039",
+        {
+            "en": "",
+            "nl": "Nationale Bibliotheek van IJsland-identificatiecode",
+            "absolute_frequency": 19,
+            "relative_frequency": 0.013399153737658674
+        }
+    ],
+    [
+        "P8253",
+        {
+            "en": "",
+            "nl": "OpenStreetMap Name Suggestion Index-identificatiecode",
+            "absolute_frequency": 19,
+            "relative_frequency": 0.013399153737658674
+        }
+    ],
+    [
+        "P963",
+        {
+            "en": "",
+            "nl": "streaming media-url",
+            "absolute_frequency": 19,
+            "relative_frequency": 0.013399153737658674
+        }
+    ],
+    [
+        "P981",
+        {
+            "en": "",
+            "nl": "BAG-identificatiecode voor woonplaats",
+            "absolute_frequency": 19,
+            "relative_frequency": 0.013399153737658674
+        }
+    ],
+    [
+        "P10242",
+        {
+            "en": "",
+            "nl": "Lur Encyclopedisch Woordenboek-identificatiecode",
+            "absolute_frequency": 19,
+            "relative_frequency": 0.013399153737658674
+        }
+    ],
+    [
+        "P3118",
+        {
+            "en": "",
+            "nl": "OpenDomesday-identificatiecode voor nederzetting",
+            "absolute_frequency": 19,
+            "relative_frequency": 0.013399153737658674
+        }
+    ],
+    [
+        "P2927",
+        {
+            "en": "",
+            "nl": "procentueel aandeel wateroppervlakte",
+            "absolute_frequency": 18,
+            "relative_frequency": 0.012693935119887164
+        }
+    ],
+    [
+        "P902",
+        {
+            "en": "",
+            "nl": "HLS-identificatiecode",
+            "absolute_frequency": 18,
+            "relative_frequency": 0.012693935119887164
+        }
+    ],
+    [
+        "P9293",
+        {
+            "en": "",
+            "nl": "AIATSIS Place Thesaurus-identificatiecode",
+            "absolute_frequency": 18,
+            "relative_frequency": 0.012693935119887164
+        }
+    ],
+    [
+        "P4173",
+        {
+            "en": "",
+            "nl": "Instagram-identificatiecode voor locatie",
+            "absolute_frequency": 18,
+            "relative_frequency": 0.012693935119887164
+        }
+    ],
+    [
+        "P7293",
+        {
+            "en": "",
+            "nl": "PLWABN-identificatiecode",
+            "absolute_frequency": 18,
+            "relative_frequency": 0.012693935119887164
+        }
+    ],
+    [
+        "P4014",
+        {
+            "en": "",
+            "nl": "Australian Statistical Geography 2011-identificatiecode",
+            "absolute_frequency": 18,
+            "relative_frequency": 0.012693935119887164
+        }
+    ],
+    [
+        "P7127",
+        {
+            "en": "",
+            "nl": "AllTrails-identificatiecode voor pad",
+            "absolute_frequency": 17,
+            "relative_frequency": 0.011988716502115656
+        }
+    ],
+    [
+        "P6849",
+        {
+            "en": "",
+            "nl": "DR-identificatiecode voor onderwerp",
+            "absolute_frequency": 17,
+            "relative_frequency": 0.011988716502115656
+        }
+    ],
+    [
+        "P5456",
+        {
+            "en": "",
+            "nl": "TasteAtlas-identificatiecode",
+            "absolute_frequency": 17,
+            "relative_frequency": 0.011988716502115656
+        }
+    ],
+    [
+        "P8988",
+        {
+            "en": "",
+            "nl": "Mapy.cz-identificatiecode",
+            "absolute_frequency": 17,
+            "relative_frequency": 0.011988716502115656
+        }
+    ],
+    [
+        "P4986",
+        {
+            "en": "",
+            "nl": "Routard.com-identificatiecode voor plaats",
+            "absolute_frequency": 17,
+            "relative_frequency": 0.011988716502115656
+        }
+    ],
+    [
+        "P11958",
+        {
+            "en": "",
+            "nl": "Marokkaanse geografie-identificatiecode (2015)",
+            "absolute_frequency": 17,
+            "relative_frequency": 0.011988716502115656
+        }
+    ],
+    [
+        "P9878",
+        {
+            "en": "",
+            "nl": "Encyclopedie van de Islam (1e editie)-identificatiecode",
+            "absolute_frequency": 17,
+            "relative_frequency": 0.011988716502115656
+        }
+    ],
+    [
+        "P7870",
+        {
+            "en": "",
+            "nl": "Analysis & Policy Observatory-identificatiecode voor term",
+            "absolute_frequency": 16,
+            "relative_frequency": 0.011283497884344146
+        }
+    ],
+    [
+        "P8569",
+        {
+            "en": "",
+            "nl": "YIVO Encyclopedia of Jews in Eastern Europe-identificatiecode",
+            "absolute_frequency": 16,
+            "relative_frequency": 0.011283497884344146
+        }
+    ],
+    [
+        "P2238",
+        {
+            "en": "",
+            "nl": "officieel symbool",
+            "absolute_frequency": 16,
+            "relative_frequency": 0.011283497884344146
+        }
+    ],
+    [
+        "P11496",
+        {
+            "en": "",
+            "nl": "CiNii Research-identificatiecode",
+            "absolute_frequency": 16,
+            "relative_frequency": 0.011283497884344146
+        }
+    ],
+    [
+        "P9318",
+        {
+            "en": "",
+            "nl": "\u00c1vvir-identificatiecode voor onderwerp",
+            "absolute_frequency": 16,
+            "relative_frequency": 0.011283497884344146
+        }
+    ],
+    [
+        "P9863",
+        {
+            "en": "",
+            "nl": "Gujarati Vishwakosh-identificatiecode",
+            "absolute_frequency": 16,
+            "relative_frequency": 0.011283497884344146
+        }
+    ],
+    [
+        "P7422",
+        {
+            "en": "",
+            "nl": "record van laagste temperatuur",
+            "absolute_frequency": 16,
+            "relative_frequency": 0.011283497884344146
+        }
+    ],
+    [
+        "P3348",
+        {
+            "en": "",
+            "nl": "NLG-identificatiecode",
+            "absolute_frequency": 15,
+            "relative_frequency": 0.010578279266572637
+        }
+    ],
+    [
+        "P610",
+        {
+            "en": "",
+            "nl": "hoogste punt",
+            "absolute_frequency": 15,
+            "relative_frequency": 0.010578279266572637
+        }
+    ],
+    [
+        "P85",
+        {
+            "en": "",
+            "nl": "volkslied",
+            "absolute_frequency": 15,
+            "relative_frequency": 0.010578279266572637
+        }
+    ],
+    [
+        "P1368",
+        {
+            "en": "",
+            "nl": "LNB-identificatiecode",
+            "absolute_frequency": 15,
+            "relative_frequency": 0.010578279266572637
+        }
+    ],
+    [
+        "P757",
+        {
+            "en": "",
+            "nl": "UNESCO-identificatiecode",
+            "absolute_frequency": 15,
+            "relative_frequency": 0.010578279266572637
+        }
+    ],
+    [
+        "P9322",
+        {
+            "en": "",
+            "nl": "SVKKL-identificatiecode voor autoriteit",
+            "absolute_frequency": 15,
+            "relative_frequency": 0.010578279266572637
+        }
+    ],
+    [
+        "P442",
+        {
+            "en": "",
+            "nl": "Chinees bestuurlijk gebied-identificatiecode",
+            "absolute_frequency": 15,
+            "relative_frequency": 0.010578279266572637
+        }
+    ],
+    [
+        "P7678",
+        {
+            "en": "",
+            "nl": "Wikimapia-identificatiecode",
+            "absolute_frequency": 15,
+            "relative_frequency": 0.010578279266572637
+        }
+    ],
+    [
+        "P968",
+        {
+            "en": "",
+            "nl": "e-mailadres",
+            "absolute_frequency": 15,
+            "relative_frequency": 0.010578279266572637
+        }
+    ],
+    [
+        "P7938",
+        {
+            "en": "",
+            "nl": "geassocieerde kieskring",
+            "absolute_frequency": 15,
+            "relative_frequency": 0.010578279266572637
+        }
+    ],
+    [
+        "P613",
+        {
+            "en": "",
+            "nl": "OS-gridlocatie",
+            "absolute_frequency": 15,
+            "relative_frequency": 0.010578279266572637
+        }
+    ],
+    [
+        "P485",
+        {
+            "en": "",
+            "nl": "archieflocatie",
+            "absolute_frequency": 14,
+            "relative_frequency": 0.009873060648801129
+        }
+    ],
+    [
+        "P9368",
+        {
+            "en": "",
+            "nl": "CNA-identificatiecode voor onderwerp",
+            "absolute_frequency": 14,
+            "relative_frequency": 0.009873060648801129
+        }
+    ],
+    [
+        "P10652",
+        {
+            "en": "",
+            "nl": "International Jewish Cemetery Project-identificatiecode",
+            "absolute_frequency": 14,
+            "relative_frequency": 0.009873060648801129
+        }
+    ],
+    [
+        "P5252",
+        {
+            "en": "",
+            "nl": "winteraanzicht",
+            "absolute_frequency": 14,
+            "relative_frequency": 0.009873060648801129
+        }
+    ],
+    [
+        "P2872",
+        {
+            "en": "",
+            "nl": "toerismebureau",
+            "absolute_frequency": 14,
+            "relative_frequency": 0.009873060648801129
+        }
+    ],
+    [
+        "P9734",
+        {
+            "en": "",
+            "nl": "Enciclopedia Dantesca-identificatiecode",
+            "absolute_frequency": 14,
+            "relative_frequency": 0.009873060648801129
+        }
+    ],
+    [
+        "P3466",
+        {
+            "en": "",
+            "nl": "Isra\u00eblische gemeente-identificatiecode",
+            "absolute_frequency": 14,
+            "relative_frequency": 0.009873060648801129
+        }
+    ],
+    [
+        "P3627",
+        {
+            "en": "",
+            "nl": "Survey of English Place-Names-identificatiecode",
+            "absolute_frequency": 14,
+            "relative_frequency": 0.009873060648801129
+        }
+    ],
+    [
+        "P10235",
+        {
+            "en": "LocalWiki ID",
+            "nl": "LocalWiki-identificatiecode",
+            "absolute_frequency": 13,
+            "relative_frequency": 0.009167842031029619
+        }
+    ],
+    [
+        "P9106",
+        {
+            "en": "",
+            "nl": "Oxford Classical Dictionary-identificatiecode",
+            "absolute_frequency": 13,
+            "relative_frequency": 0.009167842031029619
+        }
+    ],
+    [
+        "P2503",
+        {
+            "en": "",
+            "nl": "GOV-identificatiecode",
+            "absolute_frequency": 13,
+            "relative_frequency": 0.009167842031029619
+        }
+    ],
+    [
+        "P9886",
+        {
+            "en": "",
+            "nl": "TermCymru-identificatiecode",
+            "absolute_frequency": 13,
+            "relative_frequency": 0.009167842031029619
+        }
+    ],
+    [
+        "P155",
+        {
+            "en": "",
+            "nl": "vorige",
+            "absolute_frequency": 13,
+            "relative_frequency": 0.009167842031029619
+        }
+    ],
+    [
+        "P772",
+        {
+            "en": "",
+            "nl": "Spaanse gemeente-identificatiecode",
+            "absolute_frequency": 13,
+            "relative_frequency": 0.009167842031029619
+        }
+    ],
+    [
+        "P9198",
+        {
+            "en": "",
+            "nl": "Encyclop\u00e9die berb\u00e8re-identificatiecode voor artikel",
+            "absolute_frequency": 13,
+            "relative_frequency": 0.009167842031029619
+        }
+    ],
+    [
+        "P6802",
+        {
+            "en": "",
+            "nl": "gerelateerde afbeelding",
+            "absolute_frequency": 13,
+            "relative_frequency": 0.009167842031029619
+        }
+    ],
+    [
+        "P11686",
+        {
+            "en": "",
+            "nl": "Universiteit van Barcelona-identificatiecode voor autoriteit",
+            "absolute_frequency": 12,
+            "relative_frequency": 0.00846262341325811
+        }
+    ],
+    [
+        "P3633",
+        {
+            "en": "",
+            "nl": "British Museum-identificatiecode voor plaats",
+            "absolute_frequency": 12,
+            "relative_frequency": 0.00846262341325811
+        }
+    ],
+    [
+        "P6385",
+        {
+            "en": "",
+            "nl": "Krugosvet-identificatiecode voor artikel",
+            "absolute_frequency": 12,
+            "relative_frequency": 0.00846262341325811
+        }
+    ],
+    [
+        "P9807",
+        {
+            "en": "",
+            "nl": "Slowaakse Nationale Bibliotheek-identificatiecode",
+            "absolute_frequency": 12,
+            "relative_frequency": 0.00846262341325811
+        }
+    ],
+    [
+        "P9000",
+        {
+            "en": "",
+            "nl": "Ancient History Encyclopedia-identificatiecode",
+            "absolute_frequency": 12,
+            "relative_frequency": 0.00846262341325811
+        }
+    ],
+    [
+        "P9475",
+        {
+            "en": "",
+            "nl": "Encyclopedie van de Koreaanse Cultuur-identificatiecode",
+            "absolute_frequency": 12,
+            "relative_frequency": 0.00846262341325811
+        }
+    ],
+    [
+        "P1766",
+        {
+            "en": "",
+            "nl": "plaatsnaambord",
+            "absolute_frequency": 12,
+            "relative_frequency": 0.00846262341325811
+        }
+    ],
+    [
+        "P2561",
+        {
+            "en": "",
+            "nl": "naam",
+            "absolute_frequency": 12,
+            "relative_frequency": 0.00846262341325811
+        }
+    ],
+    [
+        "P4264",
+        {
+            "en": "",
+            "nl": "LinkedIn-identificatiecode voor onderneming",
+            "absolute_frequency": 12,
+            "relative_frequency": 0.00846262341325811
+        }
+    ],
+    [
+        "P4161",
+        {
+            "en": "",
+            "nl": "Michelin Voyages-identificatiecode",
+            "absolute_frequency": 12,
+            "relative_frequency": 0.00846262341325811
+        }
+    ],
+    [
+        "P7369",
+        {
+            "en": "",
+            "nl": "Nationale Bibliotheek van Chili-identificatiecode",
+            "absolute_frequency": 12,
+            "relative_frequency": 0.00846262341325811
+        }
+    ],
+    [
+        "P4115",
+        {
+            "en": "",
+            "nl": "INSPIRE-identificatiecode",
+            "absolute_frequency": 12,
+            "relative_frequency": 0.00846262341325811
+        }
+    ],
+    [
+        "P10326",
+        {
+            "en": "ICPSR Geographic Names Thesaurus ID",
+            "nl": "ICPSR Geographic Names Thesaurus-identificatiecode",
+            "absolute_frequency": 11,
+            "relative_frequency": 0.007757404795486601
+        }
+    ],
+    [
+        "P1278",
+        {
+            "en": "",
+            "nl": "Legal Entity Identifier-identificatiecode",
+            "absolute_frequency": 11,
+            "relative_frequency": 0.007757404795486601
+        }
+    ],
+    [
+        "P8138",
+        {
+            "en": "",
+            "nl": "gelegen in de statistische territoriale entiteit",
+            "absolute_frequency": 11,
+            "relative_frequency": 0.007757404795486601
+        }
+    ],
+    [
+        "P11835",
+        {
+            "en": "",
+            "nl": "Numista-identificatiecode voor regerende autoriteit",
+            "absolute_frequency": 11,
+            "relative_frequency": 0.007757404795486601
+        }
+    ],
+    [
+        "P4004",
+        {
+            "en": "",
+            "nl": "schildafbeelding",
+            "absolute_frequency": 11,
+            "relative_frequency": 0.007757404795486601
+        }
+    ],
+    [
+        "P276",
+        {
+            "en": "",
+            "nl": "locatie",
+            "absolute_frequency": 11,
+            "relative_frequency": 0.007757404795486601
+        }
+    ],
+    [
+        "P501",
+        {
+            "en": "",
+            "nl": "enclave binnen",
+            "absolute_frequency": 11,
+            "relative_frequency": 0.007757404795486601
+        }
+    ],
+    [
+        "P156",
+        {
+            "en": "",
+            "nl": "volgende",
+            "absolute_frequency": 11,
+            "relative_frequency": 0.007757404795486601
+        }
+    ],
+    [
+        "P2477",
+        {
+            "en": "",
+            "nl": "TBRC Resource-identificatiecode",
+            "absolute_frequency": 11,
+            "relative_frequency": 0.007757404795486601
+        }
+    ],
+    [
+        "P1383",
+        {
+            "en": "",
+            "nl": "omvat plaats",
+            "absolute_frequency": 11,
+            "relative_frequency": 0.007757404795486601
+        }
+    ],
+    [
+        "P1814",
+        {
+            "en": "",
+            "nl": "naam in Kana",
+            "absolute_frequency": 11,
+            "relative_frequency": 0.007757404795486601
+        }
+    ],
+    [
+        "P1329",
+        {
+            "en": "",
+            "nl": "telefoonnummer",
+            "absolute_frequency": 11,
+            "relative_frequency": 0.007757404795486601
+        }
+    ],
+    [
+        "P576",
+        {
+            "en": "",
+            "nl": "datum van opheffing",
+            "absolute_frequency": 11,
+            "relative_frequency": 0.007757404795486601
+        }
+    ],
+    [
+        "P10376",
+        {
+            "en": "ScienceDirect topic ID",
+            "nl": "ScienceDirect-identificatiecode voor onderwerp",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P5247",
+        {
+            "en": "",
+            "nl": "Giant Bomb-identificatiecode",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P6265",
+        {
+            "en": "",
+            "nl": "Mindat-identificatiecode voor plaats",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P10234",
+        {
+            "en": "",
+            "nl": "Der Spiegel-identificatiecode voor onderwerp",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P5395",
+        {
+            "en": "",
+            "nl": "Canadian Encyclopedia-identificatiecode voor artikel",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P3569",
+        {
+            "en": "",
+            "nl": "Cultureel Woordenboek-identificatiecode",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P1015",
+        {
+            "en": "",
+            "nl": "BIBSYS-identificatiecode",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P9975",
+        {
+            "en": "",
+            "nl": "Vokroug sveta-identificatiecode voor artikel",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P4239",
+        {
+            "en": "",
+            "nl": "gevocaliseerde naam",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P5034",
+        {
+            "en": "",
+            "nl": "KRNLK-identificatiecode",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P3846",
+        {
+            "en": "",
+            "nl": "DBC-identificatiecode voor auteur",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P1320",
+        {
+            "en": "",
+            "nl": "OpenCorporates-identificatiecode voor bedrijf",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P5901",
+        {
+            "en": "",
+            "nl": "districtsnummer",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P1545",
+        {
+            "en": "",
+            "nl": "volgnummer",
+            "absolute_frequency": 10,
+            "relative_frequency": 0.007052186177715092
+        }
+    ],
+    [
+        "P4272",
+        {
+            "en": "DPLA subject term",
+            "nl": "DPLA-identificatiecode voor onderwerp",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P3106",
+        {
+            "en": "",
+            "nl": "Guardian-identificatiecode voor onderwerp",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P973",
+        {
+            "en": "",
+            "nl": "beschreven op URL",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P2354",
+        {
+            "en": "",
+            "nl": "lijst van onderwerp",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P3479",
+        {
+            "en": "",
+            "nl": "Omni-identificatiecode voor onderwerp",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P6363",
+        {
+            "en": "",
+            "nl": "WordLift-identificatiecode",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P11620",
+        {
+            "en": "",
+            "nl": "Hongaarse Nationale Naamruimte-identificatiecode voor plaats (nieuw)",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P1968",
+        {
+            "en": "",
+            "nl": "Foursquare-identificatiecode voor plaats",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P1081",
+        {
+            "en": "",
+            "nl": "Human Development Index",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P1207",
+        {
+            "en": "",
+            "nl": "NUKAT-identificatiecode",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P3608",
+        {
+            "en": "",
+            "nl": "Europees BTW-nummer",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P5400",
+        {
+            "en": "",
+            "nl": "GeoNLP-identificatiecode",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P9346",
+        {
+            "en": "",
+            "nl": "France24-identificatiecode voor onderwerp in het Frans",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P439",
+        {
+            "en": "",
+            "nl": "Duitse gemeente-identificatiecode",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P5020",
+        {
+            "en": "",
+            "nl": "Registratie- en dienstinformatiesysteem voor huishoudens (Taiwan)-identificatiecode",
+            "absolute_frequency": 9,
+            "relative_frequency": 0.006346967559943582
+        }
+    ],
+    [
+        "P6987",
+        {
+            "en": "",
+            "nl": "Hongaarse Nationale Naamruimte-identificatiecode voor plaats",
+            "absolute_frequency": 8,
+            "relative_frequency": 0.005641748942172073
+        }
+    ],
+    [
+        "P2468",
+        {
+            "en": "",
+            "nl": "Theatricalia-identificatiecode voor theater",
+            "absolute_frequency": 8,
+            "relative_frequency": 0.005641748942172073
+        }
+    ],
+    [
+        "P5125",
+        {
+            "en": "",
+            "nl": "structuurartikel in Wikimedia",
+            "absolute_frequency": 8,
+            "relative_frequency": 0.005641748942172073
+        }
+    ],
+    [
+        "P9736",
+        {
+            "en": "",
+            "nl": "MANTO-identificatiecode",
+            "absolute_frequency": 8,
+            "relative_frequency": 0.005641748942172073
+        }
+    ],
+    [
+        "P9885",
+        {
+            "en": "",
+            "nl": "Bing-identificatiecode voor entiteit",
+            "absolute_frequency": 8,
+            "relative_frequency": 0.005641748942172073
+        }
+    ],
+    [
+        "P440",
+        {
+            "en": "",
+            "nl": "Landkreis Duitsland-identificatiecode",
+            "absolute_frequency": 8,
+            "relative_frequency": 0.005641748942172073
+        }
+    ],
+    [
+        "P8669",
+        {
+            "en": "",
+            "nl": "Encyclopaedia Beliana-identificatiecode",
+            "absolute_frequency": 8,
+            "relative_frequency": 0.005641748942172073
+        }
+    ],
+    [
+        "P1412",
+        {
+            "en": "",
+            "nl": "taalbeheersing",
+            "absolute_frequency": 8,
+            "relative_frequency": 0.005641748942172073
+        }
+    ],
+    [
+        "P2427",
+        {
+            "en": "",
+            "nl": "GRID-identificatiecode",
+            "absolute_frequency": 8,
+            "relative_frequency": 0.005641748942172073
+        }
+    ],
+    [
+        "P6782",
+        {
+            "en": "",
+            "nl": "ROR-identificatiecode",
+            "absolute_frequency": 8,
+            "relative_frequency": 0.005641748942172073
+        }
+    ],
+    [
+        "P3788",
+        {
+            "en": "",
+            "nl": "BNA-identificatiecode voor auteur",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P1315",
+        {
+            "en": "",
+            "nl": "Trove-identificatiecode",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P486",
+        {
+            "en": "",
+            "nl": "MeSH-identificatiecode voor descriptor",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P11764",
+        {
+            "en": "",
+            "nl": "Britannica Kids-identificatiecode voor artikel op studentenniveau",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P11762",
+        {
+            "en": "",
+            "nl": "Britannica Kids-identificatiecode voor artikel op kindniveau",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P11765",
+        {
+            "en": "",
+            "nl": "Britannica Kids-identificatiecode voor artikel op geleerdeniveau",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P3509",
+        {
+            "en": "",
+            "nl": "Dagens Nyheter-identificatiecode voor onderwerp",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P7846",
+        {
+            "en": "",
+            "nl": "Beta ma\u1e63\u0101\u1e25\u01ddft-identificatiecode",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P9937",
+        {
+            "en": "",
+            "nl": "Postimees-identificatiecode voor onderwerp",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P8432",
+        {
+            "en": "",
+            "nl": "\u00d6sterreichisches Musiklexikon Online-identificatiecode",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P1944",
+        {
+            "en": "",
+            "nl": "positiekaart met relief",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P3021",
+        {
+            "en": "",
+            "nl": "Iranica-identificatiecode",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P10283",
+        {
+            "en": "",
+            "nl": "OpenAlex-identificatiecode",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P3225",
+        {
+            "en": "",
+            "nl": "Japans bedrijf-identificatiecode",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P429",
+        {
+            "en": "",
+            "nl": "dantai-identificatiecode",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P7325",
+        {
+            "en": "",
+            "nl": "DANE-identificatiecode",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P3257",
+        {
+            "en": "",
+            "nl": "Queensland-identificatiecode voor plaats",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P836",
+        {
+            "en": "",
+            "nl": "GSS-identificatiecode (2011)",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P9862",
+        {
+            "en": "",
+            "nl": "Encyclopedie van de Islam-identificatiecode (tweede editie)",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P5578",
+        {
+            "en": "",
+            "nl": "Indiase census-identificatiecode voor gebied (2011)",
+            "absolute_frequency": 7,
+            "relative_frequency": 0.004936530324400564
+        }
+    ],
+    [
+        "P774",
+        {
+            "en": "FIPS 55-3 (locations in the US)",
+            "nl": "FIPS 55-3-identificatiecode",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P9272",
+        {
+            "en": "",
+            "nl": "DeCS-identificatiecode",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P590",
+        {
+            "en": "",
+            "nl": "GNIS-identificatiecode",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P6839",
+        {
+            "en": "",
+            "nl": "TV Tropes-identificatiecode",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P10622",
+        {
+            "en": "",
+            "nl": "inkomen per hoofd van de bevolking",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P2892",
+        {
+            "en": "",
+            "nl": "UMLS CUI-identificatiecode",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P9765",
+        {
+            "en": "",
+            "nl": "Grote Oekra\u00efense Encyclopedie-identificatiecode",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P2037",
+        {
+            "en": "",
+            "nl": "GitHub-gebruikersnaam",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P5785",
+        {
+            "en": "",
+            "nl": "EU Research-identificatiecode voor deelnemer",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P11897",
+        {
+            "en": "",
+            "nl": "World Geographical Scheme for Recording Plant Distributions-identificatiecode",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P38",
+        {
+            "en": "",
+            "nl": "valuta",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P1552",
+        {
+            "en": "",
+            "nl": "gekarakteriseerd door",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P2789",
+        {
+            "en": "",
+            "nl": "sluit aan op",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P8933",
+        {
+            "en": "",
+            "nl": "categorie voor uitzicht van item",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P5492",
+        {
+            "en": "",
+            "nl": "EDIT16-catalogus-identificatiecode voor auteur",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P396",
+        {
+            "en": "",
+            "nl": "SBN-identificatiecode voor auteur",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P10480",
+        {
+            "en": "",
+            "nl": "symogih.org-identificatiecode",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P6703",
+        {
+            "en": "",
+            "nl": "Shanghai Library-identificatiecode voor plaats",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P4802",
+        {
+            "en": "",
+            "nl": "BVPB-identificatiecode",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P782",
+        {
+            "en": "",
+            "nl": "LAU-identificatiecode",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P6751",
+        {
+            "en": "",
+            "nl": "Erfgoed Gazetteer van Libi\u00eb-identificatiecode",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P5104",
+        {
+            "en": "",
+            "nl": "New Zealand Gazetteer-identificatiecode voor plaats",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P1454",
+        {
+            "en": "",
+            "nl": "rechtsvorm",
+            "absolute_frequency": 6,
+            "relative_frequency": 0.004231311706629055
+        }
+    ],
+    [
+        "P1273",
+        {
+            "en": "",
+            "nl": "CANTIC-identificatiecode (oud)",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P4073",
+        {
+            "en": "",
+            "nl": "Wikia-identificatiecode voor wiki",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P4440",
+        {
+            "en": "",
+            "nl": "Bibilioth\u00e8que nationale du Mexique-identificatiecode",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P648",
+        {
+            "en": "",
+            "nl": "Open Library-identificatiecode",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P1017",
+        {
+            "en": "",
+            "nl": "BAV-identificatiecode",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P1670",
+        {
+            "en": "",
+            "nl": "LAC-identificatiecode",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P474",
+        {
+            "en": "",
+            "nl": "landnummer in de telefonie",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P2131",
+        {
+            "en": "",
+            "nl": "bruto binnenlands product",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P8975",
+        {
+            "en": "",
+            "nl": "Manus Online-identificatiecode voor auteur",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P210",
+        {
+            "en": "",
+            "nl": "partijleider",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P1014",
+        {
+            "en": "",
+            "nl": "Art & Architecture Thesaurus-identificatiecode",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P3941",
+        {
+            "en": "",
+            "nl": "Isra\u00eblische Antiquiteiten Autoriteit-identificatiecode",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P3220",
+        {
+            "en": "",
+            "nl": "KvK-nummer",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P382",
+        {
+            "en": "",
+            "nl": "CBS-gemeentecode",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P6434",
+        {
+            "en": "",
+            "nl": "Amsterdamse code",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P11767",
+        {
+            "en": "",
+            "nl": "TOOI-identificatiecode voor organisatie",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P9070",
+        {
+            "en": "",
+            "nl": "Internetencyclopedie van Oekra\u00efne-identificatiecode",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P2769",
+        {
+            "en": "",
+            "nl": "budget",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P6081",
+        {
+            "en": "",
+            "nl": "RIA Novosti-identificatiecode",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P1203",
+        {
+            "en": "",
+            "nl": "Finse gemeente-identificatiecode",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P8137",
+        {
+            "en": "",
+            "nl": "Inventaris van archa\u00efsche en klassieke poleis-identificatiecode",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P580",
+        {
+            "en": "",
+            "nl": "begindatum",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P8472",
+        {
+            "en": "",
+            "nl": "Encyclopedie berbere-identificatiecode voor sleutelwoord",
+            "absolute_frequency": 5,
+            "relative_frequency": 0.003526093088857546
+        }
+    ],
+    [
+        "P1188",
+        {
+            "en": "Dharma Drum Institute of Liberal Arts place ID",
+            "nl": "Dharma Drum Buddhist College-identificatiecode voor plaats",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P418",
+        {
+            "en": "",
+            "nl": "zegelbeschrijving",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P3347",
+        {
+            "en": "",
+            "nl": "Perm-identificatiecode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P3280",
+        {
+            "en": "",
+            "nl": "BanQ-identificatiecode voor auteur",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P7271",
+        {
+            "en": "",
+            "nl": "Hiking Project-identificatiecode voor gebied",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P8667",
+        {
+            "en": "",
+            "nl": "tweelingstadbord",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P1325",
+        {
+            "en": "",
+            "nl": "externe gegevensset",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P5437",
+        {
+            "en": "",
+            "nl": "EuroVoc-identificatiecode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P6104",
+        {
+            "en": "",
+            "nl": "onderhouden door wikiproject",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P8636",
+        {
+            "en": "",
+            "nl": "McClintock and Strong Biblical Cyclopedia-identificatiecode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P2250",
+        {
+            "en": "",
+            "nl": "levensverwachting",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P1005",
+        {
+            "en": "",
+            "nl": "PTBNP-identificatiecode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P8935",
+        {
+            "en": "",
+            "nl": "Encyclopedie van de geschiedenis van Oekra\u00efne-identificatiecode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P4427",
+        {
+            "en": "",
+            "nl": "GACS-identificatiecode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P4813",
+        {
+            "en": "",
+            "nl": "PARES-identificatiecode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P11715",
+        {
+            "en": "",
+            "nl": "Federiciana-identificatiecode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P1116",
+        {
+            "en": "",
+            "nl": "Kallikratis-identificatiecode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P1388",
+        {
+            "en": "",
+            "nl": "Duitse regionale sleutel",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P9291",
+        {
+            "en": "",
+            "nl": "Eesti ents\u00fcklopeedia-identificatiecode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P1588",
+        {
+            "en": "",
+            "nl": "desacode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P2588",
+        {
+            "en": "",
+            "nl": "Indonesische plaats-identificatiecode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P6375",
+        {
+            "en": "",
+            "nl": "adres",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P3472",
+        {
+            "en": "",
+            "nl": "VICNAMES-identificatiecode voor plaats",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P764",
+        {
+            "en": "",
+            "nl": "OKTMO-identificatiecode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P721",
+        {
+            "en": "",
+            "nl": "OKATO-identificatiecode",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P7350",
+        {
+            "en": "",
+            "nl": "Gazetteer for Scotland-identificatiecode voor plaats",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P175",
+        {
+            "en": "",
+            "nl": "uitvoerend artiest",
+            "absolute_frequency": 4,
+            "relative_frequency": 0.0028208744710860366
+        }
+    ],
+    [
+        "P672",
+        {
+            "en": "MeSH tree code",
+            "nl": "\u200eMeSH-code",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P7157",
+        {
+            "en": "",
+            "nl": "The Top Tens-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P8895",
+        {
+            "en": "",
+            "nl": "All the Tropes-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P7284",
+        {
+            "en": "",
+            "nl": "The Independent-identificatiecode voor onderwerp",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P2390",
+        {
+            "en": "",
+            "nl": "Ballotpedia-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P912",
+        {
+            "en": "",
+            "nl": "faciliteit",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P8246",
+        {
+            "en": "",
+            "nl": "Natural Atlas-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P5357",
+        {
+            "en": "",
+            "nl": "The Encyclopedia of Science Fiction-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P11946",
+        {
+            "en": "",
+            "nl": "Mythoskop-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P3911",
+        {
+            "en": "",
+            "nl": "STW Thesaurus for Economics-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P6379",
+        {
+            "en": "",
+            "nl": "werken in collectie",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P1299",
+        {
+            "en": "",
+            "nl": "afgebeeld in",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P11386",
+        {
+            "en": "",
+            "nl": "Listal.com-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P882",
+        {
+            "en": "",
+            "nl": "FIPS 6-4-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P1831",
+        {
+            "en": "",
+            "nl": "electoraat",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P6555",
+        {
+            "en": "",
+            "nl": "Braziliaanse verkiezingseenheid-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P1585",
+        {
+            "en": "",
+            "nl": "Braziliaanse gemeente-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P3789",
+        {
+            "en": "",
+            "nl": "Telegram-gebruikersnaam",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P1695",
+        {
+            "en": "",
+            "nl": "NLP-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P9871",
+        {
+            "en": "",
+            "nl": "INAPP-identificatiecode voor auteur",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P3006",
+        {
+            "en": "",
+            "nl": "Marine Geografische Regio's-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P2884",
+        {
+            "en": "",
+            "nl": "netspanning",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P140",
+        {
+            "en": "",
+            "nl": "religie of wereldbeeld",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P3221",
+        {
+            "en": "",
+            "nl": "NYT-identificatiecode voor onderwerp",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P5698",
+        {
+            "en": "",
+            "nl": "Invasive Species Compendium Datasheet-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P2283",
+        {
+            "en": "",
+            "nl": "gebruikt",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P3422",
+        {
+            "en": "",
+            "nl": "INSEE-identificatiecode voor land of overzees territorium",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P1589",
+        {
+            "en": "",
+            "nl": "diepste punt",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P3068",
+        {
+            "en": "",
+            "nl": "WIPO ST.3-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P832",
+        {
+            "en": "",
+            "nl": "wettelijke feestdag",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P6520",
+        {
+            "en": "",
+            "nl": "Lokalhistoriewiki-identificatiecode voor artikel",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P1546",
+        {
+            "en": "",
+            "nl": "motto",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P1382",
+        {
+            "en": "",
+            "nl": "overlapt met",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P3836",
+        {
+            "en": "",
+            "nl": "Pinterest-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P4854",
+        {
+            "en": "",
+            "nl": "Uppslagsverket Finland-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P1711",
+        {
+            "en": "",
+            "nl": "British Museum-identificatiecode voor persoon of organisatie",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P8483",
+        {
+            "en": "",
+            "nl": "PM20-identificatiecode voor geografisch gebied",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P742",
+        {
+            "en": "",
+            "nl": "pseudoniem",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P528",
+        {
+            "en": "",
+            "nl": "catalogusnummer",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P4098",
+        {
+            "en": "",
+            "nl": "BVMC-identificatiecode voor lokatie",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P3430",
+        {
+            "en": "",
+            "nl": "SNAC-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P5555",
+        {
+            "en": "",
+            "nl": "schematische weergave",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P5760",
+        {
+            "en": "",
+            "nl": "Petit Fut\u00e9-identificatiecode voor site",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P6929",
+        {
+            "en": "",
+            "nl": "CUT-identificatiecode voor bestuurlijk gebied",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P7153",
+        {
+            "en": "",
+            "nl": "relevante plaats",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P1850",
+        {
+            "en": "",
+            "nl": "SSR-identificatiecode voor plaatsnaam",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P9601",
+        {
+            "en": "",
+            "nl": "offici\u00eble kaart-URL",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P843",
+        {
+            "en": "",
+            "nl": "SIRUTA-identificatiecode",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P5260",
+        {
+            "en": "",
+            "nl": "App Store-identificatiecode voor ontwikkelaar",
+            "absolute_frequency": 3,
+            "relative_frequency": 0.0021156558533145277
+        }
+    ],
+    [
+        "P1430",
+        {
+            "en": "Open Plaques subject ID",
+            "nl": "Open Plaques-identificatiecode voor onderwerp",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3393",
+        {
+            "en": "LittleSis organization ID",
+            "nl": "LittleSis-identificatiecode voor organisatie",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P8887",
+        {
+            "en": "water area",
+            "nl": "wateroppervlak van land",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P6680",
+        {
+            "en": "",
+            "nl": "MESH-identificatiecode voor term",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3403",
+        {
+            "en": "",
+            "nl": "gebiedsgelijk aan",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P6694",
+        {
+            "en": "",
+            "nl": "MESH-identificatiecode voor concept",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P2670",
+        {
+            "en": "",
+            "nl": "bestaat uit",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P8651",
+        {
+            "en": "",
+            "nl": "Open Civic Data Division-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P8400",
+        {
+            "en": "",
+            "nl": "House Divided-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P8625",
+        {
+            "en": "",
+            "nl": "bibliografie",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P4725",
+        {
+            "en": "",
+            "nl": "C-SPAN-identificatiecode voor organisatie",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P11194",
+        {
+            "en": "",
+            "nl": "Famous Birthdays-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3761",
+        {
+            "en": "",
+            "nl": "IPv4-range",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P9466",
+        {
+            "en": "",
+            "nl": "Gyldendals Teaterleksikon-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P238",
+        {
+            "en": "",
+            "nl": "IATA-identificatiecode voor luchthaven",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P9943",
+        {
+            "en": "",
+            "nl": "Hill Museum & Manuscript Library-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P1871",
+        {
+            "en": "",
+            "nl": "CERL-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P297",
+        {
+            "en": "",
+            "nl": "ISO 3166-1 alpha-2-landcode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P984",
+        {
+            "en": "",
+            "nl": "IOC-landcode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P172",
+        {
+            "en": "",
+            "nl": "etnische groep",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P9948",
+        {
+            "en": "",
+            "nl": "The World Factbook-identificatiecode voor land",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3529",
+        {
+            "en": "",
+            "nl": "mediaan inkomen",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P78",
+        {
+            "en": "",
+            "nl": "topleveldomein",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P2997",
+        {
+            "en": "",
+            "nl": "meerderjarigheid",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P1198",
+        {
+            "en": "",
+            "nl": "werkloosheidspercentage",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P2853",
+        {
+            "en": "",
+            "nl": "stekkertype",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3916",
+        {
+            "en": "",
+            "nl": "UNESCO Thesaurus-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3067",
+        {
+            "en": "",
+            "nl": "GS1-landcode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P5250",
+        {
+            "en": "",
+            "nl": "IAB-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P4801",
+        {
+            "en": "",
+            "nl": "LoC and MARC-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P8328",
+        {
+            "en": "",
+            "nl": "democratie-index",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3000",
+        {
+            "en": "",
+            "nl": "huwelijksleeftijd",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P122",
+        {
+            "en": "",
+            "nl": "regeringsvorm",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P2596",
+        {
+            "en": "",
+            "nl": "cultuur",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P8365",
+        {
+            "en": "",
+            "nl": "Thesaurus Sozialwissenschaften-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P2852",
+        {
+            "en": "",
+            "nl": "alarmnummer",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3175",
+        {
+            "en": "",
+            "nl": "Statoids-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3612",
+        {
+            "en": "",
+            "nl": "Le Monde-identificatiecode voor diplomatiek onderwerp",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P298",
+        {
+            "en": "",
+            "nl": "ISO 3166-1 alpha-3-landcode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P11593",
+        {
+            "en": "",
+            "nl": "ongelijkheid-gecorrigeerde menselijke ontwikkelingsindex",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P1304",
+        {
+            "en": "",
+            "nl": "centrale bank",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P35",
+        {
+            "en": "",
+            "nl": "staatshoofd",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P487",
+        {
+            "en": "",
+            "nl": "Unicode-symbool",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P2979",
+        {
+            "en": "",
+            "nl": "Maritime Identification Digit",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P209",
+        {
+            "en": "",
+            "nl": "hoogste juridische autoriteit",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3270",
+        {
+            "en": "",
+            "nl": "minimumleeftijd leerplicht",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P5203",
+        {
+            "en": "",
+            "nl": "topografische kaart",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P299",
+        {
+            "en": "",
+            "nl": "ISO 3166-1-landcode (numeriek)",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P530",
+        {
+            "en": "",
+            "nl": "diplomatieke relatie",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P1344",
+        {
+            "en": "",
+            "nl": "deelgenomen aan",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3271",
+        {
+            "en": "",
+            "nl": "maximumleeftijd leerplicht",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P1622",
+        {
+            "en": "",
+            "nl": "rijrichting",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P11547",
+        {
+            "en": "",
+            "nl": "Happy Planet Index-score",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P4841",
+        {
+            "en": "",
+            "nl": "totaal vruchtbaarheidscijfer",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P245",
+        {
+            "en": "",
+            "nl": "ULAN-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P10916",
+        {
+            "en": "",
+            "nl": "S\u00fcddeutsche Zeitung-identificatiecode voor onderwerp",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3850",
+        {
+            "en": "",
+            "nl": "LombardiaBeniCulturali-identificatiecode voor toponiem",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3762",
+        {
+            "en": "",
+            "nl": "openMLOL-identificatiecode voor auteur",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P5173",
+        {
+            "en": "",
+            "nl": "Rockipedia-identificatiecode voor plaats",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P2504",
+        {
+            "en": "",
+            "nl": "Noorse gemeente-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P9929",
+        {
+            "en": "",
+            "nl": "madhhab",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P9287",
+        {
+            "en": "",
+            "nl": "Cyprus Bibliography-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P9641",
+        {
+            "en": "",
+            "nl": "fondoambiente.it-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P4238",
+        {
+            "en": "",
+            "nl": "url voor webcampagina",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P5200",
+        {
+            "en": "",
+            "nl": "eBird-identificatiecode voor hotspot",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P2657",
+        {
+            "en": "",
+            "nl": "EU-transparantieregister-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P1890",
+        {
+            "en": "",
+            "nl": "CCAB-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3710",
+        {
+            "en": "",
+            "nl": "Jewish Encyclopedia Daat-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P9152",
+        {
+            "en": "",
+            "nl": "CollectieGelderland-identificatiecode voor vervaardiger",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P4254",
+        {
+            "en": "",
+            "nl": "Banglapedia in Bengali-identificatiecode voor artikel",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P8061",
+        {
+            "en": "",
+            "nl": "AGROVOC-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P4179",
+        {
+            "en": "",
+            "nl": "tabulaire populatie",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P4005",
+        {
+            "en": "",
+            "nl": "Bavarikon-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P11810",
+        {
+            "en": "",
+            "nl": "Mastodon-URL voor server",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3861",
+        {
+            "en": "",
+            "nl": "App Store-identificatiecode voor app",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P2847",
+        {
+            "en": "",
+            "nl": "Google+-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P8713",
+        {
+            "en": "",
+            "nl": "Stadtwiki Dresden-identificatiecode voor artikel",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P7046",
+        {
+            "en": "",
+            "nl": "HOV-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P4820",
+        {
+            "en": "",
+            "nl": "TORA-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P8899",
+        {
+            "en": "",
+            "nl": "Arken-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P8980",
+        {
+            "en": "",
+            "nl": "KANTO-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P11832",
+        {
+            "en": "",
+            "nl": "satellietbeeld",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P4119",
+        {
+            "en": "",
+            "nl": "NLS Geografische plaatsnaam-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P8692",
+        {
+            "en": "",
+            "nl": "ACER-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P7085",
+        {
+            "en": "",
+            "nl": "TikTok-identificatiecode voor gebruikersnaam",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P9983",
+        {
+            "en": "",
+            "nl": "Enciclopedia dei ragazzi-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P1067",
+        {
+            "en": "",
+            "nl": "bestuurlijk gebied Thailand-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P457",
+        {
+            "en": "",
+            "nl": "stichtingstekst",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P4589",
+        {
+            "en": "",
+            "nl": "Dreadnought Project-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P5432",
+        {
+            "en": "",
+            "nl": "setlist.fm-identificatiecode voor locatie",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3185",
+        {
+            "en": "",
+            "nl": "VKontakte-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P5097",
+        {
+            "en": "",
+            "nl": "Logainm-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P9879",
+        {
+            "en": "",
+            "nl": "Encyclopedie van de Islam (3e editie)-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P159",
+        {
+            "en": "",
+            "nl": "locatie van hoofdvestiging",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P708",
+        {
+            "en": "",
+            "nl": "bisdom",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P4335",
+        {
+            "en": "",
+            "nl": "IDESCAT-identificatiecode voor territorium in Cataloni\u00eb",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P355",
+        {
+            "en": "",
+            "nl": "dochterorganisatie",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P11820",
+        {
+            "en": "",
+            "nl": "Enciclopedia machiavelliana-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P1411",
+        {
+            "en": "",
+            "nl": "genomineerd voor",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3827",
+        {
+            "en": "",
+            "nl": "JSTOR-identificatiecode voor onderwerp",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P4012",
+        {
+            "en": "",
+            "nl": "Semantic Scholar-identificatiecode voor auteur",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P84",
+        {
+            "en": "",
+            "nl": "architect",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3517",
+        {
+            "en": "",
+            "nl": "Geographical Names Board of New South Wales-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P9510",
+        {
+            "en": "",
+            "nl": "Forbes (Rusland)-identificatiecode voor profiel",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P9826",
+        {
+            "en": "",
+            "nl": "Grote Encyclopedie van Cyrillus en Methodius-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P6251",
+        {
+            "en": "",
+            "nl": "kenmerkende uitspraak",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P7772",
+        {
+            "en": "",
+            "nl": "Atlas Obscura-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P10919",
+        {
+            "en": "",
+            "nl": "AEDA-identificatiecode voor geografisch sleutelwoord",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P452",
+        {
+            "en": "",
+            "nl": "actief in industrietak",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P9407",
+        {
+            "en": "",
+            "nl": "Polignosi-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P1410",
+        {
+            "en": "",
+            "nl": "aantal zetels in legislatuur",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P6885",
+        {
+            "en": "",
+            "nl": "historische regio",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P1004",
+        {
+            "en": "",
+            "nl": "MusicBrainz-identificatiecode voor plaats",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P1567",
+        {
+            "en": "",
+            "nl": "NIS-code",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3376",
+        {
+            "en": "",
+            "nl": "Belgisch ondernemingsnummer",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P5353",
+        {
+            "en": "",
+            "nl": "schooldistrict",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P939",
+        {
+            "en": "",
+            "nl": "KSH-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P7820",
+        {
+            "en": "",
+            "nl": "Punjabipedia-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P8605",
+        {
+            "en": "",
+            "nl": "Linked Open Data Cloud-identificatiecode",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P1366",
+        {
+            "en": "",
+            "nl": "vervangen door",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P868",
+        {
+            "en": "",
+            "nl": "voedsel van oudsher geassocieerd",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3342",
+        {
+            "en": "",
+            "nl": "relevant persoon",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P5982",
+        {
+            "en": "",
+            "nl": "jaarlijks aantal bruiloften",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3992",
+        {
+            "en": "",
+            "nl": "SSB-identificatiecode voor dorp",
+            "absolute_frequency": 2,
+            "relative_frequency": 0.0014104372355430183
+        }
+    ],
+    [
+        "P3179",
+        {
+            "en": "",
+            "nl": "territorium overlapt met",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3153",
+        {
+            "en": "",
+            "nl": "Crossref-identificatiecode voor financierder",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P11924",
+        {
+            "en": "",
+            "nl": "IMDb-identificatiecode voor sleutelwoord",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10786",
+        {
+            "en": "",
+            "nl": "datum waarop bedrijf, organisatie of stad is opgericht",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P9748",
+        {
+            "en": "",
+            "nl": "Wikimedia Incubator-URL",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P771",
+        {
+            "en": "",
+            "nl": "Zwitserse gemeente-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10888",
+        {
+            "en": "",
+            "nl": "bevat de statistische territoriale entiteit",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5737",
+        {
+            "en": "",
+            "nl": "Moegirlpedia-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5739",
+        {
+            "en": "",
+            "nl": "PUSC-identificatiecode voor auteur",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2041",
+        {
+            "en": "",
+            "nl": "NGV-identificatiecode voor kunstenaar",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1581",
+        {
+            "en": "",
+            "nl": "offici\u00eble blog",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10883",
+        {
+            "en": "",
+            "nl": "Encyclopedia of Fantasy-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P11518",
+        {
+            "en": "",
+            "nl": "Oroklini Library-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1149",
+        {
+            "en": "",
+            "nl": "Library of Congress Classification",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P8256",
+        {
+            "en": "",
+            "nl": "Super Mario Wiki-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10730",
+        {
+            "en": "",
+            "nl": "Data Commons-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P8517",
+        {
+            "en": "",
+            "nl": "uitzicht",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2082",
+        {
+            "en": "",
+            "nl": "M.49-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6897",
+        {
+            "en": "",
+            "nl": "alfabetiseringsgraad",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5180",
+        {
+            "en": "",
+            "nl": "CIVICUS Monitor-identificatiecode voor land",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3238",
+        {
+            "en": "",
+            "nl": "telefoonnummer prefix",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2855",
+        {
+            "en": "",
+            "nl": "BTW-percentage",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3024",
+        {
+            "en": "",
+            "nl": "ITU-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2004",
+        {
+            "en": "",
+            "nl": "NALT-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P8476",
+        {
+            "en": "",
+            "nl": "BTI-bestuursindex",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3743",
+        {
+            "en": "",
+            "nl": "ITU/ISO/IEC-identificatiecode voor object",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P8477",
+        {
+            "en": "",
+            "nl": "BTI-statusindex",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3864",
+        {
+            "en": "",
+            "nl": "zelfmoordgraad",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10456",
+        {
+            "en": "",
+            "nl": "Elektrisch Stadsvervoer-identificatiecode voor land",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P8370",
+        {
+            "en": "",
+            "nl": "UNBIS Thesaurus-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P9571",
+        {
+            "en": "",
+            "nl": "PeakVisor-identificatiecode voor gebied",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P8317",
+        {
+            "en": "",
+            "nl": "Philadelphia Museum of Art-identificatiecode voor kunstenaar",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1906",
+        {
+            "en": "",
+            "nl": "offici\u00eble titel van staatshoofd",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P9084",
+        {
+            "en": "",
+            "nl": "ABC News-identificatiecode voor onderwerp",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2258",
+        {
+            "en": "",
+            "nl": "mobile country code",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5558",
+        {
+            "en": "",
+            "nl": "Le Monde-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P8542",
+        {
+            "en": "",
+            "nl": "Noord-Macedonische kadastrale gemeente-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6724",
+        {
+            "en": "",
+            "nl": "Trainline-identificatiecode voor treinstation",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P7607",
+        {
+            "en": "",
+            "nl": "WikiTree-identificatiecode voor categorie",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6303",
+        {
+            "en": "",
+            "nl": "Zweeds Anbytarforum-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10217",
+        {
+            "en": "",
+            "nl": "Oslo byleksikon-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4290",
+        {
+            "en": "",
+            "nl": "offici\u00eble app",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10021",
+        {
+            "en": "",
+            "nl": "United Arab Emirates University Libraries-identificatiecode voor persoon of organisatie",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5167",
+        {
+            "en": "",
+            "nl": "verkeersdichtheid",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4553",
+        {
+            "en": "",
+            "nl": "RA Collections-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P7841",
+        {
+            "en": "",
+            "nl": "Vikidia-identificatiecode voor Armeens artikel",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P7775",
+        {
+            "en": "",
+            "nl": "RationalWiki-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P629",
+        {
+            "en": "",
+            "nl": "is een uitgave of vertaling van",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P11245",
+        {
+            "en": "",
+            "nl": "YouTube-identificatiecode voor handle",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2802",
+        {
+            "en": "",
+            "nl": "vloot- of registratienummer",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4255",
+        {
+            "en": "",
+            "nl": "Banglapedia in Engels-identificatiecode voor artikel",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1559",
+        {
+            "en": "",
+            "nl": "naam in moedertaal",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P7783",
+        {
+            "en": "",
+            "nl": "J-GLOBAL-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P8072",
+        {
+            "en": "",
+            "nl": "CAB-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10510",
+        {
+            "en": "",
+            "nl": "Arachne-identificatiecode voor entiteit",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2130",
+        {
+            "en": "",
+            "nl": "kosten",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3418",
+        {
+            "en": "",
+            "nl": "Google Play Store app identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P964",
+        {
+            "en": "",
+            "nl": "Oostenrijkse gemeente-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6228",
+        {
+            "en": "",
+            "nl": "RegiowikiAT-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P920",
+        {
+            "en": "",
+            "nl": "Spaanse onderwerpcode openbare bibliotheek",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1255",
+        {
+            "en": "",
+            "nl": "Helveticarchives-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2627",
+        {
+            "en": "",
+            "nl": "ISO 9362 SWIFT/BIC-code",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P747",
+        {
+            "en": "",
+            "nl": "editie",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P7522",
+        {
+            "en": "",
+            "nl": "SK cinema-identificatiecode voor autoriteit",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5160",
+        {
+            "en": "",
+            "nl": "Thesaurus For Graphic Materials-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P466",
+        {
+            "en": "",
+            "nl": "gebruiker",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5332",
+        {
+            "en": "",
+            "nl": "OpenDOAR-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6150",
+        {
+            "en": "",
+            "nl": "Academy Awards Database-identificatiecode voor genomineerde",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6781",
+        {
+            "en": "",
+            "nl": "ProofWiki-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P7996",
+        {
+            "en": "",
+            "nl": "EH.Net Encyclopedia of Economic and Business History-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P92",
+        {
+            "en": "",
+            "nl": "reglement",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2999",
+        {
+            "en": "",
+            "nl": "seksuele meerderjarigheid",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2573",
+        {
+            "en": "",
+            "nl": "aantal niet-naar-schoolgaande kinderen",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1019",
+        {
+            "en": "",
+            "nl": "link naar feed",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P9568",
+        {
+            "en": "",
+            "nl": "PeakVisor-identificatiecode voor bergtop",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5810",
+        {
+            "en": "",
+            "nl": "cryptogeldsymbool",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5485",
+        {
+            "en": "",
+            "nl": "SBN-identificatiecode voor boek",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4970",
+        {
+            "en": "",
+            "nl": "alternatieve naam",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10244",
+        {
+            "en": "",
+            "nl": "NT Place Names Register-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10689",
+        {
+            "en": "",
+            "nl": "OpenStreetMap-identificatiecode voor weg",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P11101",
+        {
+            "en": "",
+            "nl": "modelafbeelding",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P7819",
+        {
+            "en": "",
+            "nl": "OrthodoxWiki-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P7004",
+        {
+            "en": "",
+            "nl": "AtlasFor-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P7865",
+        {
+            "en": "",
+            "nl": "CoBiS-identificatiecode voor auteur",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4003",
+        {
+            "en": "",
+            "nl": "offici\u00eble Facebookpagina",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10500",
+        {
+            "en": "",
+            "nl": "Repetti on-line-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2579",
+        {
+            "en": "",
+            "nl": "bestudeerd door",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4431",
+        {
+            "en": "",
+            "nl": "Google Doodle-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4640",
+        {
+            "en": "",
+            "nl": "panorama-afbeelding",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4033",
+        {
+            "en": "",
+            "nl": "Mastodon-adres",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4552",
+        {
+            "en": "",
+            "nl": "gebergte",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P9304",
+        {
+            "en": "",
+            "nl": "Encyclopedia of Melbourne-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4094",
+        {
+            "en": "",
+            "nl": "Australian Standard Geographic Classification 2006-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5163",
+        {
+            "en": "",
+            "nl": "Odnoklassniki-identificatiecode voor persoon of organisatie",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10152",
+        {
+            "en": "",
+            "nl": "Rutube-identificatiecode voor kanaal",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10464",
+        {
+            "en": "",
+            "nl": "KLADR-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1397",
+        {
+            "en": "",
+            "nl": "Staatcatalogus van geografische namen (Rusland)-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3628",
+        {
+            "en": "",
+            "nl": "British History Online VCH-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5882",
+        {
+            "en": "",
+            "nl": "Muziekweb-identificatiecode voor uitvoerend artiest",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P9284",
+        {
+            "en": "",
+            "nl": "GB1900-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3797",
+        {
+            "en": "",
+            "nl": "autonoom systeemnummer",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5164",
+        {
+            "en": "",
+            "nl": "Kunstenpunt-identificatiecode voor organisatie",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P7837",
+        {
+            "en": "",
+            "nl": "Nederlands Fotomuseum-identificatiecode voor fotograaf",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P374",
+        {
+            "en": "",
+            "nl": "INSEE-identificatiecode voor gemeente",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1616",
+        {
+            "en": "",
+            "nl": "SIREN-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P8422",
+        {
+            "en": "",
+            "nl": "EHESS-identificatiecode voor gemeente",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6671",
+        {
+            "en": "",
+            "nl": "service-public.fr-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P9280",
+        {
+            "en": "",
+            "nl": "Beth Hatefutsoth-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2900",
+        {
+            "en": "",
+            "nl": "faxnummer",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4058",
+        {
+            "en": "",
+            "nl": "FINESS-identificatiecode voor medische faciliteit",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P11266",
+        {
+            "en": "",
+            "nl": "contactpagina-URL",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5335",
+        {
+            "en": "",
+            "nl": "Or Movement-identificatiecode voor nederzetting",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P9018",
+        {
+            "en": "",
+            "nl": "Middeleeuwse Manuscripten in Oxfordse Bibliotheken-identificatiecode voor plaats",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6922",
+        {
+            "en": "",
+            "nl": "Metro.co.uk-identificatiecode voor onderwerp",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3038",
+        {
+            "en": "",
+            "nl": "IWM-identificatiecode voor oorlogsmonument",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6499",
+        {
+            "en": "",
+            "nl": "geletterde bevolking",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6498",
+        {
+            "en": "",
+            "nl": "ongeletterde bevolking",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3213",
+        {
+            "en": "",
+            "nl": "Indiase census-identificatiecode voor gebied (2001)",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P7606",
+        {
+            "en": "",
+            "nl": "Tsjechische gemeente-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4080",
+        {
+            "en": "",
+            "nl": "aantal huizen",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4156",
+        {
+            "en": "",
+            "nl": "I\u010cO-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2788",
+        {
+            "en": "",
+            "nl": "Tsjechische wijk-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4442",
+        {
+            "en": "",
+            "nl": "mediaanleeftijd",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P8987",
+        {
+            "en": "",
+            "nl": "ISDS-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3842",
+        {
+            "en": "",
+            "nl": "gesitueerd in hedendaagse bestuurlijke eenheid",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1398",
+        {
+            "en": "",
+            "nl": "vervangt bouwwerk",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P500",
+        {
+            "en": "",
+            "nl": "exclave van",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10197",
+        {
+            "en": "",
+            "nl": "Numista-identificatiecode voor munthuis",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3793",
+        {
+            "en": "",
+            "nl": "IPv6-routingprefix",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P9222",
+        {
+            "en": "",
+            "nl": "bashenc.online-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P8973",
+        {
+            "en": "",
+            "nl": "Humanitarian OpenStreetMap Tasking Manager-identificatiecode voor project",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6254",
+        {
+            "en": "",
+            "nl": "onderwerp lexeem",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P461",
+        {
+            "en": "",
+            "nl": "tegenovergestelde van",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2888",
+        {
+            "en": "",
+            "nl": "exacte overeenkomst",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P954",
+        {
+            "en": "",
+            "nl": "IBNR-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4688",
+        {
+            "en": "",
+            "nl": "geomorfologische eenheid",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2388",
+        {
+            "en": "",
+            "nl": "ambt of positie van het hoofd van de organisatie",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P437",
+        {
+            "en": "",
+            "nl": "uitgavevorm",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5198",
+        {
+            "en": "",
+            "nl": "ASC Leiden Thesaurus-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10789",
+        {
+            "en": "",
+            "nl": "Encyclopedie van Litouwen Minor-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1370",
+        {
+            "en": "",
+            "nl": "ihsi-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1025",
+        {
+            "en": "",
+            "nl": "SUDOC-identificatiecode voor editie",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2440",
+        {
+            "en": "",
+            "nl": "transliteratie",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1801",
+        {
+            "en": "",
+            "nl": "foto van gedenkplaat",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P957",
+        {
+            "en": "",
+            "nl": "ISBN-10",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P9435",
+        {
+            "en": "",
+            "nl": "KATOTTH-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1077",
+        {
+            "en": "",
+            "nl": "KOATUU-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5825",
+        {
+            "en": "",
+            "nl": "ISO 15919-transliteratie",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6157",
+        {
+            "en": "",
+            "nl": "Google News-identificatiecode voor publicatie",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P822",
+        {
+            "en": "",
+            "nl": "mascotte",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P9482",
+        {
+            "en": "",
+            "nl": "Catalogus van de Algemene Staatsarchieven-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P9372",
+        {
+            "en": "",
+            "nl": "NHS Organisation Data Service-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P9240",
+        {
+            "en": "",
+            "nl": "Encyclopedia of Seventh-day Adventists-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P1651",
+        {
+            "en": "",
+            "nl": "YouTube-identificatiecode voor video",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P8568",
+        {
+            "en": "",
+            "nl": "Jewish Virtual Library-identificatiecode voor persoon",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P7022",
+        {
+            "en": "",
+            "nl": "Australische Leveranciers Directory-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P911",
+        {
+            "en": "",
+            "nl": "Zuid-Afrikaanse gemeente-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6366",
+        {
+            "en": "",
+            "nl": "Microsoft Academic-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5909",
+        {
+            "en": "",
+            "nl": "HKCAN-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P6683",
+        {
+            "en": "",
+            "nl": "Alexander Turnbull Library-identificatiecode voor naam",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P5775",
+        {
+            "en": "",
+            "nl": "afbeelding van interieur",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3267",
+        {
+            "en": "",
+            "nl": "Flickr-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P775",
+        {
+            "en": "",
+            "nl": "Zweedse plaats-identificatiecode",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P3096",
+        {
+            "en": "",
+            "nl": "KML-bestand",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P10708",
+        {
+            "en": "",
+            "nl": "Zweedse gebiedscode-identificatiecode voor nederzetting",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4015",
+        {
+            "en": "",
+            "nl": "Vimeo-gebruikersnaam",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P4614",
+        {
+            "en": "",
+            "nl": "stroomgebied",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P287",
+        {
+            "en": "",
+            "nl": "ontwerper",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ],
+    [
+        "P2014",
+        {
+            "en": "",
+            "nl": "MoMA-identificatiecode voor kunstwerk",
+            "absolute_frequency": 1,
+            "relative_frequency": 0.0007052186177715092
+        }
+    ]
+]
