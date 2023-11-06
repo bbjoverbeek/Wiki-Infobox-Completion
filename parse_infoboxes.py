@@ -146,7 +146,7 @@ def main():
         city.infobox_en = get_infoboxes(city.url_en)
         city.infobox_nl = get_infoboxes(city.url_nl)
 
-    with open("data/cities_infoboxes.json", "w") as file:
+    with open("data/infoboxes.json", "w") as file:
         json.dump(cities, file, indent=4, default=lambda x: x.to_dict())
 
 
