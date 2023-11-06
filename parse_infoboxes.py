@@ -1,23 +1,38 @@
+import json
 import unicodedata
+from dataclasses import dataclass
+
 import requests
+import wptools
 from bs4 import BeautifulSoup, ResultSet, Tag
-import pprint
-from enum import Enum
 import re
 
-
-class Language(Enum):
-    English = "en"
-    Dutch = "nl"
+from dataclasses_json import dataclass_json
+from tqdm import tqdm
 
 
-def get_wiki_page(language: Language, title: str) -> str:
-    url = f'https://{language.value}.wikipedia.org/api/rest_v1/page/html/{title}'
+@dataclass_json
+@dataclass
+class City:
+    """A city with its name, population, and wikidata URI"""
+    name: str
+    uri: str
+    url_en: str
+    url_nl: str
+    infobox_en: dict[str, list[str]]
+    infobox_nl: dict[str, list[str]]
+
+
+def get_wiki_page(url: str) -> str:
     headers = {
         'accept': 'text/html; charset=utf-8; profile="https://www.mediawiki.org/wiki/Specs/HTML/2'
                   '.1.0"'
     }
     response = requests.get(url, headers=headers)
+
+    if response.status_code != 200:
+        return get_wiki_page(url)
+
     return response.text
 
 
@@ -54,6 +69,30 @@ def convert_infobox_html_to_dict(table: Tag) -> dict[str, list[str]]:
     return values
 
 
+REMOVABLE_CHARACTERS = [
+    "\ufeff",
+    "\xa0",
+    "\u200b",
+    "\u200e",
+    "\u200f",
+    "\u202a",
+    "\u202c",
+    "\u2060",
+    "\u25aa",
+    "\u25ab",
+    "\u25b2",
+    "\u25b3",
+    "\u25be",
+    "\u25bf",
+    "•",
+]
+
+REMOVEABLE_CHARACTERS_REGEX = re.compile(
+    r"(" + "|".join(map(re.escape, REMOVABLE_CHARACTERS)) + ")",
+    flags=re.UNICODE
+)
+
+
 def clean_text(value: str) -> str:
     """
     The text that is given by beautiful soup is not always clean. This function tries to remove
@@ -61,20 +100,54 @@ def clean_text(value: str) -> str:
     :param value: the text value to clean
     :return: the clean text value
     """
-    text = re.sub(r'\[[0-9]+]', '', value)
-    text = re.sub(r'[\ufeff]', '', text)
+    text = re.sub(r'\[[0-9\w]+]', '', value)
+    text = REMOVEABLE_CHARACTERS_REGEX.sub('', text)
     text = unicodedata.normalize("NFKD", text)
     text = text.strip()
     return text
 
 
+def get_infoboxes(url: str) -> dict[str, list[str]]:
+    """
+    Get all infoboxes from a wikipedia page.
+    :param url: the url of the wikipedia page
+    :return: a dictionary with the infoboxes
+    """
+
+    # page = wptools.page()
+    # page.get_parse()
+    # print(url)
+    # print(page.data["title"])
+    # print(page.data['infobox'])
+
+    page = get_wiki_page(url)
+    table = get_html_table_from_page(page)
+    if len(table) == 0:
+        return {}
+    infobox = convert_infobox_html_to_dict(table[0])
+    return infobox
+
+
 def main():
-    page = get_wiki_page(Language.Dutch, "Universiteit Groningen")
-    with open("response_university_of_groningen.html", "w") as f:
-        f.write(str(page))
-    table = get_html_table_from_page(page)[0]
-    values = convert_infobox_html_to_dict(table)
-    pprint.pprint(values)
+    with open("data/cities.json", "r") as file:
+        cities = [
+            City(
+                name=city['name'],
+                uri=city['uri'],
+                url_en=city['url_en'],
+                url_nl=city['url_nl'],
+                infobox_en=None,
+                infobox_nl=None,
+            )
+            for city in json.load(file)
+        ]
+
+    for city in tqdm(cities, desc='Getting infoboxes'):
+        city.infobox_en = get_infoboxes(city.url_en)
+        city.infobox_nl = get_infoboxes(city.url_nl)
+
+    with open("data/cities_infoboxes.json", "w") as file:
+        json.dump(cities, file, indent=4, default=lambda x: x.to_dict())
 
 
 if __name__ == '__main__':
