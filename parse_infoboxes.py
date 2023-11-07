@@ -1,26 +1,11 @@
 import json
 import unicodedata
-from dataclasses import dataclass
-
 import requests
-import wptools
 from bs4 import BeautifulSoup, ResultSet, Tag
 import re
-
-from dataclasses_json import dataclass_json
 from tqdm import tqdm
 
-
-@dataclass_json
-@dataclass
-class City:
-    """A city with its name, population, and wikidata URI"""
-    name: str
-    uri: str
-    url_en: str
-    url_nl: str
-    infobox_en: dict[str, list[str]]
-    infobox_nl: dict[str, list[str]]
+from util import InfoBoxCity
 
 
 def get_wiki_page(url: str) -> str:
@@ -131,7 +116,7 @@ def get_infoboxes(url: str) -> dict[str, list[str]]:
 def main():
     with open("data/cities.json", "r") as file:
         cities = [
-            City(
+            InfoBoxCity(
                 name=city['name'],
                 uri=city['uri'],
                 url_en=city['url_en'],

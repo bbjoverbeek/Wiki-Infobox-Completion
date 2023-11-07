@@ -32,3 +32,15 @@ class City:
     url_nl: str
 
     properties: dict[str, CityProperty]
+
+
+@dataclass_json
+@dataclass
+class InfoBoxCity:
+    """A city with its name, population, and wikidata URI"""
+    name: str
+    uri: str
+    url_en: str
+    url_nl: str
+    infobox_en: dict[str, list[str]]
+    infobox_nl: dict[str, list[str]]
