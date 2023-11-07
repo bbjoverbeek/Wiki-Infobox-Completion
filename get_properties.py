@@ -1,48 +1,17 @@
 import sys
 import json
 import time
-from typing import Literal, NamedTuple
-from dataclasses import dataclass, asdict
-from dataclasses_json import dataclass_json
 import requests
 from tqdm import tqdm
-from more_itertools import chunked
-from pprint import pprint
+
+
+from util import CityProperty, City, Property
 
 # use user agent to prevent API from blocking requests
 USER_AGENT = 'infobox_completion_bot/1.0 (b.b.j.overbeek@student.rug.nl)'
 
 
-@dataclass_json
-@dataclass
-class CityProperty:
-    """A property with its id, and label in English and Dutch"""
-    id: str
-    label_en: str
-    label_nl: str
 
-
-@dataclass_json
-@dataclass
-class Property:
-    """A property with its id, and label in English and Dutch"""
-    id: str
-    label_en: str
-    label_nl: str
-
-    absolute_frequency: int
-    relative_frequency: float
-
-
-@dataclass
-class City:
-    """A city with its name, population, and wikidata URI"""
-    name: str
-    uri: str
-    url_en: str
-    url_nl: str
-
-    properties: dict[str, CityProperty]
 
 
 def get_entity_properties_and_labels(entity_id: str) -> dict[str, CityProperty]:
