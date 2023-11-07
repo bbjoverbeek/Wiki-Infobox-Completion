@@ -1,9 +1,10 @@
 import json
 import random
 import statistics
-import sys
 
-from property_similarity import compute_similarity
+from tqdm import tqdm
+
+from compute_euclidean_distance import compute_similarity
 from util import Property
 
 random.seed(42)
@@ -14,14 +15,12 @@ def find_similarities(all_properties: dict[str, Property]) -> float:
     correct_similarities = []
     lowest_incorrect_similarities = []
 
-    for property_ in properties:
+    for property_ in tqdm(properties, desc="Finding similarities"):
         if property_.label_en is None or property_.label_nl is None:
             continue
 
         similarity = compute_similarity(property_.label_en, property_.label_nl)
         correct_similarities.append(similarity)
-
-        print(property_.label_en, property_.label_nl, similarity)
 
         incorrect_properties = random.sample(properties, 8)
         incorrect_similarities = []
@@ -47,9 +46,6 @@ def find_similarities(all_properties: dict[str, Property]) -> float:
     mean_correct = statistics.mean(correct_similarities)
 
     return statistics.mean([mean_correct, mean_lowest_incorrect])
-
-
-
 
 
 def main():
