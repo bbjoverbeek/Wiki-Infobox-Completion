@@ -2,42 +2,26 @@
 from tqdm import tqdm
 import json
 import numpy as np
-import torch
-from transformers import AutoTokenizer, AutoModel
+from transformers import pipeline
 
 # Load the model and tokenizer
-model_id = 'xlm-roberta-base'
-tokenizer = AutoTokenizer.from_pretrained(model_id, device=0)
-model = AutoModel.from_pretrained(model_id)
+pipe = pipeline('feature-extraction', model='xlm-roberta-base', device=0)
 
 
 def compute_similarity(
     token1: str,
     token2: str,
-    layer: int = -1,
-    cosine_similarity: bool = False,
 ) -> float:
     """Extracts word embeddings from an LLM (default xlm-roberta-base)
     at a given layer and returns their euclidean distance. If cosine_similarity
     is True, returns their cosine similarity.
     """
 
-    # Tokenize the input strings
-    inputs1 = tokenizer(token1, return_tensors='pt')
-    inputs2 = tokenizer(token2, return_tensors='pt')
+    # Get embeddings for the input strings
+    emb1 = np.array(pipe(token1)).mean(axis=1)
+    emb2 = np.array(pipe(token2)).mean(axis=1)
 
-    # Extract the embeddings for each string
-    with torch.no_grad():
-        outputs1 = model(**inputs1, output_hidden_states=True)
-        emb1 = outputs1.hidden_states[layer].squeeze().mean(dim=0).numpy()
-        outputs2 = model(**inputs2, output_hidden_states=True)
-        emb2 = outputs2.hidden_states[layer].squeeze().mean(dim=0).numpy()
-
-    # compute cosine similarity or euclidean distance
-    if cosine_similarity:
-        distance = np.dot(emb1, emb2) / (np.linalg.norm(emb1) * np.linalg.norm(emb2))
-    else:
-        distance = np.linalg.norm(emb1 - emb2)
+    distance = np.linalg.norm(emb1 - emb2)
 
     return distance
 
