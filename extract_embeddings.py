@@ -4,33 +4,45 @@ import json
 import numpy as np
 from transformers import pipeline
 import warnings
+from hugging_face_token import token
 
-warnings.filterwarnings('ignore')
+warnings.filterwarnings("ignore")
 
 # define types
 embedding = np.ndarray[float]
 
 # Load the model and tokenizer
-pipe = pipeline('feature-extraction', model='xlm-roberta-base', device=0)
+pipe = pipeline(
+    "feature-extraction", model="meta-llama/Llama-2-7b-hf", device=0, token=token
+)
+
 
 def extract_mean_embedding(token: str) -> embedding:
     """Use pipe to extract word embedding for token. Take mean if len > 1"""
-    
+
     embedding = np.array(pipe(token)).mean(axis=1).squeeze()
 
     return embedding
+
 
 def extract_all_embeddings(all_properties: dict[str, dict]) -> dict[str, dict]:
     """Supplements the all_properties dict with embeddings for the properties"""
 
     for property_id in tqdm(all_properties, leave=False):
-        all_properties[property_id]['emb_nl_full'] = pipe(all_properties[property_id]['label_nl'])
-        all_properties[property_id]['emb_en_full'] = pipe(all_properties[property_id]['label_en'])
-        all_properties[property_id]['emb_nl_mean'] = list(extract_mean_embedding(all_properties[property_id]['label_nl']))
-        all_properties[property_id]['emb_en_mean'] = list(extract_mean_embedding(all_properties[property_id]['label_en']))
+        # extract full embeddgins
+        # all_properties[property_id]['emb_nl_full'] = pipe(all_properties[property_id]['label_nl'])
+        # all_properties[property_id]['emb_en_full'] = pipe(all_properties[property_id]['label_en'])
+
+        # extract mean of embeddings
+        all_properties[property_id]["emb_nl"] = list(
+            extract_mean_embedding(all_properties[property_id]["label_nl"])
+        )
+        all_properties[property_id]["emb_en"] = list(
+            extract_mean_embedding(all_properties[property_id]["label_en"])
+        )
 
     return all_properties
-        
+
 
 def compute_similarity(
     token1: str,
@@ -50,7 +62,10 @@ def compute_similarity(
 
     return distance
 
-def create_similarity_mapping(all_properties: dict[str, dict]) -> dict[str, dict[str, float]]:
+
+def create_similarity_mapping(
+    all_properties: dict[str, dict]
+) -> dict[str, dict[str, float]]:
     """Creates a map of all similarities between all the embeddings"""
 
     euclidean_dist_mapping = dict()
@@ -59,14 +74,14 @@ def create_similarity_mapping(all_properties: dict[str, dict]) -> dict[str, dict
         euclidean_dist_mapping[property_id1] = dict()
         for property_id2, value2 in tqdm(all_properties.items(), leave=False):
             euclidean_dist_mapping[property_id1][property_id2] = compute_similarity(
-                value1['label_en'], value2['label_nl']
+                value1["label_en"], value2["label_nl"]
             )
 
     return euclidean_dist_mapping
 
 
 def main():
-    with open('data/all-properties.json', 'r', encoding='utf-8') as inp:
+    with open("data/all-properties.json", "r", encoding="utf-8") as inp:
         all_properties = json.load(inp)
 
     # euclidean_dist_mapping = create_similarity_mapping(all_properties)
@@ -74,13 +89,11 @@ def main():
     #     json.dump(euclidean_dist_mapping, outp, indent=4)
 
     all_properties_emb = extract_all_embeddings(all_properties)
-    with open('data/all-properties-with-emb.json', 'w', encoding='utf-8') as outp:
+    with open("data/all-properties-with-emb.json", "w", encoding="utf-8") as outp:
         json.dump(all_properties_emb, outp, indent=4)
 
+    print("Done!")
 
 
-    print('Done!')
-
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
