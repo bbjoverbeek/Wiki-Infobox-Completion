@@ -14,7 +14,8 @@ flowchart TD
         R --- D(get_properties.py) --- T[[data/all_properties.json]] 
         D --- U[[data/properties_per_city.json]] 
         T --- E(extract_embeddings.py) --- V[[all_properties_with_emb.json]]
-        V --- F(compute_threshold.py)
+        V --- F(compute_threshold.py) 
+
         
     end
     
