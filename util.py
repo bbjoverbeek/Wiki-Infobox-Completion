@@ -39,6 +39,16 @@ class City:
 
 @dataclass_json
 @dataclass
+class Alignment:
+    """An alignment between two properties"""
+    original_property: str
+    property_: str
+    values: list[str]
+    correct: bool = False
+
+
+@dataclass_json
+@dataclass
 class InfoBoxCity:
     """A city with its name, population, and wikidata URI"""
     name: str
@@ -48,8 +58,8 @@ class InfoBoxCity:
     infobox_en: dict[str, list[str]]
     infobox_nl: dict[str, list[str]]
 
-    value_alignment_completed_infobox: dict[str, list[str]] = None
-    all_alignment_completed_infobox: dict[str, list[str]] = None
+    value_alignment_completed_infobox: list[Alignment] = None
+    embedding_alignment_completed_infobox: list[Alignment] = None
 
 
 class EmbeddingComparisonMode(Enum):
