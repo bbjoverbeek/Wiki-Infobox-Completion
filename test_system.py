@@ -79,10 +79,14 @@ def main():
             json.dump(similarity_mapping, out)
 
     positions = test_all_properties(similarity_mapping)
+    positions_percent = {
+        position: round(count / sum(positions.values()) * 100, 1)
+        for position, count in positions.items()
+    }
     positions_city_percent = test_per_city(properties_per_city, similarity_mapping)
 
     print("These are the positions of all the similarities:")
-    print(positions)
+    print(positions_percent)
 
     print("---" * 20)
 
