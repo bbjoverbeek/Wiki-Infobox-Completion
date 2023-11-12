@@ -1,4 +1,4 @@
-"""Computes the wuclidean distance between all properties in Dutch and English"""
+"""Computes the Euclidean distance between all properties in Dutch and English"""
 from tqdm import tqdm
 import json
 import numpy as np
@@ -53,7 +53,7 @@ def compute_similarity(
     token1: str,
     token2: str,
 ) -> float:
-    """Extracts word embeddings from an LLM and returns their euclidean distance."""
+    """Extracts word embeddings from a LLM and returns their Euclidean distance."""
 
     # Get embeddings for the input strings
     emb1 = extract_embedding(token1)
@@ -62,7 +62,7 @@ def compute_similarity(
     # euclidean distance
     # distance = np.linalg.norm(emb1 - emb2)
 
-    # cosine similarity
+    # Euclidean similarity
     distance = np.dot(emb1, emb2) / (np.linalg.norm(emb1) * np.linalg.norm(emb2))
 
     return distance
