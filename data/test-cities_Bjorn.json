@@ -103,7 +103,7 @@
                 "values": [
                     "1781"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -111,7 +111,7 @@
                 "values": [
                     "UTC+2 (CAT)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Postal code",
@@ -119,7 +119,7 @@
                 "values": [
                     "0101-XX, 0102-XX, 0103-XX, 0104-XX, 0105-XX, 0106-XX, 0107-XX"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "ISO 3166 code",
@@ -127,7 +127,7 @@
                 "values": [
                     "MZ"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -135,7 +135,7 @@
                 "values": [
                     "www.cmmaputo.gov.mz"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -206,7 +206,7 @@
                 "values": [
                     "Cazengo"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Total",
@@ -222,7 +222,7 @@
                 "values": [
                     "UTC+1 (WAT)"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -296,7 +296,7 @@
                 "values": [
                     "TRT (UTC+3)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Postal code",
@@ -304,7 +304,7 @@
                 "values": [
                     "01960"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area code",
@@ -312,7 +312,7 @@
                 "values": [
                     "0322"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -320,7 +320,7 @@
                 "values": [
                     "www.ceyhan.bel.tr"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -330,7 +330,7 @@
                 "values": [
                     "1,426km2 (551sqmi)"
                 ],
-                "correct": false
+                "correct": true
             }
         ]
     },
@@ -394,7 +394,7 @@
                 "values": [
                     "1879"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Mayor",
@@ -402,7 +402,7 @@
                 "values": [
                     "Dominique Nkodia"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "City",
@@ -557,7 +557,7 @@
                 "values": [
                     "King Asha Bhil"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Body",
@@ -573,7 +573,7 @@
                 "values": [
                     "Pratibha Jain (BJP)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Total",
@@ -589,7 +589,7 @@
                 "values": [
                     "UTC+5:30 (IST)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area code",
@@ -597,7 +597,7 @@
                 "values": [
                     "+9179xxxxxxxx"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Vehicle registration",
@@ -605,7 +605,7 @@
                 "values": [
                     "GJ-01 (west), GJ-27 (East), GJ-38 Bavla (Rural)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -613,7 +613,7 @@
                 "values": [
                     "ahmedabadcity.gov.in"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -639,7 +639,7 @@
                 "values": [
                     "535.7ha (2.068sqmi)"
                 ],
-                "correct": false
+                "correct": true
             }
         ]
     },
@@ -709,7 +709,7 @@
                 "values": [
                     "Blida District"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "City",
@@ -725,7 +725,7 @@
                 "values": [
                     "UTC+1 (CET)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Postal code",
@@ -733,7 +733,7 @@
                 "values": [
                     "09000"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area code",
@@ -741,7 +741,7 @@
                 "values": [
                     "901"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -840,7 +840,7 @@
                 "values": [
                     "West Kazakhstan Region"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Founded",
@@ -848,7 +848,7 @@
                 "values": [
                     "1584"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "City",
@@ -864,7 +864,7 @@
                 "values": [
                     "090000 - 090013"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area code",
@@ -872,7 +872,7 @@
                 "values": [
                     "+7 7112"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Vehicle registration",
@@ -880,7 +880,7 @@
                 "values": [
                     "L, 07"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -888,7 +888,7 @@
                 "values": [
                     "uralsk.gov.kz/en/"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -1006,7 +1006,7 @@
                 "values": [
                     "A.Kalpana, DMK"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -1014,7 +1014,7 @@
                 "values": [
                     "UTC+5:30 (IST)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Vehicle registration",
@@ -1022,7 +1022,7 @@
                 "values": [
                     "TN 37 (South), TN 38 (North), TN 66 (Central), TN 99 (West), TN 37Z (Sulur)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -1030,7 +1030,7 @@
                 "values": [
                     "www.ccmc.gov.in"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -1164,7 +1164,7 @@
                     "13",
                     "TaoyuanZhongliDaxiYangmeiLuzhuDayuanGuishanBadeLongtanPingzhenXinwuGuanyinFuxing"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Body",
@@ -1180,7 +1180,7 @@
                 "values": [
                     "Chang San-cheng (KMT)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -1188,7 +1188,7 @@
                 "values": [
                     "UTC+8 (National Standard Time)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Postal code",
@@ -1196,7 +1196,7 @@
                 "values": [
                     "320-338"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "ISO 3166 code",
@@ -1204,7 +1204,7 @@
                 "values": [
                     "TW-TAO"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Flower",
@@ -1212,7 +1212,7 @@
                 "values": [
                     "Peach blossom"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -1220,7 +1220,7 @@
                 "values": [
                     "www.tycg.gov.tw/eng/  (in English)"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
