@@ -1,4 +1,4 @@
-"""Computes the Euclidean distance between all properties in Dutch and English"""
+"""Extracts the embeddings for all properties in Dutch and English in the fetched infoboxes (all-properties.json)"""
 from tqdm import tqdm
 import json
 import numpy as np
