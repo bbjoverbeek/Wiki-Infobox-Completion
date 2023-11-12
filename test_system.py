@@ -42,9 +42,10 @@ def test_per_city(
         for key in city_positions:
             sum_positions[key] += city_positions[key]
 
-    # print(sum(sum_positions.values()))
-
-    return sum_positions
+    return {
+        position: round(count / sum(sum_positions.values()) * 100, 1)
+        for position, count in sum_positions.items()
+    }
 
 
 def test_all_properties(similarity_mapping: SimilarityMapping) -> dict[int, int]:
@@ -78,7 +79,7 @@ def main():
             json.dump(similarity_mapping, out)
 
     positions = test_all_properties(similarity_mapping)
-    positions_city_sum = test_per_city(properties_per_city, similarity_mapping)
+    positions_city_percent = test_per_city(properties_per_city, similarity_mapping)
 
     print("These are the positions of all the similarities:")
     print(positions)
@@ -86,7 +87,7 @@ def main():
     print("---" * 20)
 
     print("These are the positions of all the similarities:")
-    print(positions_city_sum)
+    print(positions_city_percent)
 
 
 if __name__ == "__main__":
