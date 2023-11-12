@@ -4,8 +4,10 @@ import random
 from enum import Enum
 
 from config import RANDOM_SEED
-from util import InfoBoxCity
-from value_alignment import process_cities, align_properties
+from util import InfoBoxCity, EmbeddingComparisonMode
+from value_alignment import process_cities
+import value_alignment
+import embedding_alignment
 
 
 class CompletionMode(Enum):
@@ -46,31 +48,32 @@ def complete_infobox(
 
 
 def main():
-    with open("data/infoboxes.json", "r") as file:
+    population = 250000
+    with open(f"data/infoboxes_{population}.json", "r") as file:
         cities = [InfoBoxCity.from_dict(city) for city in json.load(file)]
 
     value_properties = process_cities(cities)
-    value_alignments = align_properties(value_properties)
+    value_alignments = value_alignment.align_properties(value_properties)
 
-    # with open("data/properties.json", "r") as file:
-    #     properties = json.load(file)
+    embedding_alignments = embedding_alignment.align_properties(
+        cities, EmbeddingComparisonMode.EUCLIDEAN
+    )
 
-    embedding_alignments = {}
+    with open(f"data/embedding-alignments_{population}.json", "w") as file:
+        json.dump(embedding_alignments, file, indent=4)
 
     cities = complete_infobox(
-        CompletionMode.VALUE_ALIGNMENT, cities, value_alignments, embedding_alignments
+        CompletionMode.ALL, cities, value_alignments, embedding_alignments
     )
 
     random.seed(RANDOM_SEED)
     test_cities = random.sample(cities, 40)
 
-    for example_city in test_cities:
-        pprint.pprint({
-            "nl": example_city.infobox_nl,
-            "en": example_city.infobox_en,
-            "value_alignment": example_city.value_alignment_completed_infobox,
-            "all_alignment": example_city.all_alignment_completed_infobox,
-        })
+    with open(f"data/cities-completed_{population}.json", "w") as file:
+        json.dump(cities, file, indent=4, default=lambda x: x.to_dict())
+
+    with open(f"data/test-cities_{population}.json", "w") as file:
+        json.dump(test_cities, file, indent=4, default=lambda x: x.to_dict())
 
 
 if __name__ == '__main__':

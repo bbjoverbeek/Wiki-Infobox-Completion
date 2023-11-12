@@ -57,8 +57,9 @@ def get_cities(population_size: int = 125000) -> list[dict[str, dict[str, str]]]
 
 
 def main():
-    cities = get_cities(125000)
-    with open("data/cities.json", "w") as file:
+    population = 1_000_000
+    cities = get_cities(population)
+    with open(f"data/cities_{population}.json", "w") as file:
         json.dump(cities, file, indent=4)
 
 

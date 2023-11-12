@@ -109,7 +109,8 @@ def main(argv: list[str]):
     Run with: python get_properties.py ./data/cities.json ./data/all_properties.json
     To get properties per city, set PER_CITY to True and run again.
     """
-    with open(argv[1], 'r', encoding='utf-8') as inp:
+    population = 1_000_000
+    with open(f"data/cities_{population}.json", 'r', encoding='utf-8') as inp:
         cities = [
             City(
                 name=city['name'],
@@ -124,21 +125,12 @@ def main(argv: list[str]):
     all_properties = create_all_properties_dict(properties_per_city)
 
     # write properties to file
-    with open(argv[2], 'w', encoding='utf-8') as out:
+    with open(f"data/properties-per-city_{population}.json", 'w', encoding='utf-8') as out:
         json.dump(properties_per_city, out, indent=4, default=lambda x: x.to_dict())
 
-    with open(argv[3], 'w', encoding='utf-8') as out:
+    with open(f"data/all-properties_{population}.json", 'w', encoding='utf-8') as out:
         json.dump(all_properties, out, indent=4, default=lambda x: x.to_dict())
 
-    print(
-        f'Done, properties for {len(properties_per_city)} cities written to file: {argv[2]}',
-        file=sys.stderr,
-    )
-
-    print(
-        f'Done, {len(all_properties)} properties written to file: {argv[3]}',
-        file=sys.stderr,
-    )
 
 
 if __name__ == '__main__':
