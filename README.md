@@ -4,23 +4,35 @@ The graph below shows the coherence of the files in this repository. The descrip
 
 ```mermaid
 flowchart TD
-    subgraph pre-processing
-        A(get_cities.py) --- R[[data/cities.json]] --> B(parse_infoboxes.py)
-    end
 
-    C(property_similarity.py) -.-> E & F & G
+
+    subgraph pre-processing
+        A(get_cities.py) --- R[[data/cities_125000.json]] 
+        A --- S[[data/cities_1mil.json]]
+        R --- D(get_properties.py) --- T[[data/all_properties.json]] 
+        D --- U[[data/properties_per_city.json]] 
+        T --- E(extract_embeddings.py) --- V[[all_properties_with_emb.json]]
+        V --- F(compute_threshold.py)
+        
+    end
+    
+    F --- Config("config.py\n  - threshold\n  - model\n  - seed")
+    Config -.- G
+
+    F -.-> C(property_similarity.py) -.-> G & Z
 
     subgraph testing system
-        R---> D
-        D(get_properties.py) --- S[[data/properties.json]] --> E(test_system.py)
+        U & V --- Z(test_system.py) --> '[[stdout]]
     end
 
     subgraph infobox completion
-        B --- T[["data/infoboxes.json"]]--> G & F
-        G(complete_infoboxes_robust.py)
-        F(complete_infoboxes_threshold.py)
-        G--> V[[data/completed_infoboxes_robust.json]]
-        F--> U[[data/completed_infoboxes_features.json]]
+        S --- B(parse_infoboxes.py)
+        B --- W[["data/infoboxes.json"]]--> I
+        I(main.py)
+        G(embeddings_alignment.py) -.-> I
+        H(value_alignment.py) -.-> I
+        I--> X[[data/completed_infoboxes.json]]
+        I--> Y[[data/value_aligned_infoboxes.json]]
     end
 
 ```
