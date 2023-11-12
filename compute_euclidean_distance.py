@@ -8,14 +8,14 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Load the model and tokenizer
-pipe = pipeline('feature-extraction', model='xlm-roberta-base', device=0)
+pipe = pipeline('feature-extraction', model='xlm-roberta-base', device="mps")
 
 
 def compute_similarity(
     token1: str,
     token2: str,
 ) -> float:
-    """Extracts word embeddings from an LLM and returns their euclidean distance."""
+    """Extracts word embeddings from an LLM and returns their Euclidean distance."""
 
     # Get embeddings for the input strings
     emb1 = np.array(pipe(token1)).mean(axis=1)
@@ -27,7 +27,7 @@ def compute_similarity(
 
 
 def main():
-    with open('data/all-properties.json', 'r', encoding='utf-8') as inp:
+    with open('test_properties.json', 'r', encoding='utf-8') as inp:
         all_properties = json.load(inp)
 
     euclidean_dist_mapping = dict()

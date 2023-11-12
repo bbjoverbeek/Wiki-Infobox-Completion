@@ -2,25 +2,30 @@
 from tqdm import tqdm
 import json
 import numpy as np
-from transformers import pipeline
+from transformers import pipeline, AutoTokenizer
 import warnings
-from hugging_face_token import token
 
 warnings.filterwarnings("ignore")
 
 # define types
-embedding = np.ndarray[float]
+Embedding = np.ndarray[float]
 
 # Load the model and tokenizer
-pipe = pipeline(
-    "feature-extraction", model="meta-llama/Llama-2-7b-hf", device=0, token=token
-)
+pipe = pipeline("feature-extraction", model="xlm-roberta-base", device=0, token=token)
+tokenizer = AutoTokenizer.from_pretrained("facebook/m2m100_418M")
 
 
-def extract_mean_embedding(token: str) -> embedding:
-    """Use pipe to extract word embedding for token. Take mean if len > 1"""
+def extract_mean_embedding(token: str) -> Embedding:
+    """Use pipe to extract word embedding for token. Take everage if result
+    is multiple embeddings.
+    """
+
+    inputs = tokenizer(token, return_tensors="pt")
+    inputs["decoder_input_ids"] = inputs["input_ids"]
 
     embedding = np.array(pipe(token)).mean(axis=1).squeeze()
+
+    # embedding = np.array(pipe(token)).mean(axis=1).squeeze()
 
     return embedding
 
@@ -28,7 +33,7 @@ def extract_mean_embedding(token: str) -> embedding:
 def extract_all_embeddings(all_properties: dict[str, dict]) -> dict[str, dict]:
     """Supplements the all_properties dict with embeddings for the properties"""
 
-    for property_id in tqdm(all_properties, leave=False):
+    for property_id in tqdm(all_properties):
         # extract full embeddgins
         # all_properties[property_id]['emb_nl_full'] = pipe(all_properties[property_id]['label_nl'])
         # all_properties[property_id]['emb_en_full'] = pipe(all_properties[property_id]['label_en'])
