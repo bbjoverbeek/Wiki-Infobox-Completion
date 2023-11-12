@@ -27,7 +27,7 @@ def compute_similarity(
 
 
 def main():
-    with open('data/all-properties.json', 'r', encoding='utf-8') as inp:
+    with open('test_properties.json', 'r', encoding='utf-8') as inp:
         all_properties = json.load(inp)
 
     euclidean_dist_mapping = dict()

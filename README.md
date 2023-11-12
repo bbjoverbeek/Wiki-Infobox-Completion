@@ -1,5 +1,7 @@
 # Wiki-Infobox-Completion
 
+## Overview
+
 The graph below shows the coherence of the files in this repository. The description below the graph contains more information and links to the respective files. 
 
 ```mermaid
@@ -50,3 +52,17 @@ To test how well the property_similarity.py script works, there are two scripts 
 The final processing happens in [complete_infoboxes_threshold.py](./complete_infoboxes_threshold.py) and [complete_infoboxes_robust.py](./complete_infoboxes_robust.py). The threshold variation uses code from test_system.py to set a similarity threshold. It will loop over the properties and if it finds one above the threshold it decides it is the same, and if no properties are found it will create a new property. The robust variation computes the similarity between all possible options, and will then pick the most similar properties. While this is computationally more expensive, this should be more robust since all combinations are tested. 
 
 The final test will be a qualitative evaluation, where we select a random sample of infoboxes from [completed_infoboxes_features.json](./data/completed_infoboxes_features.json) and [completed_infoboxes_robust.json](./data/completed_infoboxes_robust.json), and check if the completion was successful. 
+
+## Running the code
+
+To run the code, use a Python version of 3.10 or above.
+
+ Create a virtual environnment, activate it, and install the requirements:
+
+```bash
+python3 -m venv env
+source env/bin/activaten
+pip3 install -r requirements.txt
+```
+
+Then pick a file to run. The correct filenames are provided.
