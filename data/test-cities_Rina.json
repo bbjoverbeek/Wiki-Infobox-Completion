@@ -172,7 +172,7 @@
                 "values": [
                     "Juan Bautista De AnzaJose\u0301 Joaqui\u0301n MoragaFrancisco Palo\u0301u"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Body",
@@ -188,7 +188,7 @@
                 "values": [
                     "San Franciscan"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -196,7 +196,7 @@
                 "values": [
                     "UTC\u2013 08:00 (PST)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area codes",
@@ -204,7 +204,7 @@
                 "values": [
                     "415/628"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -222,7 +222,7 @@
                 "values": [
                     "46.9sqmi (121.48km2)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Rank",
@@ -349,7 +349,7 @@
                 "values": [
                     "UTC+5:30 (IST)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Telephone code",
@@ -357,7 +357,7 @@
                 "values": [
                     "079"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Vehicle registration",
@@ -365,7 +365,7 @@
                 "values": [
                     "GJ-18"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -439,7 +439,7 @@
                 "values": [
                     "TRT (UTC+3)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Postal code",
@@ -447,7 +447,7 @@
                 "values": [
                     "50300"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area code",
@@ -455,7 +455,7 @@
                 "values": [
                     "0384"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -463,7 +463,7 @@
                 "values": [
                     "www.nevsehir.bel.tr"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -519,7 +519,7 @@
                 "values": [
                     "Luc Atrokpo"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Total",
@@ -597,7 +597,7 @@
                 "values": [
                     "UTC+2 (EET)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area code",
@@ -605,7 +605,7 @@
                 "values": [
                     "(+20) 48"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -738,7 +738,7 @@
                 "values": [
                     "UTC+1 (CET)"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -902,7 +902,7 @@
                 "values": [
                     "web.archive.org/web/20020604231940/http://www.admins.maykop.ru/"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -1018,7 +1018,7 @@
                 "values": [
                     "Maria Aida Episcopo since 23 October 2023 (centre-left independent)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Total",
@@ -1034,7 +1034,7 @@
                 "values": [
                     "Foggians"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -1042,7 +1042,7 @@
                 "values": [
                     "UTC+1 (CET)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Postal code",
@@ -1050,7 +1050,7 @@
                 "values": [
                     "71121 - 71122 - 71100"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Dialingcode",
@@ -1058,7 +1058,7 @@
                 "values": [
                     "0881"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -1066,7 +1066,7 @@
                 "values": [
                     "www.comune.foggia.it"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -1140,7 +1140,7 @@
                 "values": [
                     "1958"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Founded by",
@@ -1148,7 +1148,7 @@
                 "values": [
                     "Haile Selassie"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Mayor",
@@ -1156,7 +1156,7 @@
                 "values": [
                     "Tsegaye Tuke Kia"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -1164,7 +1164,7 @@
                 "values": [
                     "UTC+3 (EAT)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area code",
@@ -1172,7 +1172,7 @@
                 "values": [
                     "46"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -1269,7 +1269,7 @@
                 "values": [
                     "1693"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Established",
@@ -1277,7 +1277,7 @@
                 "values": [
                     "1695"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Total",
@@ -1293,7 +1293,7 @@
                 "values": [
                     "Matancero/a"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -1301,7 +1301,7 @@
                 "values": [
                     "UTC-5 (EST)"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
