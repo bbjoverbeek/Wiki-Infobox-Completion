@@ -1,4 +1,4 @@
-"""Computes the threshold for the euclidean distance between embeddings."""
+"""Computes the threshold for the Euclidean distance between embeddings."""
 import json
 from sklearn.metrics import precision_score
 import numpy as np
@@ -20,7 +20,15 @@ def compute_similarity(emb1: list[float], emb2: list[float]) -> float:
 def create_similarity_mapping(
     properties: dict[str, dict]
 ) -> dict[str, dict[str, float]]:
-    """Computes the similarity between all property embeddings"""
+    """Computes the similarity between all property embeddings
+    Example output:
+    {
+         "P31": {
+             "P23": 0.012314,
+             "P31": 0.0013
+          }
+    }
+    """
 
     similarity_mapping = dict()
     for property_id1, value1 in tqdm(
@@ -31,13 +39,6 @@ def create_similarity_mapping(
             similarity_mapping[property_id1][property_id2] = compute_similarity(
                 value1["emb_nl"], value2["emb_en"]
             )
-
-    # {
-    #     "P31": {
-    #         "P23": 0.012314,
-    #         "P31": 0.0013
-    #      }
-    # }
 
     return similarity_mapping
 
@@ -72,7 +73,7 @@ def find_threshold(
 
 
 def main():
-    """Find the threshold for euclidean distance between embeddings.
+    """Find the threshold for the Euclidean distance between embeddings.
     Comment/uncomment saving/load of similarity mapping to save time."""
     with open("./data/all-properties-with-emb.json", "r", encoding="utf-8") as inp:
         all_properties = json.load(inp)
