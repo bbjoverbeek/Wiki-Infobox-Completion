@@ -1,5 +1,6 @@
 import itertools
 import json
+from enum import Enum
 
 from tqdm import tqdm
 from transformers import pipeline
@@ -34,11 +35,21 @@ def compute_similarity(
     return distance
 
 
-def get_unique_properties(cities: list[InfoBoxCity]) -> set[str]:
+class Language(Enum):
+    EN = "en"
+    NL = "nl"
+
+
+def get_unique_properties(cities: list[InfoBoxCity], language: Language) -> set[str]:
     properties = set()
 
     for city in cities:
-        properties.update(city.infobox_en.keys())
+        if language == Language.EN:
+            properties.update(city.infobox_en.keys())
+        elif language == Language.NL:
+            properties.update(city.infobox_nl.keys())
+        else:
+            raise ValueError(f"Unknown language {language}")
 
     return properties
 
@@ -48,8 +59,8 @@ def align_properties(
 ) -> dict[str, str]:
     alignments = {}
 
-    properties_en = get_unique_properties(cities)
-    properties_nl = get_unique_properties(cities)
+    properties_en = get_unique_properties(cities, Language.EN)
+    properties_nl = get_unique_properties(cities, Language.NL)
 
     for property_en, property_nl in tqdm(
             itertools.product(properties_en, properties_nl),
@@ -58,12 +69,11 @@ def align_properties(
     ):
         distance = compute_similarity(property_en, property_nl, mode)
 
-        match (mode, distance > COSINE_THRESHOLD, distance < EUCLIDEAN_THRESHOLD):
-            case (EmbeddingComparisonMode.COSINE, True, _) \
-                    if alignments[property_en] is None or alignments[property_en][1] > distance:
+        if mode == EmbeddingComparisonMode.COSINE and distance > COSINE_THRESHOLD:
+            if alignments.get(property_en, None) is None or alignments[property_en][1] < distance:
                 alignments[property_en] = (property_nl, distance)
-            case (EmbeddingComparisonMode.EUCLIDEAN, _, True) \
-                    if alignments[property_en] is None or alignments[property_en][1] < distance:
+        elif mode == EmbeddingComparisonMode.EUCLIDEAN and distance < EUCLIDEAN_THRESHOLD:
+            if alignments.get(property_en, None) is None or alignments[property_en][1] > distance:
                 alignments[property_en] = (property_nl, distance)
 
     return {key: value[0] for key, value in alignments.items()}

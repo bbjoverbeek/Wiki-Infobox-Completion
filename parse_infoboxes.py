@@ -108,7 +108,8 @@ def get_infoboxes(url: str) -> dict[str, list[str]]:
 
 
 def main():
-    with open("data/cities.json", "r") as file:
+    population = 1_000_000
+    with open(f"data/cities_{population}.json", "r") as file:
         cities = [
             InfoBoxCity(
                 name=city['name'],
@@ -125,7 +126,7 @@ def main():
         city.infobox_en = get_infoboxes(city.url_en)
         city.infobox_nl = get_infoboxes(city.url_nl)
 
-    with open("data/infoboxes.json", "w") as file:
+    with open(f"data/infoboxes_{population}.json", "w") as file:
         json.dump(cities, file, indent=4, default=lambda x: x.to_dict())
 
 

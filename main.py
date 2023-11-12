@@ -48,7 +48,8 @@ def complete_infobox(
 
 
 def main():
-    with open("data/infoboxes.json", "r") as file:
+    population = 250000
+    with open(f"data/infoboxes_{population}.json", "r") as file:
         cities = [InfoBoxCity.from_dict(city) for city in json.load(file)]
 
     value_properties = process_cities(cities)
@@ -58,7 +59,7 @@ def main():
         cities, EmbeddingComparisonMode.EUCLIDEAN
     )
 
-    with open("data/embedding-alignments.json", "w") as file:
+    with open(f"data/embedding-alignments_{population}.json", "w") as file:
         json.dump(embedding_alignments, file, indent=4)
 
     cities = complete_infobox(
@@ -68,10 +69,10 @@ def main():
     random.seed(RANDOM_SEED)
     test_cities = random.sample(cities, 40)
 
-    with open("data/cities-completed.json", "w") as file:
+    with open(f"data/cities-completed_{population}.json", "w") as file:
         json.dump(cities, file, indent=4, default=lambda x: x.to_dict())
 
-    with open("data/test-cities.json", "w") as file:
+    with open(f"data/test-cities_{population}.json", "w") as file:
         json.dump(test_cities, file, indent=4, default=lambda x: x.to_dict())
 
 
