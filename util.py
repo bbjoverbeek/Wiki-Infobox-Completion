@@ -1,4 +1,7 @@
+import json
 from dataclasses import dataclass
+from enum import Enum
+
 from dataclasses_json import dataclass_json
 
 
@@ -44,3 +47,22 @@ class InfoBoxCity:
     url_nl: str
     infobox_en: dict[str, list[str]]
     infobox_nl: dict[str, list[str]]
+
+    value_alignment_completed_infobox: dict[str, list[str]] = None
+    all_alignment_completed_infobox: dict[str, list[str]] = None
+
+
+
+class EmbeddingComparisonMode(Enum):
+    COSINE = "cosine"
+    EUCLIDEAN = "euclidean"
+
+
+def main():
+    with open("data/cities.json", "r") as file:
+        cities =  json.load(file)
+    print(len(cities))
+
+
+if __name__ == '__main__':
+    main()

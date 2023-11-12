@@ -62,7 +62,11 @@ def main():
     print(alignments)
 
     unique_en, unique_nl = get_unique_properties(cities)
-    print("unique_en: ", len(unique_en), "unique_nl: ", len(unique_nl), "alignments: ", len(alignments))
+    print(
+        "unique_en: ", len(unique_en),
+        "unique_nl: ", len(unique_nl),
+        "alignments: ", len(alignments)
+    )
 
 
 if __name__ == '__main__':

@@ -72,7 +72,7 @@ REMOVABLE_CHARACTERS = [
     "•",
 ]
 
-REMOVEABLE_CHARACTERS_REGEX = re.compile(
+REMOVABLE_CHARACTERS_REGEX = re.compile(
     r"(" + "|".join(map(re.escape, REMOVABLE_CHARACTERS)) + ")",
     flags=re.UNICODE
 )
@@ -86,7 +86,7 @@ def clean_text(value: str) -> str:
     :return: the clean text value
     """
     text = re.sub(r'\[[0-9\w]+]', '', value)
-    text = REMOVEABLE_CHARACTERS_REGEX.sub('', text)
+    text = REMOVABLE_CHARACTERS_REGEX.sub('', text)
     text = unicodedata.normalize("NFKD", text)
     text = text.strip()
     return text
@@ -98,12 +98,6 @@ def get_infoboxes(url: str) -> dict[str, list[str]]:
     :param url: the url of the wikipedia page
     :return: a dictionary with the infoboxes
     """
-
-    # page = wptools.page()
-    # page.get_parse()
-    # print(url)
-    # print(page.data["title"])
-    # print(page.data['infobox'])
 
     page = get_wiki_page(url)
     table = get_html_table_from_page(page)
