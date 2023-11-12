@@ -4,7 +4,6 @@ from networkx import min_cost_flow_cost
 import numpy as np
 from tqdm import tqdm
 import sys
-from complete_infoboxes_threshold import find_similarities
 
 from util import CityProperty, Property, City
 from sklearn.metrics import classification_report

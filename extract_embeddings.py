@@ -4,7 +4,6 @@ import json
 import numpy as np
 from transformers import pipeline
 import warnings
-from hugging_face_token import token
 
 warnings.filterwarnings("ignore")
 
@@ -13,7 +12,7 @@ embedding = np.ndarray[float]
 
 # Load the model and tokenizer
 pipe = pipeline(
-    "feature-extraction", model="meta-llama/Llama-2-7b-hf", device=0, token=token
+    "feature-extraction", model="meta-llama/Llama-2-7b-hf", device=0
 )
 
 
