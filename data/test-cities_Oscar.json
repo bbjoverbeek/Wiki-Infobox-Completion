@@ -61,7 +61,7 @@
                 "values": [
                     "UTC+2 (EET)"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -117,7 +117,7 @@
                 "values": [
                     "Abidjan"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Total",
@@ -133,7 +133,7 @@
                 "values": [
                     "UTC+0 (GMT)"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -213,7 +213,7 @@
                 "values": [
                     "213,718"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -221,7 +221,7 @@
                 "values": [
                     "UTC-6 (Central (CST))"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -358,7 +358,7 @@
                 "values": [
                     "Southeast"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Founded",
@@ -366,7 +366,7 @@
                 "values": [
                     "1698"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Founded by",
@@ -374,7 +374,7 @@
                 "values": [
                     "Nguye\u0302\u0303n Hu\u031b\u0303u Ca\u0309nh"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Districts",
@@ -382,7 +382,7 @@
                 "values": [
                     "16 urban districts, 5 rural districts and 1 sub-city"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Body",
@@ -398,7 +398,7 @@
                 "values": [
                     "9,320,866 (1st)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Demonym",
@@ -406,7 +406,7 @@
                 "values": [
                     "Saigonese"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -414,7 +414,7 @@
                 "values": [
                     "UTC+07:00 (ICT)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Postal code",
@@ -422,7 +422,7 @@
                 "values": [
                     "700000\u2013740000"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area codes",
@@ -430,7 +430,7 @@
                 "values": [
                     "28"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "ISO 3166 code",
@@ -446,7 +446,7 @@
                 "values": [
                     "41, 50\u201359"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -514,7 +514,7 @@
                 "values": [
                     "1979"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Total",
@@ -530,7 +530,7 @@
                 "values": [
                     "UTC+2 (EET)"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -596,7 +596,7 @@
                 "values": [
                     "UTC+1 (WAT (UTC+1))"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -742,7 +742,7 @@
                 "values": [
                     "Rao Jodha"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Body",
@@ -758,7 +758,7 @@
                 "values": [
                     "UTC+5:30 (IST)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Telephone code",
@@ -766,7 +766,7 @@
                 "values": [
                     "0291 /+91-291"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "ISO 3166 code",
@@ -782,7 +782,7 @@
                 "values": [
                     "RJ-19"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -790,7 +790,7 @@
                 "values": [
                     "jodhpur.rajasthan.gov.in"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -937,7 +937,7 @@
                 "values": [
                     "August27, 1793; 230 years ago(1793-08-27) (as York)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Districts",
@@ -945,7 +945,7 @@
                 "values": [
                     "East YorkEtobicokeNorth YorkOld TorontoScarboroughYork"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Body",
@@ -969,7 +969,7 @@
                 "values": [
                     "9,765,188"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Demonym",
@@ -977,7 +977,7 @@
                 "values": [
                     "Torontonian"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -985,7 +985,7 @@
                 "values": [
                     "UTC\u221205:00 (EST)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area codes",
@@ -993,7 +993,7 @@
                 "values": [
                     "416, 647, 437"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -1001,7 +1001,7 @@
                 "values": [
                     "www.toronto.ca"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -1087,7 +1087,7 @@
                 "values": [
                     "Ereg\u0306li"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Mayor",
@@ -1095,7 +1095,7 @@
                 "values": [
                     "Halil Posb\u0131y\u0131k (CHP)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -1103,7 +1103,7 @@
                 "values": [
                     "TRT (UTC+3)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Postal code",
@@ -1111,7 +1111,7 @@
                 "values": [
                     "67300"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area code",
@@ -1119,7 +1119,7 @@
                 "values": [
                     "0372"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -1127,7 +1127,7 @@
                 "values": [
                     "www.kdzeregli.bel.tr"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -1272,7 +1272,7 @@
                 "values": [
                     "Yevgeny Naumov"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Total",
@@ -1298,7 +1298,7 @@
                 "values": [
                     "www.krd.ru"
                 ],
-                "correct": false
+                "correct": true
             }
         ]
     }
