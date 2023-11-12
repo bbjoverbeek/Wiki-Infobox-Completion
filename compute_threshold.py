@@ -1,6 +1,19 @@
 from sklearn.metrics import precision_score
 import json
 from config import MODEL_NAME
+import numpy as np
+
+
+def compute_similarity(emb1: list[float], emb2: list[float]) -> float:
+    """Computes the similarity between two embeddings"""
+    # convert lists to np arrays
+    emb1 = np.array(emb1)
+    emb2 = np.array(emb2)
+
+    # compute euclidean distance
+    similarity = np.linalg.norm(emb1 - emb2)
+
+    return similarity
 
 
 def create_similarity_mapping(
@@ -58,18 +71,16 @@ def find_threshold(
 
 
 def main():
-    with open(
-        f"./data/all-properties-with-emb/{MODEL_NAME}.json", "r", encoding="utf-8"
-    ) as inp:
+    """Find the threshold for euclidean distance between embeddings.
+    Comment/uncomment saving/load of similarity mapping to save time."""
+    with open("./data/all-properties-with-emb.json", "r", encoding="utf-8") as inp:
         all_properties = json.load(inp)
 
     similarity_mapping = create_similarity_mapping(all_properties)
-    with open(
-        f"./data/similarity-mappings/{MODEL_NAME}.json", "w", encoding="utf-8"
-    ) as out:
+    with open("./data/similarity-mappings.json", "w", encoding="utf-8") as out:
         json.dump(similarity_mapping, out)
 
-    # with open(f"./data/similarity-mappings/{model}.json", "r", encoding="utf-8") as inp:
+    # with open(f"./data/similarity-mappings.json", "r", encoding="utf-8") as inp:
     #     similarity_mapping = json.load(inp)
 
     threshold = find_threshold(similarity_mapping, 0.8, 0.001)
