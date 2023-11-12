@@ -4,7 +4,6 @@ import json
 import numpy as np
 from transformers import pipeline, AutoTokenizer
 import warnings
-from hugging_face_token import token
 
 warnings.filterwarnings("ignore")
 
@@ -12,9 +11,7 @@ warnings.filterwarnings("ignore")
 Embedding = np.ndarray[float]
 
 # Load the model and tokenizer
-pipe = pipeline(
-    "feature-extraction", model="facebook/m2m100_418M", device=0, token=token
-)
+pipe = pipeline("feature-extraction", model="xlm-roberta-base", device=0, token=token)
 tokenizer = AutoTokenizer.from_pretrained("facebook/m2m100_418M")
 
 

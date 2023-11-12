@@ -4,13 +4,12 @@ from enum import Enum
 
 from tqdm import tqdm
 from transformers import pipeline
-from hugging_face_token import token
 import numpy as np
 
 from util import InfoBoxCity, EmbeddingComparisonMode
-from config import COSINE_THRESHOLD, EUCLIDEAN_THRESHOLD
+from config import COSINE_THRESHOLD, EUCLIDEAN_THRESHOLD, MODEL_NAME
 
-pipe = pipeline("feature-extraction", model="xlm-roberta-large", device=0, token=token)
+pipe = pipeline("feature-extraction", model=MODEL_NAME, device=0)
 
 
 def compute_similarity(
