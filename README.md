@@ -40,9 +40,9 @@ flowchart TD
 
 ```
 
-[get_cities.py](./get_cities.py) retrieves cities from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) that are an 'instance of' city and have a population of 125000 or more. It also creates a file with cities with a population of 250000 or more. These files get used by different parts of the program. This population threshold is to ensure that the cities are more likely have both an English and Dutch [wikipedia](https://www.wikipedia.org/) page, and to keep computing power to a reasonable amount. 
+[get_cities.py](./get_cities.py) retrieves cities from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) that are an 'instance of' city and have a population of 125,000 or more. It also creates a file with cities with a population of 250,000 or more. These files get used by different parts of the program. This population threshold is to ensure that the cities are more likely have both an English and Dutch [wikipedia](https://www.wikipedia.org/) page, and to keep computing power to a reasonable amount. 
 
-[cities.json](data/cities.json) contains the cities found by get_cities.py with 125000 inhabitants. For each city the file contains the name of that city in English and the link to the Wikidata page. [cities_25000.json](data/test-cities_250000.json) contatains the > 250000 inhabitants version. 
+[cities.json](data/cities.json) contains the cities found by get_cities.py with 125,000 inhabitants. For each city the file contains the name of that city in English and the link to the Wikidata page. [cities_25000.json](data/test-cities_250000.json) contains the > 250,000 inhabitants version. 
 
 [parse_infoboxes.py](./parse_infoboxes.py) retrieves every Wikipedia page in cities.json and retrieves the infoboxes. It processes the infoboxes into [data/infoboxes.json](./data/infoboxes_250000.json), which contains all the property-value pairs for every city in both languages.
 
