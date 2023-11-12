@@ -1,7 +1,8 @@
-from sklearn.metrics import precision_score
+"""Computes the threshold for the euclidean distance between embeddings."""
 import json
-from config import MODEL_NAME
+from sklearn.metrics import precision_score
 import numpy as np
+from tqdm import tqdm
 
 
 def compute_similarity(emb1: list[float], emb2: list[float]) -> float:
