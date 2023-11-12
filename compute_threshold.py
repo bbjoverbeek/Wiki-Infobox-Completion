@@ -77,12 +77,13 @@ def main():
     with open("./data/all-properties-with-emb.json", "r", encoding="utf-8") as inp:
         all_properties = json.load(inp)
 
-    similarity_mapping = create_similarity_mapping(all_properties)
-    with open("./data/similarity-mappings.json", "w", encoding="utf-8") as out:
-        json.dump(similarity_mapping, out)
-
-    # with open(f"./data/similarity-mappings.json", "r", encoding="utf-8") as inp:
-    #     similarity_mapping = json.load(inp)
+    try:
+        with open("./data/similarity-mappings.json", "r", encoding="utf-8") as inp:
+            similarity_mapping = json.load(inp)
+    except FileNotFoundError:
+        similarity_mapping = create_similarity_mapping(all_properties)
+        with open("./data/similarity-mappings.json", "w", encoding="utf-8") as out:
+            json.dump(similarity_mapping, out)
 
     threshold = find_threshold(similarity_mapping, 0.8, 0.001)
     print(f"Found threshold: {threshold:.3f}")
