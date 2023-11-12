@@ -8,7 +8,7 @@ flowchart TD
 
     subgraph pre-processing
         A(get_cities.py) --- R[[data/cities_125000.json]] 
-        A --- S[[data/cities_1mil.json]]
+        A --- S[[data/cities_250000.json]]
         R --- D(get_properties.py) --- T[[data/all_properties.json]] 
         D --- U[[data/properties_per_city.json]] 
         T --- E(extract_embeddings.py) --- V[[all_properties_with_emb.json]]
@@ -26,13 +26,13 @@ flowchart TD
     end
 
     subgraph infobox completion
-        S --- B(parse_infoboxes.py)
-        B --- W[["data/infoboxes.json"]]--> I
+        S & R --- B(parse_infoboxes.py)
+        B --- W[["data/infoboxes_125000.json"]]--> I
+        B --- Y[["data/infoboxes_250000.json"]] --> I
         I(main.py)
         G(embeddings_alignment.py) -.-> I
         H(value_alignment.py) -.-> I
         I--> X[[data/completed_infoboxes.json]]
-        I--> Y[[data/value_aligned_infoboxes.json]]
     end
 
 ```
