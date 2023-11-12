@@ -53,7 +53,7 @@
                 "values": [
                     "Lower Juba"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "District",
@@ -61,7 +61,7 @@
                 "values": [
                     "Kismayo District"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "City",
@@ -77,7 +77,7 @@
                 "values": [
                     "UTC+3 (EAT)"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -145,7 +145,7 @@
                 "values": [
                     "Henri Mungoma"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "City",
@@ -161,7 +161,7 @@
                 "values": [
                     "UTC+2 (Central Africa Time)"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -273,7 +273,7 @@
                     "37",
                     "XinyingYanshueiBaiheLiouyingHoubiDongshanMadouXiayingLioujiaGuantianDaneiJialiSyuejiaSigangCiguJiangjunBeimenSinhuaShanhuaSinshihAndingShanshanYujingNansiNanhuaZuojhenRendeGueirenGuanmiaoLongciYongkangEastSouthNorthAnnanAnpingWest Central"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Body",
@@ -281,7 +281,7 @@
                 "values": [
                     "Tainan City GovernmentTainan City Council"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Mayor",
@@ -289,7 +289,7 @@
                 "values": [
                     "Huang Wei-cher (DPP)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -297,7 +297,7 @@
                 "values": [
                     "UTC+8 (National Standard Time)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Postal code",
@@ -305,7 +305,7 @@
                 "values": [
                     "700\u2013745"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area code",
@@ -313,7 +313,7 @@
                 "values": [
                     "(0)6"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "ISO 3166 code",
@@ -321,7 +321,7 @@
                 "values": [
                     "TW-TNN"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Flower",
@@ -329,7 +329,7 @@
                 "values": [
                     "Phalaenopsis"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -337,7 +337,7 @@
                 "values": [
                     "www.tainan.gov.tw/en/  (in English)"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -441,7 +441,7 @@
                 "values": [
                     "Plzen\u030c"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "District",
@@ -449,7 +449,7 @@
                 "values": [
                     "Plzen\u030c-City"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Total",
@@ -465,7 +465,7 @@
                 "values": [
                     "UTC+1 (CET)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Postal codes",
@@ -473,7 +473,7 @@
                 "values": [
                     "301 00 \u2013 326 00"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -589,7 +589,7 @@
                 "values": [
                     "38"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Mayor",
@@ -597,7 +597,7 @@
                 "values": [
                     "Chen Chi-mai (DPP)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Total",
@@ -613,7 +613,7 @@
                 "values": [
                     "UTC+8 (National Standard Time)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Postal code",
@@ -621,7 +621,7 @@
                 "values": [
                     "800\u2013852"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "ISO 3166 code",
@@ -629,7 +629,7 @@
                 "values": [
                     "TW-KHH"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -637,7 +637,7 @@
                 "values": [
                     "www.kcg.gov.tw/en  (in English)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Flower",
@@ -645,7 +645,7 @@
                 "values": [
                     "Chinese hibiscus (Hibiscus rosa-sinensis)"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": []
@@ -743,7 +743,7 @@
                 "values": [
                     "Winnipeg Metropolitan Region"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Mayor",
@@ -751,7 +751,7 @@
                 "values": [
                     "Scott Gillingham"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Governing body",
@@ -759,7 +759,7 @@
                 "values": [
                     "Winnipeg City Council"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "City",
@@ -775,7 +775,7 @@
                 "values": [
                     "Winnipegger"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -783,7 +783,7 @@
                 "values": [
                     "UTC\u22126 (CST)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -791,7 +791,7 @@
                 "values": [
                     "www.winnipeg.ca"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -801,7 +801,7 @@
                 "values": [
                     "461.78km2 (178.29sqmi)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Metro",
@@ -921,7 +921,7 @@
                 "values": [
                     "Yeongnam"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Districts",
@@ -929,7 +929,7 @@
                 "values": [
                     "5 (including 1 county)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Mayor",
@@ -937,7 +937,7 @@
                 "values": [
                     "Kim Du-gyeom(People Power)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Body",
@@ -945,7 +945,7 @@
                 "values": [
                     "Ulsan Metropolitan Council"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Total",
@@ -961,7 +961,7 @@
                 "values": [
                     "Ulsanian"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area code",
@@ -969,7 +969,7 @@
                 "values": [
                     "+82-52(2)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "ISO 3166 code",
@@ -977,7 +977,7 @@
                 "values": [
                     "KR-31"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Flower",
@@ -985,7 +985,7 @@
                 "values": [
                     "Pear flower"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -993,7 +993,7 @@
                 "values": [
                     "Official website (English)"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -1106,7 +1106,7 @@
                 "values": [
                     "City Municipal Council"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Total",
@@ -1122,7 +1122,7 @@
                 "values": [
                     "Hassanadavaru"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -1130,7 +1130,7 @@
                 "values": [
                     "UTC+5:30 (IST)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Telephone code",
@@ -1138,7 +1138,7 @@
                 "values": [
                     "ISD 00918172 / STD CODE 08172"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "ISO 3166 code",
@@ -1146,7 +1146,7 @@
                 "values": [
                     "IN-KA"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Vehicle registration",
@@ -1154,7 +1154,7 @@
                 "values": [
                     "KA-13"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Website",
@@ -1162,7 +1162,7 @@
                 "values": [
                     "http://www.hassancity.mrc.gov.in/"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -1259,7 +1259,7 @@
                 "values": [
                     "Gujrat"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Total",
@@ -1275,7 +1275,7 @@
                 "values": [
                     "UTC+5 (PKT)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Postal code",
@@ -1283,7 +1283,7 @@
                 "values": [
                     "50700"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [
@@ -1393,7 +1393,7 @@
                 "values": [
                     "(1) 8 September 1529, (2) 1569, (3) 1574"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Founded by",
@@ -1401,7 +1401,7 @@
                 "values": [
                     "Ambrosio Alfi\u0301nger (1529), Captain Alonso Pacheco (1569), Captain Pedro Maldonado (1574)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Body",
@@ -1409,7 +1409,7 @@
                 "values": [
                     "Alcaldi\u0301a de Maracaibo"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Municipality",
@@ -1417,7 +1417,7 @@
                 "values": [
                     "2,658,355"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Time zone",
@@ -1425,7 +1425,7 @@
                 "values": [
                     "UTC\u22124 (VET)"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "Area code",
@@ -1433,7 +1433,7 @@
                 "values": [
                     "261"
                 ],
-                "correct": false
+                "correct": true
             },
             {
                 "original_property": "ISO 3166 code",
@@ -1441,7 +1441,7 @@
                 "values": [
                     "VE-V"
                 ],
-                "correct": false
+                "correct": true
             }
         ],
         "embedding_alignment_completed_infobox": [

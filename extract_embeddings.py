@@ -1,4 +1,4 @@
-"""Computes the wuclidean distance between all properties in Dutch and English"""
+"""Computes the Euclidean distance between all properties in Dutch and English"""
 from tqdm import tqdm
 import json
 import numpy as np
