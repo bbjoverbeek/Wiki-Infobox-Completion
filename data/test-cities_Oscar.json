@@ -1,0 +1,1305 @@
+[
+    {
+        "name": "Bilbeis",
+        "uri": "http://www.wikidata.org/entity/Q393495",
+        "url_en": "https://en.wikipedia.org/wiki/Bilbeis",
+        "url_nl": "https://nl.wikipedia.org/wiki/Bilbeis",
+        "infobox_en": {
+            "Country": [
+                "Egypt"
+            ],
+            "Governorate": [
+                "Sharqia Governorate"
+            ],
+            "Total": [
+                "866,246"
+            ],
+            "Elevation": [
+                "12m (39ft)"
+            ],
+            "Density": [
+                "2,600/km2 (6,700/sqmi)"
+            ],
+            "Time zone": [
+                "UTC+2 (EET)"
+            ]
+        },
+        "infobox_nl": {
+            "Gouvernement": [
+                "Ash Sharqiyah"
+            ],
+            "Coo\u0308rdinaten": [
+                "30\u00b0 25\u2032 NB, 31\u00b0 33\u2032 OL"
+            ],
+            "Inwoners (2006)": [
+                "136.499"
+            ],
+            "Hoogte": [
+                "4 m"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Egypt"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "866,246"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+2 (EET)"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Bingerville",
+        "uri": "http://www.wikidata.org/entity/Q863795",
+        "url_en": "https://en.wikipedia.org/wiki/Bingerville",
+        "url_nl": "https://nl.wikipedia.org/wiki/Bingerville",
+        "infobox_en": {
+            "Country": [
+                "Ivory Coast"
+            ],
+            "District": [
+                "Abidjan"
+            ],
+            "Total": [
+                "204,656"
+            ],
+            "Density": [
+                "670/km2 (1,700/sqmi)"
+            ],
+            "Town": [
+                "64,015"
+            ],
+            "": [
+                "(2014 census)"
+            ],
+            "Time zone": [
+                "UTC+0 (GMT)"
+            ]
+        },
+        "infobox_nl": {
+            "Coo\u0308rdinaten": [
+                "5\u00b0 21\u2032 NB, 3\u00b0 54\u2032 WL"
+            ],
+            "Inwoners (1998)": [
+                "56.357"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Ivory Coast"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "District",
+                "property_": "District",
+                "values": [
+                    "Abidjan"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "204,656"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+0 (GMT)"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Le\u00f3n",
+        "uri": "http://www.wikidata.org/entity/Q208151",
+        "url_en": "https://en.wikipedia.org/wiki/Le%C3%B3n,_Nicaragua",
+        "url_nl": "https://nl.wikipedia.org/wiki/Le%C3%B3n_(Nicaragua)",
+        "infobox_en": {
+            "Country": [
+                "Nicaragua"
+            ],
+            "Department": [
+                "Leo\u0301n"
+            ],
+            "Mayor": [
+                "Roger Gurdia\u0301n Vijil"
+            ],
+            "Municipality": [
+                "213,718"
+            ],
+            "Elevation": [
+                "109.21m (358.30ft)"
+            ],
+            "Density": [
+                "260/km2 (680/sqmi)"
+            ],
+            "Urban": [
+                "176,171 (2nd Nicaragua)"
+            ],
+            "Time zone": [
+                "UTC-6 (Central (CST))"
+            ]
+        },
+        "infobox_nl": {
+            "Departement of regio": [
+                "Leo\u0301n"
+            ],
+            "Coo\u0308rdinaten": [
+                "12\u00b0 26\u2032 NB, 86\u00b0 53\u2032 WL"
+            ],
+            "Oppervlakte": [
+                "820,19 km2"
+            ],
+            "Inwoners (2015)": [
+                "204.985 (250 inw./km2)"
+            ],
+            "Hoogte": [
+                "109,21 m"
+            ],
+            "Burgemeester": [
+                "Ro\u0301ger Salvador Gurdia\u0301n Vigil"
+            ],
+            "Gesticht": [
+                "1523"
+            ],
+            "Gemeentecode": [
+                "3540"
+            ],
+            "Website": [
+                "leonmunicipio.com"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Nicaragua"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Municipality",
+                "property_": "Gemeente",
+                "values": [
+                    "213,718"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC-6 (Central (CST))"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Ho Chi Minh City",
+        "uri": "http://www.wikidata.org/entity/Q1854",
+        "url_en": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City",
+        "url_nl": "https://nl.wikipedia.org/wiki/Ho_Chi_Minhstad",
+        "infobox_en": {
+            "Country": [
+                "Vietnam"
+            ],
+            "Region": [
+                "Southeast"
+            ],
+            "Founded": [
+                "1698"
+            ],
+            "Founded by": [
+                "Nguye\u0302\u0303n Hu\u031b\u0303u Ca\u0309nh"
+            ],
+            "Named for": [
+                "Ho Chi Minh"
+            ],
+            "Districts": [
+                "16 urban districts, 5 rural districts and 1 sub-city"
+            ],
+            "Type": [
+                "Municipality"
+            ],
+            "Body": [
+                "Ho Chi Minh City People's Council"
+            ],
+            "Secretary of CPV": [
+                "Nguye\u0302\u0303n Va\u0306n Ne\u0302n"
+            ],
+            "Chairwoman of People's Council": [
+                "Nguye\u0302\u0303n Thi\u0323 Le\u0323\u0302"
+            ],
+            "Chairman of People's Committee": [
+                "Phan Va\u0306n Ma\u0303i"
+            ],
+            "Municipality": [
+                "9,320,866 (1st)"
+            ],
+            "Metro": [
+                "21,281,639 (1st)"
+            ],
+            "Elevation": [
+                "19m (63ft)"
+            ],
+            "Density": [
+                "4,375/km2 (11,330/sqmi)"
+            ],
+            "Metrodensity": [
+                "697.2/km2 (1,806/sqmi)"
+            ],
+            "Demonym": [
+                "Saigonese"
+            ],
+            "Time zone": [
+                "UTC+07:00 (ICT)"
+            ],
+            "Postal code": [
+                "700000\u2013740000"
+            ],
+            "Area codes": [
+                "28"
+            ],
+            "ISO 3166 code": [
+                "VN-SG"
+            ],
+            "License plate": [
+                "41, 50\u201359"
+            ],
+            "GRP (Nominal)": [
+                "2022"
+            ],
+            "\u2013 Total": [
+                "US$199.7 billion"
+            ],
+            "\u2013 Per capita": [
+                "US$21,640"
+            ],
+            "GRP (PPP)": [
+                "2022"
+            ],
+            "HDI (2020)": [
+                "0.795 (2nd)"
+            ],
+            "International airports": [
+                "Tan Son Nhat International Airport (SGN)"
+            ],
+            "Rapid transit system": [
+                "Ho Chi Minh City Metro"
+            ],
+            "Website": [
+                "hochiminhcity.gov.vn"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Ho Chi Minhstad"
+            ],
+            "Coo\u0308rdinaten": [
+                "10\u00b0 45\u2032 NB, 106\u00b0 40\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "2.096,56 km2"
+            ],
+            "Inwoners (2019)": [
+                "8.993.082 (4363 inw./km2)"
+            ],
+            "Hoogte": [
+                "19 m"
+            ],
+            "Website": [
+                "https://hochiminhcity.gov.vn"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Vietnam"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Region",
+                "property_": "Regio",
+                "values": [
+                    "Southeast"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded",
+                "property_": "Gesticht",
+                "values": [
+                    "1698"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded by",
+                "property_": "Opgericht door",
+                "values": [
+                    "Nguye\u0302\u0303n Hu\u031b\u0303u Ca\u0309nh"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Districts",
+                "property_": "District",
+                "values": [
+                    "16 urban districts, 5 rural districts and 1 sub-city"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "Ho Chi Minh City People's Council"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Municipality",
+                "property_": "Gemeente",
+                "values": [
+                    "9,320,866 (1st)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Demonym",
+                "property_": "Naam inwoner",
+                "values": [
+                    "Saigonese"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+07:00 (ICT)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Postal code",
+                "property_": "Postcode",
+                "values": [
+                    "700000\u2013740000"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area codes",
+                "property_": "Netnummer(s)",
+                "values": [
+                    "28"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "ISO 3166 code",
+                "property_": "ISO 3166-2:TH",
+                "values": [
+                    "VN-SG"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "License plate",
+                "property_": "Kenteken",
+                "values": [
+                    "41, 50\u201359"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Metro",
+                "property_": "UTC",
+                "values": [
+                    "21,281,639 (1st)"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "6th of October City",
+        "uri": "http://www.wikidata.org/entity/Q335708",
+        "url_en": "https://en.wikipedia.org/wiki/6th_of_October_(city)",
+        "url_nl": "https://nl.wikipedia.org/wiki/Zes_Oktober_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Egypt"
+            ],
+            "Governorate": [
+                "Giza"
+            ],
+            "Founded": [
+                "1979"
+            ],
+            "Named for": [
+                "1973 Arab\u2013Israeli War"
+            ],
+            "Total": [
+                "207,505"
+            ],
+            "Density": [
+                "2,400/sqmi (910/km2)"
+            ],
+            "Time zone": [
+                "UTC+2 (EET)"
+            ]
+        },
+        "infobox_nl": {
+            "Gouvernement": [
+                "Gizeh"
+            ],
+            "Coo\u0308rdinaten": [
+                "29\u00b0 49\u2032 NB, 31\u00b0 3\u2032 OL"
+            ],
+            "Inwoners (2006)": [
+                "157.135"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Egypt"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded",
+                "property_": "Gesticht",
+                "values": [
+                    "1979"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "207,505"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+2 (EET)"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Ogbomosho",
+        "uri": "http://www.wikidata.org/entity/Q500366",
+        "url_en": "https://en.wikipedia.org/wiki/Ogbomosho",
+        "url_nl": "https://nl.wikipedia.org/wiki/Ogbomosho",
+        "infobox_en": {
+            "Country": [
+                "Nigeria"
+            ],
+            "State": [
+                "Oyo State"
+            ],
+            "Elevation": [
+                "347m (1,138ft)"
+            ],
+            "Urban": [
+                "454,690 (2,006 census)",
+                "2,702,550 (est. 2,023)"
+            ],
+            "Urbandensity": [
+                "2,110/km2 (5,500/sqmi)"
+            ],
+            "Metro": [
+                "2,000,000"
+            ],
+            "Time zone": [
+                "UTC+1 (WAT (UTC+1))"
+            ],
+            "Climate": [
+                "Aw"
+            ],
+            "National language": [
+                "Yoru\u0300ba\u0301"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Oyo"
+            ],
+            "Coo\u0308rdinaten": [
+                "8\u00b0 8\u2032 NB, 4\u00b0 14\u2032 OL"
+            ],
+            "Inwoners (2005)": [
+                "861.303"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Nigeria"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+1 (WAT (UTC+1))"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Metro",
+                "property_": "UTC",
+                "values": [
+                    "2,000,000"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Jodhpur",
+        "uri": "http://www.wikidata.org/entity/Q200019",
+        "url_en": "https://en.wikipedia.org/wiki/Jodhpur",
+        "url_nl": "https://nl.wikipedia.org/wiki/Jodhpur_(Rajasthan)",
+        "infobox_en": {
+            "Country": [
+                "India"
+            ],
+            "State": [
+                "Rajasthan"
+            ],
+            "Division": [
+                "Jodhpur"
+            ],
+            "District": [
+                "Jodhpur"
+            ],
+            "Settled": [
+                "1459; 564years ago(1459)"
+            ],
+            "Founded by": [
+                "Rao Jodha"
+            ],
+            "Named for": [
+                "Rao Jodha"
+            ],
+            "Type": [
+                "Municipal Corporation"
+            ],
+            "Body": [
+                "Jodhpur North Municipal CorporationJodhpur South Municipal Corporation"
+            ],
+            "Mayor(s)": [
+                "Kunti Deora Parihar (Jodhpur North) (INC)",
+                "Vanita Seth (Jodhpur South) (BJP)"
+            ],
+            "Member of Parliament": [
+                "Gajendra Singh Shekhawat (BJP)"
+            ],
+            "Member of Legislative Assembly": [
+                "Manisha Panwar (INC)"
+            ],
+            "Collector & DM": [
+                "Himanshu Gupta, IAS"
+            ],
+            "Metropolis": [
+                "1,533,756"
+            ],
+            "Metro": [
+                "2,330,000"
+            ],
+            "Elevation2": [
+                "231m (758ft)"
+            ],
+            "Rank": [
+                "43rd"
+            ],
+            "Density": [
+                "3,400/km2 (8,700/sqmi)"
+            ],
+            "Demonym(s)": [
+                "Jodhpuri, Marwari"
+            ],
+            "Official": [
+                "Hindi, English"
+            ],
+            "Native": [
+                "Marwari, Rajasthani"
+            ],
+            "Time zone": [
+                "UTC+5:30 (IST)"
+            ],
+            "PIN": [
+                "342001"
+            ],
+            "Telephone code": [
+                "0291 /+91-291"
+            ],
+            "ISO 3166 code": [
+                "RJ-IN"
+            ],
+            "Vehicle registration": [
+                "RJ-19"
+            ],
+            "Website": [
+                "jodhpur.rajasthan.gov.in"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Rajasthan"
+            ],
+            "District": [
+                "Jodhpur"
+            ],
+            "Coo\u0308rdinaten": [
+                "26\u00b0 17\u2032 NB, 73\u00b0 1\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "95,5 km2"
+            ],
+            "Inwoners (2011)": [
+                "1.033.756"
+            ],
+            "Hoogte": [
+                "231 m"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "India"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Settled",
+                "property_": "Stichtingsjaar",
+                "values": [
+                    "1459; 564years ago(1459)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded by",
+                "property_": "Opgericht door",
+                "values": [
+                    "Rao Jodha"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "Jodhpur North Municipal CorporationJodhpur South Municipal Corporation"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+5:30 (IST)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Telephone code",
+                "property_": "Netnummer(s)",
+                "values": [
+                    "0291 /+91-291"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "ISO 3166 code",
+                "property_": "ISO 3166-2:TH",
+                "values": [
+                    "RJ-IN"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Vehicle registration",
+                "property_": "Kenteken",
+                "values": [
+                    "RJ-19"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "jodhpur.rajasthan.gov.in"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Metro",
+                "property_": "UTC",
+                "values": [
+                    "2,330,000"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Rank",
+                "property_": "Boom",
+                "values": [
+                    "43rd"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "PIN",
+                "property_": "Status",
+                "values": [
+                    "342001"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Toronto",
+        "uri": "http://www.wikidata.org/entity/Q172",
+        "url_en": "https://en.wikipedia.org/wiki/Toronto",
+        "url_nl": "https://nl.wikipedia.org/wiki/Toronto",
+        "infobox_en": {
+            "Country": [
+                "Canada"
+            ],
+            "Province": [
+                "Ontario"
+            ],
+            "Established": [
+                "August27, 1793; 230 years ago(1793-08-27) (as York)"
+            ],
+            "Incorporated": [
+                "March6, 1834; 189 years ago(1834-03-06) (as City of Toronto)"
+            ],
+            "Amalgamated into division": [
+                "January20, 1953; 70 years ago(1953-01-20) (as Metropolitan Toronto)"
+            ],
+            "Amalgamated": [
+                "January1, 1998; 25 years ago(1998-01-01) (as current City of Toronto)"
+            ],
+            "Districts": [
+                "East YorkEtobicokeNorth YorkOld TorontoScarboroughYork"
+            ],
+            "Type": [
+                "Single-tier municipality with a mayor\u2013council system"
+            ],
+            "Mayor": [
+                "Olivia Chow"
+            ],
+            "Deputy Mayor": [
+                "Ausma Malik"
+            ],
+            "Body": [
+                "Toronto City Council"
+            ],
+            "City": [
+                "2,794,356 (1st)"
+            ],
+            "Urban": [
+                "1,792.99km2 (692.28sqmi)"
+            ],
+            "Metro": [
+                "6,202,225 (1st)"
+            ],
+            "Elevation": [
+                "76.5m (251.0ft)"
+            ],
+            "Density": [
+                "4,427.8/km2 (11,468/sqmi)"
+            ],
+            "Region": [
+                "9,765,188"
+            ],
+            "Demonym": [
+                "Torontonian"
+            ],
+            "Time zone": [
+                "UTC\u221205:00 (EST)"
+            ],
+            "Summer (DST)": [
+                "UTC\u221204:00 (EDT)"
+            ],
+            "Postal code span": [
+                "M"
+            ],
+            "Area codes": [
+                "416, 647, 437"
+            ],
+            "GDP (Toronto CMA)": [
+                "CA$442.2billion (2019)"
+            ],
+            "GDP per capita (Toronto CMA)": [
+                "CA$62,873 (2019)"
+            ],
+            "Website": [
+                "www.toronto.ca"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Ontario"
+            ],
+            "Coo\u0308rdinaten": [
+                "43\u00b0 38\u2032 NB, 79\u00b0 24\u2032 WL"
+            ],
+            "Oppervlakte": [
+                "630 km2"
+            ],
+            "Inwoners": [
+                "2.930.000 (4651 inw./km2)"
+            ],
+            "Hoogte": [
+                "76 m"
+            ],
+            "Burgemeester": [
+                "Olivia Chow (2023-2026)"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Canada"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Established",
+                "property_": "Gesticht",
+                "values": [
+                    "August27, 1793; 230 years ago(1793-08-27) (as York)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Districts",
+                "property_": "District",
+                "values": [
+                    "East YorkEtobicokeNorth YorkOld TorontoScarboroughYork"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "Toronto City Council"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "City",
+                "property_": "Inwoners (2011)",
+                "values": [
+                    "2,794,356 (1st)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Region",
+                "property_": "Regio",
+                "values": [
+                    "9,765,188"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Demonym",
+                "property_": "Naam inwoner",
+                "values": [
+                    "Torontonian"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC\u221205:00 (EST)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area codes",
+                "property_": "Netnummer(s)",
+                "values": [
+                    "416, 647, 437"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "www.toronto.ca"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Metro",
+                "property_": "UTC",
+                "values": [
+                    "6,202,225 (1st)"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Karadeniz Ere\u011fli",
+        "uri": "http://www.wikidata.org/entity/Q1012887",
+        "url_en": "https://en.wikipedia.org/wiki/Karadeniz_Ere%C4%9Fli",
+        "url_nl": "https://nl.wikipedia.org/wiki/Ere%C4%9Fli_(Zonguldak)",
+        "infobox_en": {
+            "Country": [
+                "Turkey"
+            ],
+            "Province": [
+                "Zonguldak"
+            ],
+            "District": [
+                "Ereg\u0306li"
+            ],
+            "Mayor": [
+                "Halil Posb\u0131y\u0131k (CHP)"
+            ],
+            "Elevation": [
+                "5m (16ft)"
+            ],
+            "Population(2022)": [
+                "122,282"
+            ],
+            "Time zone": [
+                "TRT (UTC+3)"
+            ],
+            "Postal code": [
+                "67300"
+            ],
+            "Area code": [
+                "0372"
+            ],
+            "Climate": [
+                "Cfb"
+            ],
+            "Website": [
+                "www.kdzeregli.bel.tr"
+            ]
+        },
+        "infobox_nl": {
+            "Regio": [
+                "Zonguldak"
+            ],
+            "Coo\u0308rdinaten": [
+                "41\u00b0 16\u2032 NB, 31\u00b0 26\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "782 km2"
+            ],
+            "Inwoners": [
+                "117.456 (132 inw./km2)"
+            ],
+            "Hoogte": [
+                "12 m"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Turkey"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "District",
+                "property_": "District",
+                "values": [
+                    "Ereg\u0306li"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "Halil Posb\u0131y\u0131k (CHP)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "TRT (UTC+3)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Postal code",
+                "property_": "Postcode",
+                "values": [
+                    "67300"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area code",
+                "property_": "Netnummer",
+                "values": [
+                    "0372"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "www.kdzeregli.bel.tr"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Krasnodar",
+        "uri": "http://www.wikidata.org/entity/Q3646",
+        "url_en": "https://en.wikipedia.org/wiki/Krasnodar",
+        "url_nl": "https://nl.wikipedia.org/wiki/Krasnodar",
+        "infobox_en": {
+            "Country": [
+                "Russia"
+            ],
+            "Federal subject": [
+                "Krasnodar Krai"
+            ],
+            "Founded": [
+                "January12, 1794"
+            ],
+            "City status since": [
+                "1867"
+            ],
+            "Body": [
+                "City Duma"
+            ],
+            "Mayor": [
+                "Yevgeny Naumov"
+            ],
+            "Elevation": [
+                "25m (82ft)"
+            ],
+            "Total": [
+                "744,995"
+            ],
+            "Estimate(2018)": [
+                "899,541 (+20.7%)"
+            ],
+            "Rank": [
+                "16th in 2010"
+            ],
+            "Subordinated to": [
+                "City of Krasnodar"
+            ],
+            "Capital of": [
+                "Krasnodar Urban Okrug"
+            ],
+            "Urban okrug": [
+                "Krasnodar Urban Okrug"
+            ],
+            "Time zone": [
+                "UTC+3 (MSK)"
+            ],
+            "Postal code(s)": [
+                "List",
+                "350000\u2013350005, 350007, 350010\u2013350012, 350014\u2013350016, 350018\u2013350020, 350033, 350035, 350038\u2013350040, 350042, 350044, 350047, 350049, 350051, 350058, 350059, 350061\u2013350067, 350072, 350075, 350078, 350080, 350086\u2013350090, 350500, 350880, 350890, 350899\u2013350901, 350910\u2013350912, 350931, 350960, 350961, 350963\u2013350965, 350991\u2013350999"
+            ],
+            "Dialing code(s)": [
+                "+7861"
+            ],
+            "OKTMO ID": [
+                "03701000001"
+            ],
+            "CityDay": [
+                "Last non-working day of September"
+            ],
+            "Website": [
+                "www.krd.ru"
+            ]
+        },
+        "infobox_nl": {
+            "Land": [
+                "Rusland"
+            ],
+            "Federaal district": [
+                "Zuid"
+            ],
+            "Deelgebied": [
+                "Kraj Krasnodar"
+            ],
+            "Coo\u0308rdinaten": [
+                "45\u00b0 1\u2032 NB, 38\u00b0 58\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "840 km2"
+            ],
+            "Inwoners  (volkstelling 2002)": [
+                "646.175 (769,3 inw./km2)"
+            ],
+            "Hoogte": [
+                "25\u201330 m"
+            ],
+            "Gesticht": [
+                "1793"
+            ],
+            "Stadstatus sinds": [
+                "1867"
+            ],
+            "Officie\u0308le website": [
+                "www.krd.ru"
+            ],
+            "Postcode(s)": [
+                "350xxx"
+            ],
+            "Netnummer(s)": [
+                "(+7) 861"
+            ],
+            "Tijdzone": [
+                "MSK (UTC+3)"
+            ],
+            "OKATO-code": [
+                "03401"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Russia"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Federal subject",
+                "property_": "Autonome republiek",
+                "values": [
+                    "Krasnodar Krai"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "City Duma"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "Yevgeny Naumov"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "744,995"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Rank",
+                "property_": "Boom",
+                "values": [
+                    "16th in 2010"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "www.krd.ru"
+                ],
+                "correct": false
+            }
+        ]
+    }
+]

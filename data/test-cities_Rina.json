@@ -1,0 +1,1309 @@
+[
+    {
+        "name": "San Francisco",
+        "uri": "http://www.wikidata.org/entity/Q62",
+        "url_en": "https://en.wikipedia.org/wiki/San_Francisco",
+        "url_nl": "https://nl.wikipedia.org/wiki/San_Francisco",
+        "infobox_en": {
+            "Country": [
+                "United States"
+            ],
+            "State": [
+                "California"
+            ],
+            "County": [
+                "San Francisco"
+            ],
+            "CSA": [
+                "9,545,921  (US: 5th)"
+            ],
+            "Metro": [
+                "4,623,264 (US: 13th)"
+            ],
+            "Mission": [
+                "June 29, 1776 (247 years ago)(June 29, 1776)"
+            ],
+            "Incorporated": [
+                "April 15, 1850 (173 years ago)(April 15, 1850)"
+            ],
+            "Founded by": [
+                "Juan Bautista De AnzaJose\u0301 Joaqui\u0301n MoragaFrancisco Palo\u0301u"
+            ],
+            "Named for": [
+                "St. Francis of Assisi"
+            ],
+            "Type": [
+                "Strong mayor\u2013council"
+            ],
+            "Body": [
+                "Board of Supervisors"
+            ],
+            "Mayor": [
+                "London Breed (D)"
+            ],
+            "Supervisors": [
+                "List",
+                "Connie Chan (D)Catherine Stefani (D)Aaron Peskin (D)Joel Engardio (D)Dean Preston (D)Matt Dorsey (D)Myrna Melgar (D)Rafael Mandelman (D)Hillary Ronen (D)Shamann Walton (D)Ahsha Safai\u0301 (D)"
+            ],
+            "Assembly members": [
+                "Matt Haney (D)Phil Ting (D)"
+            ],
+            "State senator": [
+                "Scott Wiener (D)"
+            ],
+            "United States Representatives": [
+                "Nancy Pelosi (D)Kevin Mullin (D)"
+            ],
+            "City and county": [
+                "808,437"
+            ],
+            "Land": [
+                "46.9sqmi (121.48km2)"
+            ],
+            "Water": [
+                "184.99sqmi (479.11km2) 80.00%"
+            ],
+            "Elevation": [
+                "52ft (16m)"
+            ],
+            "Highestelevation": [
+                "934ft (285m)"
+            ],
+            "Lowestelevation": [
+                "0ft (0m)"
+            ],
+            "Rank": [
+                "39th in North America17th in the United States4th in California"
+            ],
+            "Density": [
+                "17,237.5/sqmi (6,655.4/km2)"
+            ],
+            "Urban": [
+                "3,515,933 (US: 14th)"
+            ],
+            "Urbandensity": [
+                "6,843.0/sqmi (2,642.1/km2)"
+            ],
+            "Demonym": [
+                "San Franciscan"
+            ],
+            "Time zone": [
+                "UTC\u2013 08:00 (PST)"
+            ],
+            "Summer (DST)": [
+                "UTC\u2013 07:00 (PDT)"
+            ],
+            "ZIP Codes": [
+                "List",
+                "94102\u201394105",
+                "94107\u201394112",
+                "94114\u201394134",
+                "94137",
+                "94139\u201394147",
+                "94151",
+                "94158\u201394161",
+                "94163\u201394164",
+                "94172",
+                "94177",
+                "94188"
+            ],
+            "Area codes": [
+                "415/628"
+            ],
+            "FIPS code": [
+                "06-67000"
+            ],
+            "GNIS feature IDs": [
+                "277593, 2411786"
+            ],
+            "GDP (2021)": [
+                "City\u2014$236.4 billion",
+                "MSA\u2014$668.7 billion (4th)",
+                "CSA\u2014$1.251 trillion (3rd)"
+            ],
+            "Website": [
+                "sf.gov"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Californie\u0308"
+            ],
+            "County": [
+                "San Francisco"
+            ],
+            "Coo\u0308rdinaten": [
+                "37\u00b046'39\"NB, 122\u00b024'59\"WL"
+            ],
+            "Oppervlakte": [
+                "600,59 km2"
+            ],
+            "- land": [
+                "121,45 km2"
+            ],
+            "- water": [
+                "479,14 km2"
+            ],
+            "Inwoners (1 april 2020)": [
+                "873.965 (7195 inw./km2)"
+            ],
+            "- agglomeratie": [
+                "7.563.460 (2010) (Bay Area)"
+            ],
+            "Burgemeester": [
+                "London Breed (D)(lijst)"
+            ],
+            "Website": [
+                "sf.gov"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "United States"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded by",
+                "property_": "Opgericht door",
+                "values": [
+                    "Juan Bautista De AnzaJose\u0301 Joaqui\u0301n MoragaFrancisco Palo\u0301u"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "Board of Supervisors"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Demonym",
+                "property_": "Naam inwoner",
+                "values": [
+                    "San Franciscan"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC\u2013 08:00 (PST)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area codes",
+                "property_": "Netnummer(s)",
+                "values": [
+                    "415/628"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Metro",
+                "property_": "UTC",
+                "values": [
+                    "4,623,264 (US: 13th)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Land",
+                "property_": "Land",
+                "values": [
+                    "46.9sqmi (121.48km2)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Rank",
+                "property_": "Boom",
+                "values": [
+                    "39th in North America17th in the United States4th in California"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Gandhinagar",
+        "uri": "http://www.wikidata.org/entity/Q11910",
+        "url_en": "https://en.wikipedia.org/wiki/Gandhinagar",
+        "url_nl": "https://nl.wikipedia.org/wiki/Gandhinagar_(stad)",
+        "infobox_en": {
+            "Country": [
+                "India"
+            ],
+            "State": [
+                "Gujarat"
+            ],
+            "District": [
+                "Gandhinagar"
+            ],
+            "Named for": [
+                "Mahatma Gandhi"
+            ],
+            "Type": [
+                "Mayor\u2013Council"
+            ],
+            "Body": [
+                "Gandhinagar Municipal Corporation"
+            ],
+            "Municipal Commissioner": [
+                "Ratankanvar H. Gadhavicharan"
+            ],
+            "Mayor": [
+                "Rita Patel"
+            ],
+            "Total": [
+                "292,167"
+            ],
+            "Elevation": [
+                "81m (266ft)"
+            ],
+            "Density": [
+                "900/km2 (2,300/sqmi)"
+            ],
+            "Official": [
+                "Gujarati, Hindi, and English"
+            ],
+            "Time zone": [
+                "UTC+5:30 (IST)"
+            ],
+            "PIN CODE": [
+                "382010"
+            ],
+            "Telephone code": [
+                "079"
+            ],
+            "Vehicle registration": [
+                "GJ-18"
+            ],
+            "Website": [
+                "gujaratindia.com"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Gujarat"
+            ],
+            "District": [
+                "Gandhinagar"
+            ],
+            "Coo\u0308rdinaten": [
+                "23\u00b0 13\u2032 NB, 72\u00b0 41\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "326 km2"
+            ],
+            "Inwoners (2001)": [
+                "195.891"
+            ],
+            "Hoogte": [
+                "81 m"
+            ],
+            "Burgemeester": [
+                "Hitesh Makwana"
+            ],
+            "Website": [
+                "gandhinagarmunicipal.com"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "India"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "Gandhinagar Municipal Corporation"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "292,167"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+5:30 (IST)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Telephone code",
+                "property_": "Netnummer(s)",
+                "values": [
+                    "079"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Vehicle registration",
+                "property_": "Kenteken",
+                "values": [
+                    "GJ-18"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Nev\u015fehir",
+        "uri": "http://www.wikidata.org/entity/Q206879",
+        "url_en": "https://en.wikipedia.org/wiki/Nev%C5%9Fehir",
+        "url_nl": "https://nl.wikipedia.org/wiki/Nev%C5%9Fehir_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Turkey"
+            ],
+            "Province": [
+                "Nevs\u0327ehir"
+            ],
+            "District": [
+                "Nevs\u0327ehir"
+            ],
+            "Mayor": [
+                "Mehmet Savran (AKP)"
+            ],
+            "Elevation": [
+                "1,224m (4,016ft)"
+            ],
+            "Population(2022)": [
+                "123,882"
+            ],
+            "Time zone": [
+                "TRT (UTC+3)"
+            ],
+            "Postal code": [
+                "50300"
+            ],
+            "Area code": [
+                "0384"
+            ],
+            "Website": [
+                "www.nevsehir.bel.tr"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Nevs\u0327ehir"
+            ],
+            "District": [
+                "Nevs\u0327ehir"
+            ],
+            "Coo\u0308rdinaten": [
+                "38\u00b0 38\u2032 NB, 34\u00b0 43\u2032 OL"
+            ],
+            "Inwoners (2007)": [
+                "81.688"
+            ],
+            "Burgemeester": [
+                "Rasim Ar\u0131 (AKP)"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Turkey"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "TRT (UTC+3)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Postal code",
+                "property_": "Postcode",
+                "values": [
+                    "50300"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area code",
+                "property_": "Netnummer",
+                "values": [
+                    "0384"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "www.nevsehir.bel.tr"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Cotonou",
+        "uri": "http://www.wikidata.org/entity/Q43595",
+        "url_en": "https://en.wikipedia.org/wiki/Cotonou",
+        "url_nl": "https://nl.wikipedia.org/wiki/Cotonou",
+        "infobox_en": {
+            "Country": [
+                "Benin"
+            ],
+            "Department": [
+                "Littoral Department"
+            ],
+            "Mayor": [
+                "Luc Atrokpo"
+            ],
+            "Total": [
+                "679,012"
+            ],
+            "Elevation": [
+                "51m (167ft)"
+            ],
+            "Density": [
+                "8,600/km2 (22,000/sqmi)"
+            ]
+        },
+        "infobox_nl": {
+            "Departement": [
+                "Littoral"
+            ],
+            "Coo\u0308rdinaten": [
+                "6\u00b0 22\u2032 NB, 2\u00b0 26\u2032 OL"
+            ],
+            "Inwoners (2013)": [
+                "1.228.667"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Benin"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "Luc Atrokpo"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "679,012"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Shibin Al Kawm",
+        "uri": "http://www.wikidata.org/entity/Q31350",
+        "url_en": "https://en.wikipedia.org/wiki/Shibin_El_Kom",
+        "url_nl": "https://nl.wikipedia.org/wiki/Shibin_al_Kawm",
+        "infobox_en": {
+            "Country": [
+                "Egypt"
+            ],
+            "Governorate": [
+                "Monufia"
+            ],
+            "City": [
+                "267,945"
+            ],
+            "Elevation": [
+                "23m (75ft)"
+            ],
+            "Density": [
+                "9,400/km2 (24,000/sqmi)"
+            ],
+            "Metro": [
+                "630,000"
+            ],
+            "Time zone": [
+                "UTC+2 (EET)"
+            ],
+            "Area code": [
+                "(+20) 48"
+            ]
+        },
+        "infobox_nl": {
+            "Gouvernement": [
+                "Al Minufiyah"
+            ],
+            "Coo\u0308rdinaten": [
+                "30\u00b0 34\u2032 NB, 31\u00b0 0\u2032 OL"
+            ],
+            "Inwoners (2006)": [
+                "177.060"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Egypt"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "City",
+                "property_": "Inwoners (2011)",
+                "values": [
+                    "267,945"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+2 (EET)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area code",
+                "property_": "Netnummer",
+                "values": [
+                    "(+20) 48"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Metro",
+                "property_": "UTC",
+                "values": [
+                    "630,000"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Trieste",
+        "uri": "http://www.wikidata.org/entity/Q546",
+        "url_en": "https://en.wikipedia.org/wiki/Trieste",
+        "url_nl": "https://nl.wikipedia.org/wiki/Tri%C3%ABst_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Italy"
+            ],
+            "Region": [
+                "Friuli Venezia Giulia"
+            ],
+            "Province": [
+                "Trieste"
+            ],
+            "Frazioni": [
+                "Banne (Bani), Barcola (Barkovlje), Basovizza (Bazovica), Borgo San Nazario, Cattinara (Katinara), Conconello (Ferlugi), Contovello (Kontovel), Grignano (Grljan), Gropada (Gropada), Longera (Lonjer), Miramare (Miramar), Opicina (Opc\u030cine), Padriciano (Padric\u030ce), Prosecco (Prosek), Santa Croce (Kriz\u030c), Servola (S\u030ckedenj), Trebiciano (Trebc\u030ce)"
+            ],
+            "Mayor": [
+                "Roberto Dipiazza (FI)"
+            ],
+            "Total": [
+                "204,338 (Comune)234,638 (Urban) 418,000 (Metro)"
+            ],
+            "Elevation": [
+                "2m (7ft)"
+            ],
+            "Demonym(s)": [
+                "English: Triestine or TriestinoItalian: triestino (m.), triestina (f.)"
+            ],
+            "Time zone": [
+                "UTC+1 (CET)"
+            ],
+            "Summer (DST)": [
+                "UTC+2 (CEST)"
+            ],
+            "Postal code": [
+                "34100"
+            ],
+            "Dialingcode": [
+                "040"
+            ],
+            "Patron saint": [
+                "St. Justus of Trieste"
+            ],
+            "Saint day": [
+                "3 November"
+            ],
+            "Website": [
+                "Official website"
+            ]
+        },
+        "infobox_nl": {
+            "Regio": [
+                "Friuli-Venezia Giulia (FVG)"
+            ],
+            "Provincie": [
+                "Trie\u0308st (TS)"
+            ],
+            "Coo\u0308rdinaten": [
+                "45\u00b0 38\u2032 NB, 13\u00b0 48\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "84,5 km2"
+            ],
+            "Inwoners (1 januari 2018)": [
+                "204.338 (2479,80 inw./km2)"
+            ],
+            "Hoogte": [
+                "2 m"
+            ],
+            "Burgemeester": [
+                "Roberto Dipiazza (FI)"
+            ],
+            "Postcode": [
+                "34100"
+            ],
+            "Netnummer": [
+                "040"
+            ],
+            "Aangrenzende gemeenten": [
+                "Duino-Aurisina, Monrupino, Muggia, San Dorligo della Valle, Sez\u030cana (Slovenie\u0308) en Sgonico"
+            ],
+            "Beschermheilige": [
+                "Justus van Trie\u0308st"
+            ],
+            "Naam inwoner": [
+                "Triestini"
+            ],
+            "ISTAT-code": [
+                "032006"
+            ],
+            "Website": [
+                "comune.trieste.it"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Italy"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "204,338 (Comune)234,638 (Urban) 418,000 (Metro)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+1 (CET)"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Maykop",
+        "uri": "http://www.wikidata.org/entity/Q3752",
+        "url_en": "https://en.wikipedia.org/wiki/Maykop",
+        "url_nl": "https://nl.wikipedia.org/wiki/Majkop",
+        "infobox_en": {
+            "Adyghe": [
+                "\u041c\u044b\u0435\u043a\u044a\u0443\u0430\u043f\u044d"
+            ],
+            "Ubykh": [
+                "\u0413\u044a\u0430\u043a\u044a\u044b\u0432\u0430"
+            ],
+            "Country": [
+                "Russia"
+            ],
+            "Federal subject": [
+                "Adygea"
+            ],
+            "Founded": [
+                "May 1857"
+            ],
+            "City status since": [
+                "1870"
+            ],
+            "Body": [
+                "Council of People's Deputies"
+            ],
+            "Head": [
+                "Nikolay Pivovarov"
+            ],
+            "Total": [
+                "144,249"
+            ],
+            "Elevation": [
+                "220m (720ft)"
+            ],
+            "Estimate(2018)": [
+                "141,970 (\u22121.6%)"
+            ],
+            "Rank": [
+                "120th in 2010"
+            ],
+            "Density": [
+                "2,500/km2 (6,400/sqmi)"
+            ],
+            "Subordinated to": [
+                "Maykop Republican Urban Okrug"
+            ],
+            "Capital of": [
+                "Maykop Urban Okrug"
+            ],
+            "Urban okrug": [
+                "Maykop Urban Okrug"
+            ],
+            "Time zone": [
+                "UTC+3 (MSK)"
+            ],
+            "Postal code(s)": [
+                "385000"
+            ],
+            "Dialing code(s)": [
+                "+78772"
+            ],
+            "OKTMO ID": [
+                "79701000001"
+            ],
+            "CityDay": [
+                "First Saturday of June"
+            ],
+            "Website": [
+                "web.archive.org/web/20020604231940/http://www.admins.maykop.ru/"
+            ]
+        },
+        "infobox_nl": {
+            "Land": [
+                "Rusland"
+            ],
+            "Federaal district": [
+                "Federaal District"
+            ],
+            "Deelgebied": [
+                "Adygea"
+            ],
+            "Coo\u0308rdinaten": [
+                "44\u00b0 36\u2032 NB, 40\u00b0 6\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "308 km2"
+            ],
+            "Inwoners  (volkstelling 2002)": [
+                "156.931 (509,5 inw./km2)"
+            ],
+            "Hoogte": [
+                "220 m"
+            ],
+            "Gesticht": [
+                "1857"
+            ],
+            "Stadstatus sinds": [
+                "1870"
+            ],
+            "Gemeentevorm": [
+                "Stedelijk district"
+            ],
+            "Officie\u0308le website": [
+                "admins.maykop.ru"
+            ],
+            "Postcode(s)": [
+                "385000-21"
+            ],
+            "Netnummer(s)": [
+                "(+7) 87722"
+            ],
+            "Tijdzone": [
+                "MSK (UTC+3)"
+            ],
+            "OKATO-code": [
+                "79401"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Russia"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "Council of People's Deputies"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Head",
+                "property_": "Burgemeester",
+                "values": [
+                    "Nikolay Pivovarov"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "144,249"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "web.archive.org/web/20020604231940/http://www.admins.maykop.ru/"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Rank",
+                "property_": "Boom",
+                "values": [
+                    "120th in 2010"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Foggia",
+        "uri": "http://www.wikidata.org/entity/Q13464",
+        "url_en": "https://en.wikipedia.org/wiki/Foggia",
+        "url_nl": "https://nl.wikipedia.org/wiki/Foggia_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Italy"
+            ],
+            "Region": [
+                "Apulia"
+            ],
+            "Province": [
+                "Foggia (FG)"
+            ],
+            "Frazioni": [
+                "Arpinova, Incoronata, Cervaro, Tavernola, Segezia, Duanera La Rocca"
+            ],
+            "Mayor": [
+                "Maria Aida Episcopo since 23 October 2023 (centre-left independent)"
+            ],
+            "Total": [
+                "153,143"
+            ],
+            "Elevation": [
+                "76m (249ft)"
+            ],
+            "Density": [
+                "300/km2 (780/sqmi)"
+            ],
+            "Demonym": [
+                "Foggians"
+            ],
+            "Time zone": [
+                "UTC+1 (CET)"
+            ],
+            "Summer (DST)": [
+                "UTC+2 (CEST)"
+            ],
+            "Postal code": [
+                "71121 - 71122 - 71100"
+            ],
+            "Dialingcode": [
+                "0881"
+            ],
+            "ISTAT code": [
+                "071024"
+            ],
+            "Patron saint": [
+                "Madonna dei Sette Veli"
+            ],
+            "Saint day": [
+                "March 22"
+            ],
+            "Website": [
+                "www.comune.foggia.it"
+            ]
+        },
+        "infobox_nl": {
+            "Regio": [
+                "Apulie\u0308"
+            ],
+            "Provincie": [
+                "Foggia"
+            ],
+            "Coo\u0308rdinaten": [
+                "41\u00b0 28\u2032 NB, 15\u00b0 33\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "507 km2"
+            ],
+            "Inwoners (2022)": [
+                "146.803 (288 inw./km2)"
+            ],
+            "Hoogte": [
+                "76 m"
+            ],
+            "Aangrenzende gemeenten": [
+                "Ascoli Satriano, Carapelle, Castelluccio dei Sauri, Cerignola, Lucera, Manfredonia, Ordona, Orta Nova, Rignano Garganico, San Giovanni Rotondo, San Marco in Lamis, San Severo, Troia"
+            ],
+            "Beschermheilige": [
+                "Madonna dei Sette Veli"
+            ],
+            "ISTAT-code": [
+                "071024"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Italy"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "Maria Aida Episcopo since 23 October 2023 (centre-left independent)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "153,143"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Demonym",
+                "property_": "Naam inwoner",
+                "values": [
+                    "Foggians"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+1 (CET)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Postal code",
+                "property_": "Postcode",
+                "values": [
+                    "71121 - 71122 - 71100"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Dialingcode",
+                "property_": "Netnummer",
+                "values": [
+                    "0881"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "www.comune.foggia.it"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Hawaasa",
+        "uri": "http://www.wikidata.org/entity/Q755765",
+        "url_en": "https://en.wikipedia.org/wiki/Hawassa",
+        "url_nl": "https://nl.wikipedia.org/wiki/Awasa_(Ethiopi%C3%AB)",
+        "infobox_en": {
+            "Country": [
+                "Ethiopia"
+            ],
+            "Region": [
+                "Sidama"
+            ],
+            "Founded": [
+                "1958"
+            ],
+            "Founded by": [
+                "Haile Selassie"
+            ],
+            "Mayor": [
+                "Tsegaye Tuke Kia"
+            ],
+            "Total": [
+                "258,808"
+            ],
+            "Elevation": [
+                "1,708m (5,604ft)"
+            ],
+            "Estimate(2023)": [
+                "577,075"
+            ],
+            "Density": [
+                "5,200/km2 (13,000/sqmi)"
+            ],
+            "Time zone": [
+                "UTC+3 (EAT)"
+            ],
+            "Area code": [
+                "46"
+            ],
+            "Climate": [
+                "Aw"
+            ]
+        },
+        "infobox_nl": {
+            "Regio": [
+                "Zuid"
+            ],
+            "Coo\u0308rdinaten": [
+                "7\u00b0 4\u2032 NB, 38\u00b0 28\u2032 OL"
+            ],
+            "Inwoners (2008)": [
+                "162.179"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Ethiopia"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded",
+                "property_": "Gesticht",
+                "values": [
+                    "1958"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded by",
+                "property_": "Opgericht door",
+                "values": [
+                    "Haile Selassie"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "Tsegaye Tuke Kia"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+3 (EAT)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area code",
+                "property_": "Netnummer",
+                "values": [
+                    "46"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Matanzas",
+        "uri": "http://www.wikidata.org/entity/Q272471",
+        "url_en": "https://en.wikipedia.org/wiki/Matanzas",
+        "url_nl": "https://nl.wikipedia.org/wiki/Matanzas_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Cuba"
+            ],
+            "Province": [
+                "Matanzas"
+            ],
+            "Settled": [
+                "1572"
+            ],
+            "Founded": [
+                "1693"
+            ],
+            "Established": [
+                "1695"
+            ],
+            "Total": [
+                "145,246"
+            ],
+            "Elevation": [
+                "20m (70ft)"
+            ],
+            "Density": [
+                "460/km2 (1,200/sqmi)"
+            ],
+            "Demonym": [
+                "Matancero/a"
+            ],
+            "Time zone": [
+                "UTC-5 (EST)"
+            ],
+            "Postal code": [
+                "40100"
+            ],
+            "Area code": [
+                "+53 52"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Matanzas"
+            ],
+            "Coo\u0308rdinaten": [
+                "23\u00b0 3\u2032 NB, 81\u00b0 34\u2032 WL"
+            ],
+            "Oppervlakte": [
+                "370,86 km2"
+            ],
+            "Inwoners (2015)": [
+                "156.952 (423 inw./km2)"
+            ],
+            "Hoogte": [
+                "20 m"
+            ],
+            "CoDPA-code": [
+                "2501"
+            ],
+            "Postcode": [
+                "40100"
+            ],
+            "Netnummer": [
+                "+53-45"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Cuba"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Settled",
+                "property_": "Stichtingsjaar",
+                "values": [
+                    "1572"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded",
+                "property_": "Gesticht",
+                "values": [
+                    "1693"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Established",
+                "property_": "Gesticht",
+                "values": [
+                    "1695"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "145,246"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Demonym",
+                "property_": "Naam inwoner",
+                "values": [
+                    "Matancero/a"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC-5 (EST)"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    }
+]

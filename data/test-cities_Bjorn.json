@@ -1,0 +1,1237 @@
+[
+    {
+        "name": "Asaba",
+        "uri": "http://www.wikidata.org/entity/Q1061665",
+        "url_en": "https://en.wikipedia.org/wiki/Asaba",
+        "url_nl": "https://nl.wikipedia.org/wiki/Asaba",
+        "infobox_en": {},
+        "infobox_nl": {
+            "Staat": [
+                "Delta"
+            ],
+            "Coo\u0308rdinaten": [
+                "6\u00b0 12\u2032 NB, 6\u00b0 43\u2032 OL"
+            ],
+            "Inwoners": [
+                "378.000"
+            ]
+        },
+        "value_alignment_completed_infobox": [],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Maputo",
+        "uri": "http://www.wikidata.org/entity/Q3889",
+        "url_en": "https://en.wikipedia.org/wiki/Maputo",
+        "url_nl": "https://nl.wikipedia.org/wiki/Maputo_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Mozambique"
+            ],
+            "Founded": [
+                "1781"
+            ],
+            "Established (town)": [
+                "9 December 1876"
+            ],
+            "Elevated (city)": [
+                "10 November 1887"
+            ],
+            "Elevated (capital)": [
+                "1898"
+            ],
+            "Municipal Council President": [
+                "Eneas Comiche"
+            ],
+            "Governor": [
+                "Iolanda Cintura"
+            ],
+            "City and Province": [
+                "1,088,449"
+            ],
+            "Elevation": [
+                "47m (154ft)"
+            ],
+            "Estimate(2020)": [
+                "1,124,988"
+            ],
+            "Density": [
+                "3,100/km2 (8,100/sqmi)"
+            ],
+            "Metro": [
+                "1,766,823"
+            ],
+            "Time zone": [
+                "UTC+2 (CAT)"
+            ],
+            "Postal code": [
+                "0101-XX, 0102-XX, 0103-XX, 0104-XX, 0105-XX, 0106-XX, 0107-XX"
+            ],
+            "Area Code & Prefix": [
+                "(+258) 21-XX-XX-XX"
+            ],
+            "ISO 3166 code": [
+                "MZ"
+            ],
+            "HDI (2019)": [
+                "0.625medium \u00b7 1st"
+            ],
+            "Website": [
+                "www.cmmaputo.gov.mz"
+            ]
+        },
+        "infobox_nl": {
+            "Coo\u0308rdinaten": [
+                "25\u00b0 57\u2032 ZB, 32\u00b0 35\u2032 OL"
+            ],
+            "Inwoners (2006)": [
+                "1.200.000"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Mozambique"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded",
+                "property_": "Gesticht",
+                "values": [
+                    "1781"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+2 (CAT)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Postal code",
+                "property_": "Postcode",
+                "values": [
+                    "0101-XX, 0102-XX, 0103-XX, 0104-XX, 0105-XX, 0106-XX, 0107-XX"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "ISO 3166 code",
+                "property_": "ISO 3166-2:TH",
+                "values": [
+                    "MZ"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "www.cmmaputo.gov.mz"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Metro",
+                "property_": "UTC",
+                "values": [
+                    "1,766,823"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "N'dalatando",
+        "uri": "http://www.wikidata.org/entity/Q985803",
+        "url_en": "https://en.wikipedia.org/wiki/N%27dalatando",
+        "url_nl": "https://nl.wikipedia.org/wiki/N%27dalatando",
+        "infobox_en": {
+            "Country": [
+                "Angola"
+            ],
+            "Province": [
+                "Cuanza Norte"
+            ],
+            "Municipality": [
+                "Cazengo"
+            ],
+            "Total": [
+                "168,832"
+            ],
+            "Elevation": [
+                "670m (2,200ft)"
+            ],
+            "Density": [
+                "160/km2 (420/sqmi)"
+            ],
+            "Time zone": [
+                "UTC+1 (WAT)"
+            ],
+            "Climate": [
+                "Aw"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Cuanza Norte"
+            ],
+            "Coo\u0308rdinaten": [
+                "9\u00b0 18\u2032 ZB, 14\u00b0 54\u2032 OL"
+            ],
+            "Inwoners": [
+                "45.000"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Angola"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Municipality",
+                "property_": "Gemeente",
+                "values": [
+                    "Cazengo"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "168,832"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+1 (WAT)"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Ceyhan",
+        "uri": "http://www.wikidata.org/entity/Q185346",
+        "url_en": "https://en.wikipedia.org/wiki/Ceyhan",
+        "url_nl": "https://nl.wikipedia.org/wiki/Ceyhan_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Turkey"
+            ],
+            "Province": [
+                "Adana"
+            ],
+            "Mayor": [
+                "Hu\u0308lya Erdem (CHP)"
+            ],
+            "Area": [
+                "1,426km2 (551sqmi)"
+            ],
+            "Population(2022)": [
+                "158,922"
+            ],
+            "Density": [
+                "110/km2 (290/sqmi)"
+            ],
+            "Time zone": [
+                "TRT (UTC+3)"
+            ],
+            "Postal code": [
+                "01960"
+            ],
+            "Area code": [
+                "0322"
+            ],
+            "Website": [
+                "www.ceyhan.bel.tr"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Adana"
+            ],
+            "Coo\u0308rdinaten": [
+                "37\u00b0 1\u2032 NB, 35\u00b0 49\u2032 OL"
+            ],
+            "Inwoners (2009)": [
+                "153.368"
+            ],
+            "Hoogte": [
+                "30 m"
+            ],
+            "Burgemeester": [
+                "Kadir Aydar (CHP)"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Turkey"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "TRT (UTC+3)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Postal code",
+                "property_": "Postcode",
+                "values": [
+                    "01960"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area code",
+                "property_": "Netnummer",
+                "values": [
+                    "0322"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "www.ceyhan.bel.tr"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Area",
+                "property_": "Zone",
+                "values": [
+                    "1,426km2 (551sqmi)"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Matadi",
+        "uri": "http://www.wikidata.org/entity/Q211073",
+        "url_en": "https://en.wikipedia.org/wiki/Matadi",
+        "url_nl": "https://nl.wikipedia.org/wiki/Matadi",
+        "infobox_en": {
+            "Country": [
+                "Democratic Republic of the Congo"
+            ],
+            "Province": [
+                "Kongo Central"
+            ],
+            "Founded": [
+                "1879"
+            ],
+            "Mayor": [
+                "Dominique Nkodia"
+            ],
+            "City": [
+                "301,644"
+            ],
+            "Density": [
+                "2,700/km2 (7,100/sqmi)"
+            ],
+            "Urban": [
+                "337,000"
+            ],
+            "Time zone": [
+                "UTC+1 (West Africa Time)"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Kongo Central"
+            ],
+            "Coo\u0308rdinaten": [
+                "5\u00b0 49\u2032 ZB, 13\u00b0 29\u2032 OL"
+            ],
+            "Inwoners (2004)": [
+                "245.862"
+            ],
+            "Tijdzone": [
+                "UTC+1"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Democratic Republic of the Congo"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded",
+                "property_": "Gesticht",
+                "values": [
+                    "1879"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "Dominique Nkodia"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "City",
+                "property_": "Inwoners (2011)",
+                "values": [
+                    "301,644"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Ahmedabad",
+        "uri": "http://www.wikidata.org/entity/Q1070",
+        "url_en": "https://en.wikipedia.org/wiki/Ahmedabad",
+        "url_nl": "https://nl.wikipedia.org/wiki/Ahmedabad_(stad)",
+        "infobox_en": {
+            "Country": [
+                "India"
+            ],
+            "State": [
+                "Gujarat"
+            ],
+            "District": [
+                "Ahmedabad"
+            ],
+            "Establishment": [
+                "11th Century as Ashaval"
+            ],
+            "Founded by": [
+                "King Asha Bhil"
+            ],
+            "Named for": [
+                "Ahmad Shah I"
+            ],
+            "Type": [
+                "Mayor\u2013Council"
+            ],
+            "Body": [
+                "Amdavad Municipal Corporation"
+            ],
+            "Mayor": [
+                "Pratibha Jain (BJP)"
+            ],
+            "Deputy Mayor": [
+                "Jatin Patel (BJP)"
+            ],
+            "Municipal commissioner": [
+                "M. Thennarasan"
+            ],
+            "Police commissioner": [
+                "Sanjay Shrivastav IPS"
+            ],
+            "Total": [
+                "Est 8,650,605"
+            ],
+            "Rank": [
+                "5th"
+            ],
+            "Elevation": [
+                "69.65m (228.51ft)"
+            ],
+            "Demonym(s)": [
+                "Amdavadi, Ahmedabadi"
+            ],
+            "Official": [
+                "Gujarati"
+            ],
+            "Additionalofficial": [
+                "English"
+            ],
+            "Time zone": [
+                "UTC+5:30 (IST)"
+            ],
+            "PIN": [
+                "3800xx"
+            ],
+            "Area code": [
+                "+9179xxxxxxxx"
+            ],
+            "Vehicle registration": [
+                "GJ-01 (west), GJ-27 (East), GJ-38 Bavla (Rural)"
+            ],
+            "HDI (2016)": [
+                "0.867"
+            ],
+            "Sex ratio": [
+                "1.11 \u2642/\u2640"
+            ],
+            "Literacy rate": [
+                "85.3%"
+            ],
+            "Gross domestic product": [
+                "$68billion",
+                ""
+            ],
+            "Website": [
+                "ahmedabadcity.gov.in"
+            ],
+            "Criteria": [
+                "Cultural:(ii), (v)"
+            ],
+            "Reference": [
+                "1551"
+            ],
+            "Inscription": [
+                "2017 (41st Session)"
+            ],
+            "Area": [
+                "535.7ha (2.068sqmi)"
+            ],
+            "Bufferzone": [
+                "395ha (1.53sqmi)"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Gujarat"
+            ],
+            "District": [
+                "Ahmedabad"
+            ],
+            "Coo\u0308rdinaten": [
+                "23\u00b0 2\u2032 NB, 72\u00b0 37\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "475 km2"
+            ],
+            "Inwoners (2023)": [
+                "8.253.000"
+            ],
+            "Hoogte": [
+                "53 m"
+            ],
+            "Netnummer(s)": [
+                "079"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "India"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded by",
+                "property_": "Opgericht door",
+                "values": [
+                    "King Asha Bhil"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "Amdavad Municipal Corporation"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "Pratibha Jain (BJP)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "Est 8,650,605"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+5:30 (IST)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area code",
+                "property_": "Netnummer",
+                "values": [
+                    "+9179xxxxxxxx"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Vehicle registration",
+                "property_": "Kenteken",
+                "values": [
+                    "GJ-01 (west), GJ-27 (East), GJ-38 Bavla (Rural)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "ahmedabadcity.gov.in"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Rank",
+                "property_": "Boom",
+                "values": [
+                    "5th"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "PIN",
+                "property_": "Status",
+                "values": [
+                    "3800xx"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area",
+                "property_": "Zone",
+                "values": [
+                    "535.7ha (2.068sqmi)"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Blida",
+        "uri": "http://www.wikidata.org/entity/Q216990",
+        "url_en": "https://en.wikipedia.org/wiki/Blida",
+        "url_nl": "https://nl.wikipedia.org/wiki/Blida_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Algeria"
+            ],
+            "Province": [
+                "Blida Province"
+            ],
+            "District": [
+                "Blida District"
+            ],
+            "City": [
+                "182,447"
+            ],
+            "Elevation": [
+                "260m (850ft)"
+            ],
+            "Density": [
+                "2,500/km2 (6,600/sqmi)"
+            ],
+            "Metro": [
+                "1,167,882"
+            ],
+            "Time zone": [
+                "UTC+1 (CET)"
+            ],
+            "Postal code": [
+                "09000"
+            ],
+            "Area code": [
+                "901"
+            ],
+            "Climate": [
+                "Csa"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Blida"
+            ],
+            "Coo\u0308rdinaten": [
+                "36\u00b0 26\u2032 NB, 2\u00b0 49\u2032 OL"
+            ],
+            "Inwoners (1998)": [
+                "226.512"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Algeria"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "District",
+                "property_": "District",
+                "values": [
+                    "Blida District"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "City",
+                "property_": "Inwoners (2011)",
+                "values": [
+                    "182,447"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+1 (CET)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Postal code",
+                "property_": "Postcode",
+                "values": [
+                    "09000"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area code",
+                "property_": "Netnummer",
+                "values": [
+                    "901"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Metro",
+                "property_": "UTC",
+                "values": [
+                    "1,167,882"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Oral",
+        "uri": "http://www.wikidata.org/entity/Q487439",
+        "url_en": "https://en.wikipedia.org/wiki/Oral,_Kazakhstan",
+        "url_nl": "https://nl.wikipedia.org/wiki/Oral",
+        "infobox_en": {
+            "Country": [
+                "Kazakhstan"
+            ],
+            "Region": [
+                "West Kazakhstan Region"
+            ],
+            "Founded": [
+                "1584"
+            ],
+            "Incorporated (city)": [
+                "1613"
+            ],
+            "Akim (mayor)": [
+                "Mirzhan Satkanov"
+            ],
+            "City": [
+                "330,000"
+            ],
+            "Elevation": [
+                "35m (115ft)"
+            ],
+            "Density": [
+                "300/km2 (800/sqmi)"
+            ],
+            "Urban": [
+                "234,184"
+            ],
+            "Time zone": [
+                "UTC+5 (UTC+5)"
+            ],
+            "Postal code": [
+                "090000 - 090013"
+            ],
+            "Area code": [
+                "+7 7112"
+            ],
+            "Vehicle registration": [
+                "L, 07"
+            ],
+            "Website": [
+                "uralsk.gov.kz/en/"
+            ]
+        },
+        "infobox_nl": {
+            "Oblast": [
+                "Bat\u0131s Qazaqstan"
+            ],
+            "Coo\u0308rdinaten": [
+                "51\u00b0 14\u2032 NB, 51\u00b0 22\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "712 km2"
+            ],
+            "Inwoners (2015)": [
+                "283.629",
+                "(398 inw./km2)"
+            ],
+            "Tijdzone": [
+                "+5"
+            ],
+            "KATO-code": [
+                "271000000"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Kazakhstan"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Region",
+                "property_": "Regio",
+                "values": [
+                    "West Kazakhstan Region"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded",
+                "property_": "Gesticht",
+                "values": [
+                    "1584"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "City",
+                "property_": "Inwoners (2011)",
+                "values": [
+                    "330,000"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Postal code",
+                "property_": "Postcode",
+                "values": [
+                    "090000 - 090013"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area code",
+                "property_": "Netnummer",
+                "values": [
+                    "+7 7112"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Vehicle registration",
+                "property_": "Kenteken",
+                "values": [
+                    "L, 07"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "uralsk.gov.kz/en/"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Coimbatore",
+        "uri": "http://www.wikidata.org/entity/Q9885",
+        "url_en": "https://en.wikipedia.org/wiki/Coimbatore",
+        "url_nl": "https://nl.wikipedia.org/wiki/Coimbatore_(stad)",
+        "infobox_en": {
+            "Country": [
+                "India"
+            ],
+            "State": [
+                "Tamil Nadu"
+            ],
+            "District": [
+                "Coimbatore"
+            ],
+            "Type": [
+                "Municipal Corporation"
+            ],
+            "Body": [
+                "CCMC"
+            ],
+            "Mayor": [
+                "A.Kalpana, DMK"
+            ],
+            "Corporation Commissioner": [
+                "M.Prathap , IAS"
+            ],
+            "Commissioner of Police": [
+                "G.Balakrishanan , IPS"
+            ],
+            "Metropolis": [
+                "1,584,719"
+            ],
+            "Metro": [
+                "2,136,916"
+            ],
+            "Rank": [
+                "24th"
+            ],
+            "Elevation": [
+                "427m (1,401ft)"
+            ],
+            "Density": [
+                "6,441/km2 (16,680/sqmi)"
+            ],
+            "Metro rank": [
+                "16th"
+            ],
+            "Demonym": [
+                "Coimbatore"
+            ],
+            "Official": [
+                "Tamil, English"
+            ],
+            "Time zone": [
+                "UTC+5:30 (IST)"
+            ],
+            "PIN": [
+                "641XXX"
+            ],
+            "STD Code": [
+                "+91-0422"
+            ],
+            "Vehicle registration": [
+                "TN 37 (South), TN 38 (North), TN 66 (Central), TN 99 (West), TN 37Z (Sulur)"
+            ],
+            "Website": [
+                "www.ccmc.gov.in"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Tamil Nadu"
+            ],
+            "District": [
+                "Coimbatore"
+            ],
+            "Coo\u0308rdinaten": [
+                "11\u00b0 1\u2032 NB, 76\u00b0 58\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "105,5 km2"
+            ],
+            "Inwoners (2001)": [
+                "923.085"
+            ],
+            "Hoogte": [
+                "411 m m"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "India"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "CCMC"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "A.Kalpana, DMK"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+5:30 (IST)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Vehicle registration",
+                "property_": "Kenteken",
+                "values": [
+                    "TN 37 (South), TN 38 (North), TN 66 (Central), TN 99 (West), TN 37Z (Sulur)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "www.ccmc.gov.in"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Metro",
+                "property_": "UTC",
+                "values": [
+                    "2,136,916"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Rank",
+                "property_": "Boom",
+                "values": [
+                    "24th"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "PIN",
+                "property_": "Status",
+                "values": [
+                    "641XXX"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Taoyuan",
+        "uri": "http://www.wikidata.org/entity/Q115256",
+        "url_en": "https://en.wikipedia.org/wiki/Taoyuan,_Taiwan",
+        "url_nl": "https://nl.wikipedia.org/wiki/Taoyuan_(sh%C3%AC)",
+        "infobox_en": {
+            "Country": [
+                "Republic of China (Taiwan)"
+            ],
+            "Seat": [
+                "Taoyuan District"
+            ],
+            "Districts": [
+                "13",
+                "TaoyuanZhongliDaxiYangmeiLuzhuDayuanGuishanBadeLongtanPingzhenXinwuGuanyinFuxing"
+            ],
+            "Body": [
+                "Taoyuan City GovernmentTaoyuan City Council"
+            ],
+            "Mayor": [
+                "Chang San-cheng (KMT)"
+            ],
+            "Special municipality": [
+                "2,293,509"
+            ],
+            "Urban": [
+                "1,140km2 (440sqmi)"
+            ],
+            "Rank": [
+                "5 of 22"
+            ],
+            "Density": [
+                "1,900/km2 (4,900/sqmi)"
+            ],
+            "Urban[Note 1]": [
+                "8,535,000"
+            ],
+            "Urbandensity": [
+                "7,500/km2 (19,000/sqmi)"
+            ],
+            "Time zone": [
+                "UTC+8 (National Standard Time)"
+            ],
+            "Postal code": [
+                "320-338"
+            ],
+            "ISO 3166 code": [
+                "TW-TAO"
+            ],
+            "Bird": [
+                "Formosan blue magpie (Urocissa caerulea)"
+            ],
+            "Flower": [
+                "Peach blossom"
+            ],
+            "Tree": [
+                "Peach tree"
+            ],
+            "Website": [
+                "www.tycg.gov.tw/eng/  (in English)"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Stadsprovincie Taoyuan"
+            ],
+            "Coo\u0308rdinaten": [
+                "24\u00b059'28,601\"NB, 121\u00b018'51,581\"OL"
+            ],
+            "Traditioneel": [
+                "\u6843\u5712\u5e02"
+            ],
+            "Vereenvoudigd": [
+                "\u6843\u56ed\u5e02"
+            ],
+            "Hanyu pinyin": [
+                "Ta\u0301oyua\u0301n"
+            ],
+            "Oppervlakte": [
+                "1221 km2"
+            ],
+            "Inwoners": [
+                "2.092.977 (1714,2 inw./km2)"
+            ],
+            "Hoofdstad": [
+                "Taoyuan"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Republic of China (Taiwan)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Districts",
+                "property_": "District",
+                "values": [
+                    "13",
+                    "TaoyuanZhongliDaxiYangmeiLuzhuDayuanGuishanBadeLongtanPingzhenXinwuGuanyinFuxing"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "Taoyuan City GovernmentTaoyuan City Council"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "Chang San-cheng (KMT)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+8 (National Standard Time)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Postal code",
+                "property_": "Postcode",
+                "values": [
+                    "320-338"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "ISO 3166 code",
+                "property_": "ISO 3166-2:TH",
+                "values": [
+                    "TW-TAO"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Flower",
+                "property_": "Bloem",
+                "values": [
+                    "Peach blossom"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "www.tycg.gov.tw/eng/  (in English)"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Rank",
+                "property_": "Boom",
+                "values": [
+                    "5 of 22"
+                ],
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,1466 @@
+[
+    {
+        "name": "Kismayo",
+        "uri": "http://www.wikidata.org/entity/Q270787",
+        "url_en": "https://en.wikipedia.org/wiki/Kismayo",
+        "url_nl": "https://nl.wikipedia.org/wiki/Kismayo",
+        "infobox_en": {
+            "Country": [
+                "Somalia"
+            ],
+            "Regional State": [
+                "Jubaland"
+            ],
+            "Region": [
+                "Lower Juba"
+            ],
+            "District": [
+                "Kismayo District"
+            ],
+            "City": [
+                "234,852"
+            ],
+            "Urban": [
+                "358,000"
+            ],
+            "Time zone": [
+                "UTC+3 (EAT)"
+            ]
+        },
+        "infobox_nl": {
+            "Gobolka": [
+                "Neder-Juba"
+            ],
+            "Coo\u0308rdinaten": [
+                "0\u00b0 22\u2032 ZB, 42\u00b0 32\u2032 OL"
+            ],
+            "Inwoners (2007)": [
+                "183.300"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Somalia"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Region",
+                "property_": "Regio",
+                "values": [
+                    "Lower Juba"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "District",
+                "property_": "District",
+                "values": [
+                    "Kismayo District"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "City",
+                "property_": "Inwoners (2011)",
+                "values": [
+                    "234,852"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+3 (EAT)"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Likasi",
+        "uri": "http://www.wikidata.org/entity/Q18780",
+        "url_en": "https://en.wikipedia.org/wiki/Likasi",
+        "url_nl": "https://nl.wikipedia.org/wiki/Likasi",
+        "infobox_en": {
+            "Country": [
+                "DR Congo"
+            ],
+            "Province": [
+                "Haut-Katanga Province"
+            ],
+            "Communes": [
+                "Kikula, Likasi, Panda, Shituru"
+            ],
+            "Mayor": [
+                "Henri Mungoma"
+            ],
+            "City": [
+                "635,463"
+            ],
+            "Elevation": [
+                "1,318m (4,324ft)"
+            ],
+            "Density": [
+                "2,600/km2 (6,700/sqmi)"
+            ],
+            "Urban": [
+                "495,000"
+            ],
+            "Time zone": [
+                "UTC+2 (Central Africa Time)"
+            ],
+            "Climate": [
+                "Cwa"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Haut-Katanga"
+            ],
+            "Coo\u0308rdinaten": [
+                "11\u00b0 0\u2032 ZB, 26\u00b0 48\u2032 OL"
+            ],
+            "Inwoners (2005)": [
+                "422.726"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "DR Congo"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "Henri Mungoma"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "City",
+                "property_": "Inwoners (2011)",
+                "values": [
+                    "635,463"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+2 (Central Africa Time)"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Tainan",
+        "uri": "http://www.wikidata.org/entity/Q140631",
+        "url_en": "https://en.wikipedia.org/wiki/Tainan",
+        "url_nl": "https://nl.wikipedia.org/wiki/Tainan_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Republic of China (Taiwan)"
+            ],
+            "Formed under Fort Zeelandia": [
+                "1624"
+            ],
+            "Capital of Kingdom of Tungning": [
+                "1661"
+            ],
+            "Tainan Prefecture": [
+                "1895"
+            ],
+            "Provincial city status": [
+                "25 October 1945"
+            ],
+            "Upgraded to special municipality and merger with Tainan County": [
+                "25 December 2010"
+            ],
+            "Seat": [
+                "Anping, Xinying"
+            ],
+            "Districts": [
+                "37",
+                "XinyingYanshueiBaiheLiouyingHoubiDongshanMadouXiayingLioujiaGuantianDaneiJialiSyuejiaSigangCiguJiangjunBeimenSinhuaShanhuaSinshihAndingShanshanYujingNansiNanhuaZuojhenRendeGueirenGuanmiaoLongciYongkangEastSouthNorthAnnanAnpingWest Central"
+            ],
+            "Body": [
+                "Tainan City GovernmentTainan City Council"
+            ],
+            "Mayor": [
+                "Huang Wei-cher (DPP)"
+            ],
+            "Special municipality": [
+                "1,856,642"
+            ],
+            "Urban": [
+                "1,205,000"
+            ],
+            "Rank": [
+                "6 of 22"
+            ],
+            "Density": [
+                "850/km2 (2,200/sqmi)"
+            ],
+            "Urbandensity": [
+                "4,700/km2 (12,000/sqmi)"
+            ],
+            "Time zone": [
+                "UTC+8 (National Standard Time)"
+            ],
+            "Postal code": [
+                "700\u2013745"
+            ],
+            "Area code": [
+                "(0)6"
+            ],
+            "ISO 3166 code": [
+                "TW-TNN"
+            ],
+            "Bird": [
+                "Pheasant-tailed jacana"
+            ],
+            "Flower": [
+                "Phalaenopsis"
+            ],
+            "Tree": [
+                "Delonix regia"
+            ],
+            "Website": [
+                "www.tainan.gov.tw/en/  (in English)"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Speciale gemeente Tainan"
+            ],
+            "Coo\u0308rdinaten": [
+                "22\u00b059'0\"NB, 120\u00b011'0\"OL"
+            ],
+            "Oppervlakte": [
+                "2192 km2"
+            ],
+            "Inwoners (2011)": [
+                "1.876.312"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Republic of China (Taiwan)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Districts",
+                "property_": "District",
+                "values": [
+                    "37",
+                    "XinyingYanshueiBaiheLiouyingHoubiDongshanMadouXiayingLioujiaGuantianDaneiJialiSyuejiaSigangCiguJiangjunBeimenSinhuaShanhuaSinshihAndingShanshanYujingNansiNanhuaZuojhenRendeGueirenGuanmiaoLongciYongkangEastSouthNorthAnnanAnpingWest Central"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "Tainan City GovernmentTainan City Council"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "Huang Wei-cher (DPP)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+8 (National Standard Time)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Postal code",
+                "property_": "Postcode",
+                "values": [
+                    "700\u2013745"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area code",
+                "property_": "Netnummer",
+                "values": [
+                    "(0)6"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "ISO 3166 code",
+                "property_": "ISO 3166-2:TH",
+                "values": [
+                    "TW-TNN"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Flower",
+                "property_": "Bloem",
+                "values": [
+                    "Phalaenopsis"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "www.tainan.gov.tw/en/  (in English)"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Rank",
+                "property_": "Boom",
+                "values": [
+                    "6 of 22"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Plze\u0148",
+        "uri": "http://www.wikidata.org/entity/Q43453",
+        "url_en": "https://en.wikipedia.org/wiki/Plze%C5%88",
+        "url_nl": "https://nl.wikipedia.org/wiki/Pilsen",
+        "infobox_en": {
+            "Country": [
+                "Czech Republic"
+            ],
+            "Region": [
+                "Plzen\u030c"
+            ],
+            "District": [
+                "Plzen\u030c-City"
+            ],
+            "First mentioned": [
+                "976"
+            ],
+            "Mayor": [
+                "Roman Zarzycky\u0301 (ANO)"
+            ],
+            "Total": [
+                "181,240"
+            ],
+            "Elevation": [
+                "310m (1,020ft)"
+            ],
+            "Density": [
+                "1,300/km2 (3,400/sqmi)"
+            ],
+            "Time zone": [
+                "UTC+1 (CET)"
+            ],
+            "Summer (DST)": [
+                "UTC+2 (CEST)"
+            ],
+            "Postal codes": [
+                "301 00 \u2013 326 00"
+            ],
+            "Website": [
+                "www.pilsen.eu"
+            ]
+        },
+        "infobox_nl": {
+            "Regio (kraj)": [
+                "Pilsen"
+            ],
+            "District (okres)": [
+                "Plzen\u030c-me\u030csto"
+            ],
+            "Coo\u0308rdinaten": [
+                "49\u00b0 44\u2032 NB, 13\u00b0 22\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "137,65 km2"
+            ],
+            "Inwoners (2006)": [
+                "162.627"
+            ],
+            "Burgemeester": [
+                "Martin Zrzavecky\u0301"
+            ],
+            "Postcode(s)": [
+                "301 00"
+            ],
+            "Netnummer(s)": [
+                "(+420) 37"
+            ],
+            "Gemeentenummer": [
+                "554791"
+            ],
+            "Website": [
+                "http://info.plzen-city.cz"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Czech Republic"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Region",
+                "property_": "Regio",
+                "values": [
+                    "Plzen\u030c"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "District",
+                "property_": "District",
+                "values": [
+                    "Plzen\u030c-City"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "181,240"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+1 (CET)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Postal codes",
+                "property_": "Postcodes",
+                "values": [
+                    "301 00 \u2013 326 00"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Kaohsiung",
+        "uri": "http://www.wikidata.org/entity/Q181557",
+        "url_en": "https://en.wikipedia.org/wiki/Kaohsiung",
+        "url_nl": "https://nl.wikipedia.org/wiki/Kaohsiung",
+        "infobox_en": {
+            "Country": [
+                "Republic of China (Taiwan)"
+            ],
+            "Fongshan County": [
+                "1683"
+            ],
+            "Takao Prefecture": [
+                "September 1920"
+            ],
+            "Kaohsiung City": [
+                "25 October 1945"
+            ],
+            "Kaohsiung County": [
+                "6 December 1945"
+            ],
+            "Upgraded to Yuan-controlled municipality": [
+                "1 July 1979"
+            ],
+            "Merger with Kaohsiung County": [
+                "25 December 2010"
+            ],
+            "City seat": [
+                "Lingya District (mayor's office)Fongshan District (City Council)22\u00b036\u203254\u2032\u2032N 120\u00b017\u203251\u2032\u2032E / 22.61500\u00b0N 120.29750\u00b0E / 22.61500; 120.29750"
+            ],
+            "Districts": [
+                "38"
+            ],
+            "Largest district": [
+                "Sanmin District"
+            ],
+            "Mayor": [
+                "Chen Chi-mai (DPP)"
+            ],
+            "Legislature": [
+                "Kaohsiung City Council"
+            ],
+            "Legislative Yuan": [
+                "8 of 113 constituencies"
+            ],
+            "Total": [
+                "NT$684,260 (12th)"
+            ],
+            "Elevation": [
+                "9m (30ft)"
+            ],
+            "October 2023 estimate": [
+                "2,737,660 (3rd) 2,565,000 (urban) (3rd)"
+            ],
+            "GDP(PPP)": [
+                "2016estimate"
+            ],
+            "GDP(nominal)": [
+                "2016estimate"
+            ],
+            "Time zone": [
+                "UTC+8 (National Standard Time)"
+            ],
+            "Calling code": [
+                "07"
+            ],
+            "Postal code": [
+                "800\u2013852"
+            ],
+            "ISO 3166 code": [
+                "TW-KHH"
+            ],
+            "Website": [
+                "www.kcg.gov.tw/en  (in English)"
+            ],
+            "Flower": [
+                "Chinese hibiscus (Hibiscus rosa-sinensis)"
+            ],
+            "Tree": [
+                "Cotton Tree (Bombax ceiba)"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Speciale gemeente Kaohsiung"
+            ],
+            "Coo\u0308rdinaten": [
+                "22\u00b036'54\"NB, 120\u00b017'51\"OL"
+            ],
+            "Oppervlakte": [
+                "2946 km2"
+            ],
+            "Inwoners (2010)": [
+                "2.772.349"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Republic of China (Taiwan)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Districts",
+                "property_": "District",
+                "values": [
+                    "38"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "Chen Chi-mai (DPP)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "NT$684,260 (12th)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+8 (National Standard Time)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Postal code",
+                "property_": "Postcode",
+                "values": [
+                    "800\u2013852"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "ISO 3166 code",
+                "property_": "ISO 3166-2:TH",
+                "values": [
+                    "TW-KHH"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "www.kcg.gov.tw/en  (in English)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Flower",
+                "property_": "Bloem",
+                "values": [
+                    "Chinese hibiscus (Hibiscus rosa-sinensis)"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": []
+    },
+    {
+        "name": "Winnipeg",
+        "uri": "http://www.wikidata.org/entity/Q2135",
+        "url_en": "https://en.wikipedia.org/wiki/Winnipeg",
+        "url_nl": "https://nl.wikipedia.org/wiki/Winnipeg",
+        "infobox_en": {
+            "Country": [
+                "Canada"
+            ],
+            "Province": [
+                "Manitoba"
+            ],
+            "Region": [
+                "Winnipeg Metropolitan Region"
+            ],
+            "Incorporated": [
+                "1873"
+            ],
+            "Named for": [
+                "Lake Winnipeg"
+            ],
+            "Mayor": [
+                "Scott Gillingham"
+            ],
+            "Governing body": [
+                "Winnipeg City Council"
+            ],
+            "Land": [
+                "461.78km2 (178.29sqmi)"
+            ],
+            "Metro": [
+                "834,678 (8th)"
+            ],
+            "Elevation": [
+                "239m (784ft)"
+            ],
+            "City": [
+                "749,607 (6th)"
+            ],
+            "Density": [
+                "1,430/km2 (3,700/sqmi)"
+            ],
+            "Urban": [
+                "758,515 (7th)"
+            ],
+            "Urbandensity": [
+                "1,429/km2 (3,700/sqmi)"
+            ],
+            "Metrodensity": [
+                "157.90/km2 (409.0/sqmi)"
+            ],
+            "Demonym": [
+                "Winnipegger"
+            ],
+            "Time zone": [
+                "UTC\u22126 (CST)"
+            ],
+            "Summer (DST)": [
+                "UTC\u22125 (CDT)"
+            ],
+            "Area code(s)": [
+                "204, 431, 584"
+            ],
+            "Website": [
+                "www.winnipeg.ca"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Manitoba"
+            ],
+            "Coo\u0308rdinaten": [
+                "49\u00b0 53\u2032 NB, 97\u00b0 9\u2032 WL"
+            ],
+            "Inwoners (2021)": [
+                "749.607"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Canada"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Region",
+                "property_": "Regio",
+                "values": [
+                    "Winnipeg Metropolitan Region"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "Scott Gillingham"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Governing body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "Winnipeg City Council"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "City",
+                "property_": "Inwoners (2011)",
+                "values": [
+                    "749,607 (6th)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Demonym",
+                "property_": "Naam inwoner",
+                "values": [
+                    "Winnipegger"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC\u22126 (CST)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "www.winnipeg.ca"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Land",
+                "property_": "Land",
+                "values": [
+                    "461.78km2 (178.29sqmi)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Metro",
+                "property_": "UTC",
+                "values": [
+                    "834,678 (8th)"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Ulsan",
+        "uri": "http://www.wikidata.org/entity/Q41278",
+        "url_en": "https://en.wikipedia.org/wiki/Ulsan",
+        "url_nl": "https://nl.wikipedia.org/wiki/Ulsan",
+        "infobox_en": {
+            "Hangul": [
+                "\u110b\u116e\u11af\u1109\u1161\u11ab\u1100\u116a\u11bc\u110b\u1167\u11a8\u1109\u1175"
+            ],
+            "Hanja": [
+                "\u851a\u5c71\u5ee3\u57df\u5e02"
+            ],
+            "Revised Romanization": [
+                "Ulsan gwang-yeoksi"
+            ],
+            "McCune-Reischauer": [
+                "Ulsan gwangyo\u0306ksi"
+            ],
+            "Country": [
+                "South Korea"
+            ],
+            "Region": [
+                "Yeongnam"
+            ],
+            "Districts": [
+                "5 (including 1 county)"
+            ],
+            "Type": [
+                "Mayor\u2013Council"
+            ],
+            "Mayor": [
+                "Kim Du-gyeom(People Power)"
+            ],
+            "Body": [
+                "Ulsan Metropolitan Council"
+            ],
+            "Total": [
+                "KR\u20a969.4 trillionUS$55.5 billion"
+            ],
+            "Rank": [
+                "8th Korea"
+            ],
+            "Density": [
+                "1,100/km2 (2,700/sqmi)"
+            ],
+            "Dialect": [
+                "Gyeongsang"
+            ],
+            "Demonym": [
+                "Ulsanian"
+            ],
+            "Area code": [
+                "+82-52(2)"
+            ],
+            "ISO 3166 code": [
+                "KR-31"
+            ],
+            "Flower": [
+                "Pear flower"
+            ],
+            "Tree": [
+                "Ginkgo"
+            ],
+            "Bird": [
+                "White heron"
+            ],
+            "Website": [
+                "Official website (English)"
+            ]
+        },
+        "infobox_nl": {
+            "Coo\u0308rdinaten": [
+                "35\u00b0 32\u2032 NB, 129\u00b0 20\u2032 OL"
+            ],
+            "Hangul": [
+                "\u110b\u116e\u11af\u1109\u1161\u11ab \u1100\u116a\u11bc\u110b\u1167\u11a8\u1109\u1175"
+            ],
+            "Hanja": [
+                "\u851a\u5c71\u5ee3\u57df\u5e02"
+            ],
+            "Herziene romanisatie": [
+                "Ulsan Gwangyeoksi"
+            ],
+            "McCune-Reischauer": [
+                "Ulsan Kwangyo\u0306ksi"
+            ],
+            "Oppervlakte": [
+                "1056,7 km2"
+            ],
+            "Inwoners (2005)": [
+                "1.105.823 (1.046 inw./km2)"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "South Korea"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Region",
+                "property_": "Regio",
+                "values": [
+                    "Yeongnam"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Districts",
+                "property_": "District",
+                "values": [
+                    "5 (including 1 county)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Mayor",
+                "property_": "Burgemeester",
+                "values": [
+                    "Kim Du-gyeom(People Power)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "Ulsan Metropolitan Council"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "KR\u20a969.4 trillionUS$55.5 billion"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Demonym",
+                "property_": "Naam inwoner",
+                "values": [
+                    "Ulsanian"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area code",
+                "property_": "Netnummer",
+                "values": [
+                    "+82-52(2)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "ISO 3166 code",
+                "property_": "ISO 3166-2:TH",
+                "values": [
+                    "KR-31"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Flower",
+                "property_": "Bloem",
+                "values": [
+                    "Pear flower"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "Official website (English)"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Rank",
+                "property_": "Boom",
+                "values": [
+                    "8th Korea"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Hassan",
+        "uri": "http://www.wikidata.org/entity/Q47264",
+        "url_en": "https://en.wikipedia.org/wiki/Hassan,_Karnataka",
+        "url_nl": "https://nl.wikipedia.org/wiki/Hassan_(stad)",
+        "infobox_en": {
+            "Country": [
+                "India"
+            ],
+            "State": [
+                "Karnataka"
+            ],
+            "District": [
+                "Hassan"
+            ],
+            "Named for": [
+                "Hasanamba temple"
+            ],
+            "Body": [
+                "City Municipal Council"
+            ],
+            "MP": [
+                "Prajwal Revanna"
+            ],
+            "Total": [
+                "226,520"
+            ],
+            "Elevation": [
+                "950m (3,120ft)"
+            ],
+            "Density": [
+                "3,400/km2 (8,900/sqmi)"
+            ],
+            "Demonym": [
+                "Hassanadavaru"
+            ],
+            "Official": [
+                "Kannada"
+            ],
+            "Time zone": [
+                "UTC+5:30 (IST)"
+            ],
+            "PIN": [
+                "573201/573202"
+            ],
+            "Telephone code": [
+                "ISD 00918172 / STD CODE 08172"
+            ],
+            "ISO 3166 code": [
+                "IN-KA"
+            ],
+            "Vehicle registration": [
+                "KA-13"
+            ],
+            "Website": [
+                "http://www.hassancity.mrc.gov.in/"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Karnataka"
+            ],
+            "District": [
+                "Hassan"
+            ],
+            "Coo\u0308rdinaten": [
+                "13\u00b0 1\u2032 NB, 76\u00b0 6\u2032 OL"
+            ],
+            "Inwoners (2001)": [
+                "117.386"
+            ],
+            "Alfabetisme": [
+                "79%"
+            ],
+            "Mannen": [
+                "60.225"
+            ],
+            "Vrouwen": [
+                "57.161"
+            ],
+            "Kinderen": [
+                "12.166"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "India"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "City Municipal Council"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "226,520"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Demonym",
+                "property_": "Naam inwoner",
+                "values": [
+                    "Hassanadavaru"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+5:30 (IST)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Telephone code",
+                "property_": "Netnummer(s)",
+                "values": [
+                    "ISD 00918172 / STD CODE 08172"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "ISO 3166 code",
+                "property_": "ISO 3166-2:TH",
+                "values": [
+                    "IN-KA"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Vehicle registration",
+                "property_": "Kenteken",
+                "values": [
+                    "KA-13"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Website",
+                "property_": "Website",
+                "values": [
+                    "http://www.hassancity.mrc.gov.in/"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "PIN",
+                "property_": "Status",
+                "values": [
+                    "573201/573202"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Gujrat",
+        "uri": "http://www.wikidata.org/entity/Q929062",
+        "url_en": "https://en.wikipedia.org/wiki/Gujrat,_Pakistan",
+        "url_nl": "https://nl.wikipedia.org/wiki/Gujrat",
+        "infobox_en": {
+            "Country": [
+                "Pakistan"
+            ],
+            "Province": [
+                "Punjab"
+            ],
+            "Division": [
+                "Gujrat"
+            ],
+            "District": [
+                "Gujrat"
+            ],
+            "Type": [
+                "Metropolitan Corporation"
+            ],
+            "Deputy Commissioner": [
+                "Dr. Khurram Shahzad"
+            ],
+            "District Police Officer": [
+                "Umar Salamat"
+            ],
+            "Total": [
+                "390,533"
+            ],
+            "Rank": [
+                "20th, Pakistan"
+            ],
+            "Density": [
+                "6,000/km2 (16,000/sqmi)"
+            ],
+            "Time zone": [
+                "UTC+5 (PKT)"
+            ],
+            "Postal code": [
+                "50700"
+            ],
+            "Calling code": [
+                "053"
+            ],
+            "Number of union councils": [
+                "18"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Punjab"
+            ],
+            "Coo\u0308rdinaten": [
+                "32\u00b0 56\u2032 NB, 74\u00b0 8\u2032 OL"
+            ],
+            "Inwoners (1998)": [
+                "2.048.000"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Pakistan"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Division",
+                "property_": "District",
+                "values": [
+                    "Gujrat"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "District",
+                "property_": "District",
+                "values": [
+                    "Gujrat"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Total",
+                "property_": "Inwoners (2008)",
+                "values": [
+                    "390,533"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC+5 (PKT)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Postal code",
+                "property_": "Postcode",
+                "values": [
+                    "50700"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Rank",
+                "property_": "Boom",
+                "values": [
+                    "20th, Pakistan"
+                ],
+                "correct": false
+            }
+        ]
+    },
+    {
+        "name": "Maracaibo",
+        "uri": "http://www.wikidata.org/entity/Q171632",
+        "url_en": "https://en.wikipedia.org/wiki/Maracaibo",
+        "url_nl": "https://nl.wikipedia.org/wiki/Maracaibo",
+        "infobox_en": {
+            "Country": [
+                "Venezuela"
+            ],
+            "State": [
+                "Zulia"
+            ],
+            "Founded": [
+                "(1) 8 September 1529, (2) 1569, (3) 1574"
+            ],
+            "Founded by": [
+                "Ambrosio Alfi\u0301nger (1529), Captain Alonso Pacheco (1569), Captain Pedro Maldonado (1574)"
+            ],
+            "Type": [
+                "Mayor\u2013council"
+            ],
+            "Body": [
+                "Alcaldi\u0301a de Maracaibo"
+            ],
+            "Mayor": [
+                "Rafael Rami\u0301rez Colina"
+            ],
+            "Metro": [
+                "5,278,448"
+            ],
+            "Elevation": [
+                "6m (20ft)"
+            ],
+            "Municipality": [
+                "2,658,355"
+            ],
+            "Rank": [
+                "2nd"
+            ],
+            "Demonym(s)": [
+                "Marabin, Maracaibero(a), Maracucho(a)"
+            ],
+            "Time zone": [
+                "UTC\u22124 (VET)"
+            ],
+            "Postal coded": [
+                "4001, 4002, 4003, 4004, 4005"
+            ],
+            "Area code": [
+                "261"
+            ],
+            "ISO 3166 code": [
+                "VE-V"
+            ],
+            "Climate": [
+                "BSh"
+            ],
+            "Website": [
+                "www.maracaibo.gob.ve"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Zulia"
+            ],
+            "Coo\u0308rdinaten": [
+                "10\u00b0 39\u2032 NB, 71\u00b0 37\u2032 WL"
+            ],
+            "Oppervlakte": [
+                "478 km2"
+            ],
+            "Inwoners (31/07/2013)": [
+                "1.561.038 (3266 inw./km2)"
+            ],
+            "Burgemeester": [
+                "Rafael Rami\u0301rez Colina (PJ)"
+            ],
+            "Website": [
+                "maracaibo.gob.ve"
+            ]
+        },
+        "value_alignment_completed_infobox": [
+            {
+                "original_property": "Country",
+                "property_": "Deelstaat",
+                "values": [
+                    "Venezuela"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded",
+                "property_": "Gesticht",
+                "values": [
+                    "(1) 8 September 1529, (2) 1569, (3) 1574"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Founded by",
+                "property_": "Opgericht door",
+                "values": [
+                    "Ambrosio Alfi\u0301nger (1529), Captain Alonso Pacheco (1569), Captain Pedro Maldonado (1574)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Body",
+                "property_": "Raadsgebied (councilarea)",
+                "values": [
+                    "Alcaldi\u0301a de Maracaibo"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Municipality",
+                "property_": "Gemeente",
+                "values": [
+                    "2,658,355"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Time zone",
+                "property_": "Tijdzone",
+                "values": [
+                    "UTC\u22124 (VET)"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Area code",
+                "property_": "Netnummer",
+                "values": [
+                    "261"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "ISO 3166 code",
+                "property_": "ISO 3166-2:TH",
+                "values": [
+                    "VE-V"
+                ],
+                "correct": false
+            }
+        ],
+        "embedding_alignment_completed_infobox": [
+            {
+                "original_property": "Metro",
+                "property_": "UTC",
+                "values": [
+                    "5,278,448"
+                ],
+                "correct": false
+            },
+            {
+                "original_property": "Rank",
+                "property_": "Boom",
+                "values": [
+                    "2nd"
+                ],
+                "correct": false
+            }
+        ]
+    }
+]
