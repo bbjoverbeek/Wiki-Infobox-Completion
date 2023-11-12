@@ -52,7 +52,6 @@ class InfoBoxCity:
     all_alignment_completed_infobox: dict[str, list[str]] = None
 
 
-
 class EmbeddingComparisonMode(Enum):
     COSINE = "cosine"
     EUCLIDEAN = "euclidean"
@@ -60,7 +59,7 @@ class EmbeddingComparisonMode(Enum):
 
 def main():
     with open("data/cities.json", "r") as file:
-        cities =  json.load(file)
+        cities = json.load(file)
     print(len(cities))
 
 

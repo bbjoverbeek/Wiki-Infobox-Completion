@@ -1,7 +1,9 @@
 import json
 import pprint
+import random
 from enum import Enum
 
+from config import RANDOM_SEED
 from util import InfoBoxCity
 from value_alignment import process_cities, align_properties
 
@@ -59,14 +61,16 @@ def main():
         CompletionMode.VALUE_ALIGNMENT, cities, value_alignments, embedding_alignments
     )
 
-    example_city = cities[25]
+    random.seed(RANDOM_SEED)
+    test_cities = random.sample(cities, 40)
 
-    pprint.pprint({
-        "nl": example_city.infobox_nl,
-        "en": example_city.infobox_en,
-        "value_alignment": example_city.value_alignment_completed_infobox,
-        "all_alignment": example_city.all_alignment_completed_infobox,
-    })
+    for example_city in test_cities:
+        pprint.pprint({
+            "nl": example_city.infobox_nl,
+            "en": example_city.infobox_en,
+            "value_alignment": example_city.value_alignment_completed_infobox,
+            "all_alignment": example_city.all_alignment_completed_infobox,
+        })
 
 
 if __name__ == '__main__':

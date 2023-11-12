@@ -4,14 +4,10 @@ import time
 import requests
 from tqdm import tqdm
 
-
 from util import CityProperty, City, Property
 
 # use user agent to prevent API from blocking requests
 USER_AGENT = 'infobox_completion_bot/1.0 (b.b.j.overbeek@student.rug.nl)'
-
-
-
 
 
 def get_entity_properties_and_labels(entity_id: str) -> dict[str, CityProperty]:
