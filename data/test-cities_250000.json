@@ -1,0 +1,4573 @@
+[
+    {
+        "name": "Rotterdam",
+        "uri": "http://www.wikidata.org/entity/Q34370",
+        "url_en": "https://en.wikipedia.org/wiki/Rotterdam",
+        "url_nl": "https://nl.wikipedia.org/wiki/Rotterdam",
+        "infobox_en": {
+            "Country": [
+                "Netherlands"
+            ],
+            "Province": [
+                "South Holland"
+            ],
+            "Districts": [
+                "Fourteen",
+                "CentrumCharloisDelfshavenFeijenoordHillegersberg-SchiebroekHoogvlietHook of HollandIJsselmondeKralingen-CrooswijkNoordOverschiePernisPrins AlexanderRozenburg"
+            ],
+            "Body": [
+                "Municipal council"
+            ],
+            "Mayor": [
+                "Ahmed Aboutaleb (PvdA)"
+            ],
+            "Aldermen": [
+                "List",
+                "Robert Simons (LR)Ronald Buijt (LR)Maarten Struijvenberg (LR)Vincent Karremans (VVD)Tim Versnel (VVD)Chantal Zeegers (D66)Said Kasmi (D66)Faouzi Achbar (DENK)Natasha Mohamed-Hoesein (DENK)"
+            ],
+            "Municipality": [
+                "664,311"
+            ],
+            "Land": [
+                "217.55km2 (84.00sqmi)"
+            ],
+            "Water": [
+                "106.59km2 (41.15sqmi)"
+            ],
+            "Randstad": [
+                "8,366,078"
+            ],
+            "Density": [
+                "2,995/km2 (7,760/sqmi)"
+            ],
+            "Urban": [
+                "1,273,385"
+            ],
+            "Metro": [
+                "2,390,101",
+                ""
+            ],
+            "Demonym": [
+                "Rotterdammer"
+            ],
+            "Time zone": [
+                "UTC+1 (CET)"
+            ],
+            "Summer (DST)": [
+                "UTC+2 (CEST)"
+            ],
+            "Postcode": [
+                "3000\u20133099"
+            ],
+            "Area code": [
+                "010"
+            ],
+            "Website": [
+                "rotterdam.nl (in Dutch)"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Zuid-Holland Zuid-Holland"
+            ],
+            "Gemeente": [
+                "Rotterdam Rotterdam"
+            ],
+            "Coo\u0308rdinaten": [
+                "51\u00b0 55\u2032 NB, 4\u00b0 30\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "324,1 km2"
+            ],
+            "- land": [
+                "206,44 km2"
+            ],
+            "- water": [
+                "112,91 km2"
+            ],
+            "Inwoners (2021-01-01)": [
+                "588.490 (1.816 inw./km2)"
+            ],
+            "Burgemeester": [
+                "Ahmed Aboutaleb (PvdA)"
+            ],
+            "Postcode": [
+                "3000-30993196-3199"
+            ],
+            "Netnummer": [
+                "010"
+            ],
+            "Woonplaatscode": [
+                "3086"
+            ],
+            "Belangrijke verkeersaders": [
+                "A4 (deel RING)A13A15 (deel RING)A16 (deel RING)A20 (deel RING)A29"
+            ],
+            "Stadsrechten": [
+                "1299/1340 (\u2192Geschiedenis)"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Netherlands"
+            ],
+            "District": [
+                "Fourteen",
+                "CentrumCharloisDelfshavenFeijenoordHillegersberg-SchiebroekHoogvlietHook of HollandIJsselmondeKralingen-CrooswijkNoordOverschiePernisPrins AlexanderRozenburg"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Municipal council"
+            ],
+            "Naam inwoner": [
+                "Rotterdammer"
+            ],
+            "Website": [
+                "rotterdam.nl (in Dutch)"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Netherlands"
+            ],
+            "District": [
+                "Fourteen",
+                "CentrumCharloisDelfshavenFeijenoordHillegersberg-SchiebroekHoogvlietHook of HollandIJsselmondeKralingen-CrooswijkNoordOverschiePernisPrins AlexanderRozenburg"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Municipal council"
+            ],
+            "Land": [
+                "217.55km2 (84.00sqmi)"
+            ],
+            "UTC": [
+                "2,390,101",
+                ""
+            ],
+            "Naam inwoner": [
+                "Rotterdammer"
+            ],
+            "Website": [
+                "rotterdam.nl (in Dutch)"
+            ]
+        }
+    },
+    {
+        "name": "Brazzaville",
+        "uri": "http://www.wikidata.org/entity/Q3844",
+        "url_en": "https://en.wikipedia.org/wiki/Brazzaville",
+        "url_nl": "https://nl.wikipedia.org/wiki/Brazzaville",
+        "infobox_en": {
+            "Country": [
+                "Republic of the Congo"
+            ],
+            "Capital district": [
+                "Brazzaville"
+            ],
+            "Department": [
+                "Brazzaville"
+            ],
+            "Commune": [
+                "Brazzaville"
+            ],
+            "Founded": [
+                "1883"
+            ],
+            "Founded by": [
+                "Pierre Savorgnan de Brazza"
+            ],
+            "Mayor": [
+                "Dieudonne\u0301 Bantsimba"
+            ],
+            "Total": [
+                "1,932,610"
+            ],
+            "Elevation": [
+                "320m (1,050ft)"
+            ],
+            "Density": [
+                "7,300/km2 (19,000/sqmi)"
+            ],
+            "Official language": [
+                "French"
+            ],
+            "National languages": [
+                "Kituba and LingalaNon-national language: Tsiladi"
+            ],
+            "Area code": [
+                "242"
+            ],
+            "HDI (2021)": [
+                "0.623 \u00b7 medium \u00b7 1st of 12"
+            ],
+            "Website": [
+                "www.brazzaville.cg"
+            ]
+        },
+        "infobox_nl": {
+            "Regio": [
+                "Brazzaville"
+            ],
+            "Coo\u0308rdinaten": [
+                "4\u00b0 15\u2032 ZB, 15\u00b0 16\u2032 OL"
+            ],
+            "Inwoners (2007)": [
+                "650.000"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Republic of the Congo"
+            ],
+            "Gesticht": [
+                "1883"
+            ],
+            "Burgemeester": [
+                "Dieudonne\u0301 Bantsimba"
+            ],
+            "Inwoners (2008)": [
+                "1,932,610"
+            ],
+            "Netnummer": [
+                "242"
+            ],
+            "Website": [
+                "www.brazzaville.cg"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Republic of the Congo"
+            ],
+            "Gesticht": [
+                "1883"
+            ],
+            "Burgemeester": [
+                "Dieudonne\u0301 Bantsimba"
+            ],
+            "Inwoners (2008)": [
+                "1,932,610"
+            ],
+            "Netnummer": [
+                "242"
+            ],
+            "Website": [
+                "www.brazzaville.cg"
+            ]
+        }
+    },
+    {
+        "name": "Thiruvananthapuram",
+        "uri": "http://www.wikidata.org/entity/Q167715",
+        "url_en": "https://en.wikipedia.org/wiki/Thiruvananthapuram",
+        "url_nl": "https://nl.wikipedia.org/wiki/Trivandrum_(stad)",
+        "infobox_en": {
+            "Country": [
+                "India"
+            ],
+            "State": [
+                "Kerala"
+            ],
+            "District": [
+                "Thiruvananthapuram"
+            ],
+            "Type": [
+                "Municipal Corporation"
+            ],
+            "Body": [
+                "Thiruvananthapuram Municipal Corporation"
+            ],
+            "Mayor": [
+                "Arya Rajendran (CPI(M))"
+            ],
+            "Deputy Mayor": [
+                "P. K. Raju (CPI)"
+            ],
+            "Member of Parliament": [
+                "Shashi Tharoor (INC)"
+            ],
+            "City Police Commissioner": [
+                "Sanjay Kumar Gurudin IPS"
+            ],
+            "Metropolis": [
+                "957,730"
+            ],
+            "Metro": [
+                "1,687,406"
+            ],
+            "Rank": [
+                "1st"
+            ],
+            "Elevation": [
+                "38.93m (127.72ft)"
+            ],
+            "Density": [
+                "4,500/km2 (12,000/sqmi)"
+            ],
+            "Demonym(s)": [
+                "Trivandrumite, Trivian"
+            ],
+            "Official Language": [
+                "Malayalam, English"
+            ],
+            "Time zone": [
+                "UTC+5:30 (IST)"
+            ],
+            "PIN": [
+                "695xxx"
+            ],
+            "Area code": [
+                "+91471xxxxxxx"
+            ],
+            "Vehicle registration": [
+                "KL-01 Thiruvananthapuram",
+                "KL-15 KSRTC",
+                "KL-16 Attingal",
+                "KL-19 Parassala",
+                "KL-20 Neyyattinkara",
+                "KL-21 Nedumangad",
+                "KL-22 Kazhakootam",
+                "KL-74 Kattakkada",
+                "KL-81 Varkala"
+            ],
+            "GDP Nominal": [
+                "$2.47billion"
+            ],
+            "Percapita": [
+                "$3,323 or \u20b92.34 lakh"
+            ],
+            "Climate": [
+                "Am/Aw (Ko\u0308ppen)"
+            ],
+            "Website": [
+                "trivandrum.nic.in"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Kerala"
+            ],
+            "District": [
+                "Trivandrum"
+            ],
+            "Coo\u0308rdinaten": [
+                "8\u00b0 29\u2032 NB, 76\u00b0 57\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "214 km2"
+            ],
+            "Inwoners (2001)": [
+                "744.739"
+            ],
+            "Hoogte": [
+                "10 m"
+            ],
+            "Burgemeester": [
+                "Arya Rajendran (CPI)"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Thiruvananthapuram Municipal Corporation"
+            ],
+            "Netnummer": [
+                "+91471xxxxxxx"
+            ],
+            "Kenteken": [
+                "KL-01 Thiruvananthapuram",
+                "KL-15 KSRTC",
+                "KL-16 Attingal",
+                "KL-19 Parassala",
+                "KL-20 Neyyattinkara",
+                "KL-21 Nedumangad",
+                "KL-22 Kazhakootam",
+                "KL-74 Kattakkada",
+                "KL-81 Varkala"
+            ],
+            "Website": [
+                "trivandrum.nic.in"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Thiruvananthapuram Municipal Corporation"
+            ],
+            "UTC": [
+                "1,687,406"
+            ],
+            "Boom": [
+                "1st"
+            ],
+            "Status": [
+                "695xxx"
+            ],
+            "Netnummer": [
+                "+91471xxxxxxx"
+            ],
+            "Kenteken": [
+                "KL-01 Thiruvananthapuram",
+                "KL-15 KSRTC",
+                "KL-16 Attingal",
+                "KL-19 Parassala",
+                "KL-20 Neyyattinkara",
+                "KL-21 Nedumangad",
+                "KL-22 Kazhakootam",
+                "KL-74 Kattakkada",
+                "KL-81 Varkala"
+            ],
+            "Website": [
+                "trivandrum.nic.in"
+            ]
+        }
+    },
+    {
+        "name": "Larkana",
+        "uri": "http://www.wikidata.org/entity/Q696605",
+        "url_en": "https://en.wikipedia.org/wiki/Larkana",
+        "url_nl": "https://nl.wikipedia.org/wiki/Larkano",
+        "infobox_en": {
+            "Country": [
+                "Pakistan"
+            ],
+            "Province": [
+                "Sindh"
+            ],
+            "District": [
+                "Larkana District"
+            ],
+            "Taluka": [
+                "Larkana Taluka"
+            ],
+            "Type": [
+                "Municipal Corporation"
+            ],
+            "Mayor": [
+                "None (Vacant)"
+            ],
+            "Deputy Mayor": [
+                "None (Vacant)"
+            ],
+            "Commissioner": [
+                "Ghanwar Ali Laghari (BPS-20 PCS)"
+            ],
+            "Regional Police Officer": [
+                "Mazhar Nawaz Shaikh (BPS-20 PSP)"
+            ],
+            "City": [
+                "490,508"
+            ],
+            "Metro": [
+                "1,906km2 (736sqmi)"
+            ],
+            "Elevation": [
+                "147m (482ft)"
+            ],
+            "Rank": [
+                "15th, Pakistan"
+            ],
+            "Density": [
+                "6,000/km2 (15,000/sqmi)"
+            ],
+            "Time zone": [
+                "UTC+5 (PKT)"
+            ],
+            "Area code": [
+                "074"
+            ],
+            "Website": [
+                "Larkana.pk"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Sindh"
+            ],
+            "District": [
+                "Larkano"
+            ],
+            "Coo\u0308rdinaten": [
+                "27\u00b0 33\u2032 NB, 68\u00b0 13\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "3,527 km2"
+            ],
+            "Inwoners (1998)": [
+                "519.000"
+            ],
+            "Hoogte": [
+                "147 m"
+            ],
+            "Website": [
+                "larkano.com"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Pakistan"
+            ],
+            "Burgemeester": [
+                "None (Vacant)"
+            ],
+            "Netnummer": [
+                "074"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Pakistan"
+            ],
+            "Burgemeester": [
+                "None (Vacant)"
+            ],
+            "UTC": [
+                "1,906km2 (736sqmi)"
+            ],
+            "Boom": [
+                "15th, Pakistan"
+            ],
+            "Netnummer": [
+                "074"
+            ]
+        }
+    },
+    {
+        "name": "Tonal\u00e1",
+        "uri": "http://www.wikidata.org/entity/Q1798559",
+        "url_en": "https://en.wikipedia.org/wiki/Tonal%C3%A1,_Jalisco",
+        "url_nl": "https://nl.wikipedia.org/wiki/Tonal%C3%A1_(Jalisco)",
+        "infobox_en": {},
+        "infobox_nl": {
+            "Deelstaat": [
+                "Jalisco"
+            ],
+            "Gemeente": [
+                "Tonala\u0301"
+            ],
+            "Coo\u0308rdinaten": [
+                "20\u00b0 37\u2032 NB, 103\u00b0 14\u2032 WL"
+            ],
+            "Inwoners (2010)": [
+                "408.759"
+            ],
+            "Hoogte": [
+                "1670 m"
+            ],
+            "Tijdzone": [
+                "UTC\u22126"
+            ],
+            "Website": [
+                "tonala.gob.mx"
+            ]
+        },
+        "value_alignment_completed_infobox": {},
+        "all_alignment_completed_infobox": {}
+    },
+    {
+        "name": "Nyala",
+        "uri": "http://www.wikidata.org/entity/Q851576",
+        "url_en": "https://en.wikipedia.org/wiki/Nyala,_Sudan",
+        "url_nl": "https://nl.wikipedia.org/wiki/Nyala_(Soedan)",
+        "infobox_en": {
+            "Country": [
+                "Sudan"
+            ],
+            "State": [
+                "South Darfur"
+            ],
+            "Elevation": [
+                "2,208ft (673m)"
+            ],
+            "Metro": [
+                "1,057,000"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Zuid-Darfoer"
+            ],
+            "Coo\u0308rdinaten": [
+                "12\u00b0 36\u2032 NB, 24\u00b0 53\u2032 OL"
+            ],
+            "Inwoners": [
+                "500.000"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Sudan"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Sudan"
+            ],
+            "UTC": [
+                "1,057,000"
+            ]
+        }
+    },
+    {
+        "name": "Al Hudaydah",
+        "uri": "http://www.wikidata.org/entity/Q270041",
+        "url_en": "https://en.wikipedia.org/wiki/Al_Hudaydah",
+        "url_nl": "https://nl.wikipedia.org/wiki/Al_Hudaydah_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Yemen"
+            ],
+            "Governorate": [
+                "Al Hudaydah"
+            ],
+            "Administration": [
+                "United Nations (de jure) Houthis (de facto)"
+            ],
+            "Elevation": [
+                "17m (56ft)"
+            ],
+            "Total": [
+                "404,062"
+            ],
+            "Estimate(2023)": [
+                "734,699"
+            ],
+            "Time zone": [
+                "UTC+3 (Yemen Standard Time)"
+            ]
+        },
+        "infobox_nl": {
+            "Gouvernement": [
+                "Al Hudaydah"
+            ],
+            "Coo\u0308rdinaten": [
+                "14\u00b0 48\u2032 NB, 42\u00b0 57\u2032 OL"
+            ],
+            "Inwoners (2004)": [
+                "402.560"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Yemen"
+            ],
+            "Inwoners (2008)": [
+                "404,062"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Yemen"
+            ],
+            "Inwoners (2008)": [
+                "404,062"
+            ]
+        }
+    },
+    {
+        "name": "Sulaymaniyah",
+        "uri": "http://www.wikidata.org/entity/Q191204",
+        "url_en": "https://en.wikipedia.org/wiki/Sulaymaniyah",
+        "url_nl": "https://nl.wikipedia.org/wiki/Suleimaniya",
+        "infobox_en": {
+            "Country": [
+                "Iraq"
+            ],
+            "Region": [
+                "Kurdistan Region"
+            ],
+            "Governorate": [
+                "Sulaymaniyah Governorate"
+            ],
+            "Type": [
+                "Council\u2013manager"
+            ],
+            "Governor": [
+                "Haval Abubakir"
+            ],
+            "Elevation": [
+                "882m (2,895ft)"
+            ],
+            "Estimate(2018)": [
+                "676,492"
+            ],
+            "Time zone": [
+                "UTC+3 (UTC+3)"
+            ],
+            "Summer (DST)": [
+                "not observed"
+            ],
+            "Website": [
+                "https://slemani.gov.krd/"
+            ]
+        },
+        "infobox_nl": {
+            "Autonome regio": [
+                "Koerdistan"
+            ],
+            "Provincie": [
+                "Suleimaniya"
+            ],
+            "Coo\u0308rdinaten": [
+                "35\u00b0 33\u2032 NB, 45\u00b0 26\u2032 OL"
+            ],
+            "Inwoners (2009)": [
+                "1.041.489"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Iraq"
+            ],
+            "Regio": [
+                "Kurdistan Region"
+            ],
+            "Website": [
+                "https://slemani.gov.krd/"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Iraq"
+            ],
+            "Regio": [
+                "Kurdistan Region"
+            ],
+            "Website": [
+                "https://slemani.gov.krd/"
+            ]
+        }
+    },
+    {
+        "name": "Lima",
+        "uri": "http://www.wikidata.org/entity/Q2868",
+        "url_en": "https://en.wikipedia.org/wiki/Lima",
+        "url_nl": "https://nl.wikipedia.org/wiki/Lima_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Peru"
+            ],
+            "Province": [
+                "Lima"
+            ],
+            "Established": [
+                "6 January 1535"
+            ],
+            "Founded by": [
+                "Francisco Pizarro"
+            ],
+            "Mayor": [
+                "Rafael Lo\u0301pez Aliaga"
+            ],
+            "City": [
+                "2,672.3km2 (1,031.8sqmi)"
+            ],
+            "Urban": [
+                "9,751,717"
+            ],
+            "Metro": [
+                "11,283,787"
+            ],
+            "Elevation": [
+                "0\u20131,550m (0\u20135,090ft)"
+            ],
+            "Urbandensity": [
+                "12,000/km2 (32,000/sqmi)"
+            ],
+            "Metrodensity": [
+                "4,002.3/km2 (10,366/sqmi)"
+            ],
+            "Demonyms": [
+                "Limen\u0303o/a"
+            ],
+            "Time zone": [
+                "UTC\u22125 (PET)"
+            ],
+            "UBIGEO": [
+                "15000"
+            ],
+            "Area code": [
+                "1"
+            ],
+            "Website": [
+                "www.munlima.gob.pe"
+            ],
+            "Official name": [
+                "Historic Centre of Lima"
+            ],
+            "Type": [
+                "Cultural"
+            ],
+            "Criteria": [
+                "iv"
+            ],
+            "Designated": [
+                "1988, 1991 (12th, 15th sessions)"
+            ],
+            "Referenceno.": [
+                "500"
+            ],
+            "Region": [
+                "Latin America and the Caribbean"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Lima"
+            ],
+            "Regio": [
+                "Lima"
+            ],
+            "Coo\u0308rdinaten": [
+                "12\u00b0 2\u2032 ZB, 77\u00b0 1\u2032 WL"
+            ],
+            "Oppervlakte": [
+                "2.672,3 km2"
+            ],
+            "Inwoners (2018)": [
+                "10,3 miljoen"
+            ],
+            "Hoogte": [
+                "154 m"
+            ],
+            "Burgemeester": [
+                "Rafael Lo\u0301pez Aliaga"
+            ],
+            "Gesticht": [
+                "18 januari 1535"
+            ],
+            "Website": [
+                "munlima.gob.pe"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Peru"
+            ],
+            "Netnummer": [
+                "1"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Peru"
+            ],
+            "UTC": [
+                "11,283,787"
+            ],
+            "Netnummer": [
+                "1"
+            ]
+        }
+    },
+    {
+        "name": "Rohtak",
+        "uri": "http://www.wikidata.org/entity/Q1453180",
+        "url_en": "https://en.wikipedia.org/wiki/Rohtak",
+        "url_nl": "https://nl.wikipedia.org/wiki/Rohtak_(stad)",
+        "infobox_en": {
+            "Country": [
+                "India"
+            ],
+            "State": [
+                "Haryana"
+            ],
+            "District": [
+                "Rohtak"
+            ],
+            "Body": [
+                "Municipal Corporation of Rohtak"
+            ],
+            "Member of Parliament": [
+                "Arvind Kumar Sharma (BJP)"
+            ],
+            "Member of Legislative Assembly": [
+                "Bharat Bhushan Batra (INC.)"
+            ],
+            "Mayor": [
+                "Manmohan Goyal"
+            ],
+            "Total": [
+                "373,133"
+            ],
+            "Rank": [
+                "119"
+            ],
+            "Elevation": [
+                "220m (720ft)"
+            ],
+            "Density": [
+                "2,700/km2 (7,000/sqmi)"
+            ],
+            "Demonym": [
+                "Rohtakiya Haryanvi"
+            ],
+            "Official": [
+                "Hindi"
+            ],
+            "Additionalofficial": [
+                "English, Punjabi"
+            ],
+            "Time zone": [
+                "UTC+5:30 (IST)"
+            ],
+            "PIN": [
+                "124 001\u2013 124 017"
+            ],
+            "Telephone code": [
+                "91 1262 XXX XXX"
+            ],
+            "Vehicle registration": [
+                "HR 12 (Private), HR 46 (Commercial)"
+            ],
+            "Major Highways": [
+                "NH10, NH71, NH71A & SH18"
+            ],
+            "Nearest City": [
+                "Jhajjar, Sonipat, New Delhi"
+            ],
+            "Railways Stations in City": [
+                "Rohtak Jn, Asthal Bohar Junction railway station"
+            ],
+            "Sex ratio": [
+                "1.13 \u2642/\u2640"
+            ],
+            "Planning agency": [
+                "Haryana Urban Development Authority"
+            ],
+            "Civic agency": [
+                "Municipal Corporation of Rohtak"
+            ],
+            "Climate": [
+                "Climatic regions of India (Ko\u0308ppen)"
+            ],
+            "Avg. summer temperature": [
+                "44\u00b0C (111\u00b0F)"
+            ],
+            "Avg. winter temperature": [
+                "13\u00b0C (55\u00b0F)"
+            ],
+            "Website": [
+                "rohtak.gov.in"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Haryana"
+            ],
+            "District": [
+                "Rohtak"
+            ],
+            "Coo\u0308rdinaten": [
+                "28\u00b0 54\u2032 NB, 76\u00b0 34\u2032 OL"
+            ],
+            "Inwoners (2001)": [
+                "286.773"
+            ],
+            "Hoogte": [
+                "213 m"
+            ],
+            "Alfabetisme": [
+                "72%"
+            ],
+            "Mannen": [
+                "154.153"
+            ],
+            "Vrouwen": [
+                "132.620"
+            ],
+            "Kinderen": [
+                "35.629"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Municipal Corporation of Rohtak"
+            ],
+            "Burgemeester": [
+                "Manmohan Goyal"
+            ],
+            "Inwoners (2008)": [
+                "373,133"
+            ],
+            "Naam inwoner": [
+                "Rohtakiya Haryanvi"
+            ],
+            "Netnummer(s)": [
+                "91 1262 XXX XXX"
+            ],
+            "Kenteken": [
+                "HR 12 (Private), HR 46 (Commercial)"
+            ],
+            "Website": [
+                "rohtak.gov.in"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Municipal Corporation of Rohtak"
+            ],
+            "Burgemeester": [
+                "Manmohan Goyal"
+            ],
+            "Inwoners (2008)": [
+                "373,133"
+            ],
+            "Boom": [
+                "119"
+            ],
+            "Naam inwoner": [
+                "Rohtakiya Haryanvi"
+            ],
+            "Status": [
+                "124 001\u2013 124 017"
+            ],
+            "Netnummer(s)": [
+                "91 1262 XXX XXX"
+            ],
+            "Kenteken": [
+                "HR 12 (Private), HR 46 (Commercial)"
+            ],
+            "Website": [
+                "rohtak.gov.in"
+            ]
+        }
+    },
+    {
+        "name": "Khulna",
+        "uri": "http://www.wikidata.org/entity/Q243325",
+        "url_en": "https://en.wikipedia.org/wiki/Khulna",
+        "url_nl": "https://nl.wikipedia.org/wiki/Khulna_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Bangladesh"
+            ],
+            "Division": [
+                "Khulna Division"
+            ],
+            "District": [
+                "Khulna District"
+            ],
+            "Municipal Council:": [
+                "8September 1884 (139 years ago)(1884-09-08)"
+            ],
+            "Municipal Corporation:": [
+                "12December 1984 (38 years ago)(1984-12-12)"
+            ],
+            "City Corporation:": [
+                "6August 1990 (33 years ago)(1990-08-06)"
+            ],
+            "Type": [
+                "Mayor-council"
+            ],
+            "Body": [
+                "Khulna City Corporation"
+            ],
+            "Mayor": [
+                "Talukder Abdul Khaleque"
+            ],
+            "Police Commissioner": [
+                "MD Masudur Rahman Bhuiyan"
+            ],
+            "Total": [
+                "2,318,527"
+            ],
+            "Urban": [
+                "718,735"
+            ],
+            "Metro": [
+                "1,556,300"
+            ],
+            "Rank": [
+                "3rd"
+            ],
+            "Elevation": [
+                "9.0m (29.5ft)"
+            ],
+            "Density": [
+                "15,000/km2 (40,000/sqmi)"
+            ],
+            "Urbandensity": [
+                "16,000/km2 (41,000/sqmi)"
+            ],
+            "Metrodensity": [
+                "12,000/km2 (32,000/sqmi)"
+            ],
+            "Demonym": [
+                "Khulnaiya"
+            ],
+            "Time zone": [
+                "UTC+6 (BST)"
+            ],
+            "Postal codes": [
+                "9000, 9100, 92xx"
+            ],
+            "IDD : Calling Code": [
+                "+880 (0)41"
+            ],
+            "Languages": [
+                "Standard Bengali(Official)"
+            ],
+            "Police": [
+                "Khulna Metropolitan Police"
+            ],
+            "Airport": [
+                "Jessore Airport & Khan Jahan Ali Airport (Planned)"
+            ],
+            "Development Authority": [
+                "Khulna Development Authority"
+            ],
+            "WASA": [
+                "KWASA"
+            ],
+            "Literacy rate": [
+                "71.5%"
+            ],
+            "Website": [
+                "khulnacity.org"
+            ]
+        },
+        "infobox_nl": {
+            "Divisie": [
+                "Khulna"
+            ],
+            "District": [
+                "Khulna"
+            ],
+            "Coo\u0308rdinaten": [
+                "22\u00b0 50\u2032 NB, 89\u00b0 33\u2032 OL"
+            ],
+            "Inwoners (2001)": [
+                "1.172.831"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Bangladesh"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Khulna City Corporation"
+            ],
+            "Burgemeester": [
+                "Talukder Abdul Khaleque"
+            ],
+            "Inwoners (2008)": [
+                "2,318,527"
+            ],
+            "Naam inwoner": [
+                "Khulnaiya"
+            ],
+            "Postcodes": [
+                "9000, 9100, 92xx"
+            ],
+            "County": [
+                "Khulna Metropolitan Police"
+            ],
+            "Website": [
+                "khulnacity.org"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Bangladesh"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Khulna City Corporation"
+            ],
+            "Burgemeester": [
+                "Talukder Abdul Khaleque"
+            ],
+            "Inwoners (2008)": [
+                "2,318,527"
+            ],
+            "UTC": [
+                "1,556,300"
+            ],
+            "Boom": [
+                "3rd"
+            ],
+            "Naam inwoner": [
+                "Khulnaiya"
+            ],
+            "Postcodes": [
+                "9000, 9100, 92xx"
+            ],
+            "County": [
+                "Khulna Metropolitan Police"
+            ],
+            "Website": [
+                "khulnacity.org"
+            ]
+        }
+    },
+    {
+        "name": "Bikaner",
+        "uri": "http://www.wikidata.org/entity/Q200718",
+        "url_en": "https://en.wikipedia.org/wiki/Bikaner",
+        "url_nl": "https://nl.wikipedia.org/wiki/Bikaner",
+        "infobox_en": {
+            "Country": [
+                "India"
+            ],
+            "State": [
+                "Rajasthan"
+            ],
+            "District": [
+                "Bikaner"
+            ],
+            "Established": [
+                "1488; 535years ago(1488)"
+            ],
+            "Founded by": [
+                "Rao Bika"
+            ],
+            "Named for": [
+                "Rao Bika"
+            ],
+            "Body": [
+                "Municipal corporation"
+            ],
+            "Member of Parliament": [
+                "Arjun Ram Meghwal, (BJP)"
+            ],
+            "Member of Legislative Assembly": [
+                "Siddhi Kumari, (BJP)"
+            ],
+            "District collector and district magistrate": [
+                "Bhagwati Prasad Kalal, IAS"
+            ],
+            "Superintendent of Police": [
+                "Tejaswani Gautam, IPS"
+            ],
+            "Total": [
+                "644,406"
+            ],
+            "Elevation": [
+                "242m (794ft)"
+            ],
+            "Density": [
+                "2,400/km2 (6,200/sqmi)"
+            ],
+            "Official": [
+                "Hindi"
+            ],
+            "Additionalofficial": [
+                "English"
+            ],
+            "Regional": [
+                "Marwari"
+            ],
+            "Time zone": [
+                "UTC+5:30 (IST)"
+            ],
+            "PIN": [
+                "3340XX"
+            ],
+            "Telephone code": [
+                "+91 151 / 0151"
+            ],
+            "Vehicle registration": [
+                "RJ-07"
+            ],
+            "Website": [
+                "bikaner.rajasthan.gov.in"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Rajasthan"
+            ],
+            "District": [
+                "Bikaner"
+            ],
+            "Coo\u0308rdinaten": [
+                "28\u00b0 1\u2032 NB, 73\u00b0 19\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "270 km2"
+            ],
+            "Inwoners (2001)": [
+                "529.007"
+            ],
+            "Hoogte": [
+                "242 m"
+            ],
+            "Netnummer(s)": [
+                "+91 151"
+            ],
+            "Alfabetisme": [
+                "66%"
+            ],
+            "Mannen": [
+                "282.450"
+            ],
+            "Vrouwen": [
+                "246.557"
+            ],
+            "Kinderen": [
+                "73.794"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Gesticht": [
+                "1488; 535years ago(1488)"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Municipal corporation"
+            ],
+            "Inwoners (2008)": [
+                "644,406"
+            ],
+            "Kenteken": [
+                "RJ-07"
+            ],
+            "Website": [
+                "bikaner.rajasthan.gov.in"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Gesticht": [
+                "1488; 535years ago(1488)"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Municipal corporation"
+            ],
+            "Inwoners (2008)": [
+                "644,406"
+            ],
+            "Status": [
+                "3340XX"
+            ],
+            "Kenteken": [
+                "RJ-07"
+            ],
+            "Website": [
+                "bikaner.rajasthan.gov.in"
+            ]
+        }
+    },
+    {
+        "name": "Lom\u00e9",
+        "uri": "http://www.wikidata.org/entity/Q3792",
+        "url_en": "https://en.wikipedia.org/wiki/Lom%C3%A9",
+        "url_nl": "https://nl.wikipedia.org/wiki/Lom%C3%A9",
+        "infobox_en": {
+            "Country": [
+                "Togo"
+            ],
+            "Region": [
+                "Maritime Region"
+            ],
+            "Prefecture": [
+                "Golfe"
+            ],
+            "Mayor": [
+                "Aouissi Lode\u0301"
+            ],
+            "City": [
+                "1,500,000"
+            ],
+            "Metro": [
+                "2,000,000"
+            ],
+            "Elevation": [
+                "10m (30ft)"
+            ],
+            "Density": [
+                "15,000/km2 (40,000/sqmi)"
+            ],
+            "Metrodensity": [
+                "7,150/km2 (18,500/sqmi)"
+            ],
+            "Time zone": [
+                "UTC"
+            ],
+            "HDI (2019)": [
+                "0.579medium \u00b7 1st"
+            ]
+        },
+        "infobox_nl": {
+            "Regio": [
+                "Maritime"
+            ],
+            "Coo\u0308rdinaten": [
+                "6\u00b0 8\u2032 NB, 1\u00b0 13\u2032 OL"
+            ],
+            "Inwoners (2010)": [
+                "837.437"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Togo"
+            ],
+            "Prefectuur": [
+                "Golfe"
+            ],
+            "Burgemeester": [
+                "Aouissi Lode\u0301"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Togo"
+            ],
+            "Prefectuur": [
+                "Golfe"
+            ],
+            "Burgemeester": [
+                "Aouissi Lode\u0301"
+            ],
+            "UTC": [
+                "2,000,000"
+            ]
+        }
+    },
+    {
+        "name": "Palermo",
+        "uri": "http://www.wikidata.org/entity/Q2656",
+        "url_en": "https://en.wikipedia.org/wiki/Palermo",
+        "url_nl": "https://nl.wikipedia.org/wiki/Palermo_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Italy"
+            ],
+            "Region": [
+                "Sicily"
+            ],
+            "Metropolitan city": [
+                "Palermo (PA)"
+            ],
+            "Founded": [
+                "736BC"
+            ],
+            "Mayor": [
+                "Roberto Lagalla (UDC)"
+            ],
+            "Total": [
+                "676,118 (city) 1,300,000 (metro)"
+            ],
+            "Elevation": [
+                "14m (46ft)"
+            ],
+            "Demonym(s)": [
+                "PalermitanoPanormitoPalermitan (English)"
+            ],
+            "Time zone": [
+                "UTC+1 (CET)"
+            ],
+            "Summer (DST)": [
+                "UTC+2 (CEST)"
+            ],
+            "Postal code": [
+                "90100"
+            ],
+            "Dialingcode": [
+                "091"
+            ],
+            "ISTAT code": [
+                "082053"
+            ],
+            "Patron saint": [
+                "Saint Rosalia, Saint Agata, Saint Oliva and Saint Benedict the Moor"
+            ],
+            "Saint day": [
+                "14 July"
+            ],
+            "Website": [
+                "Official website"
+            ]
+        },
+        "infobox_nl": {
+            "Regio": [
+                "Sicilie\u0308 (SIC)"
+            ],
+            "Provincie": [
+                "Palermo"
+            ],
+            "Coo\u0308rdinaten": [
+                "38\u00b0 7\u2032 NB, 13\u00b0 22\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "158 km2"
+            ],
+            "Inwoners (1 januari 2018)": [
+                "668.405 (4182 inw./km2)"
+            ],
+            "Hoogte": [
+                "14 m"
+            ],
+            "Burgemeester": [
+                "Leoluca Orlando (PD)"
+            ],
+            "Postcode": [
+                "90100"
+            ],
+            "Netnummer": [
+                "091"
+            ],
+            "Aangrenzende gemeenten": [
+                "Altofonte, Belmonte Mezzagno, Ficarazzi, Isola delle Femmine, Misilmeri, Monreale, Torretta en Villabate"
+            ],
+            "Beschermheilige": [
+                "Santa Rosalia"
+            ],
+            "Naam inwoner": [
+                "palermitani"
+            ],
+            "ISTAT-code": [
+                "082053"
+            ],
+            "Website": [
+                "comune.palermo.it"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Italy"
+            ],
+            "Gesticht": [
+                "736BC"
+            ],
+            "Inwoners (2008)": [
+                "676,118 (city) 1,300,000 (metro)"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Italy"
+            ],
+            "Gesticht": [
+                "736BC"
+            ],
+            "Inwoners (2008)": [
+                "676,118 (city) 1,300,000 (metro)"
+            ]
+        }
+    },
+    {
+        "name": "Mymensingh",
+        "uri": "http://www.wikidata.org/entity/Q1006303",
+        "url_en": "https://en.wikipedia.org/wiki/Mymensingh",
+        "url_nl": "https://nl.wikipedia.org/wiki/Mymensingh_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Bangladesh"
+            ],
+            "Division": [
+                "Mymensingh Division"
+            ],
+            "District": [
+                "Mymensingh District"
+            ],
+            "Establishment": [
+                "1787"
+            ],
+            "Granted city status": [
+                "1787"
+            ],
+            "Type": [
+                "Mayor\u2013Council"
+            ],
+            "Body": [
+                "Mymensingh City Corporation"
+            ],
+            "Mayor": [
+                "Ekramul Haque Titu"
+            ],
+            "Police Superintendent": [
+                "Machum Ahmed Bhuya, PPM"
+            ],
+            "Metropolis": [
+                "576,722"
+            ],
+            "Metro": [
+                "91.315km2 (35.257sqmi)"
+            ],
+            "Elevation": [
+                "19m (62ft)"
+            ],
+            "Density": [
+                "6,300/km2 (16,000/sqmi)"
+            ],
+            "Demonym": [
+                "Moymonshinga"
+            ],
+            "Time zone": [
+                "UTC+6 (BST)"
+            ],
+            "Postal codes": [
+                "2200, 2201, 2202, 2203, 2204, 2205, 2206"
+            ],
+            "Calling code": [
+                "091"
+            ],
+            "Website": [
+                "mcc.gov.bd"
+            ]
+        },
+        "infobox_nl": {
+            "Divisie": [
+                "Mymensingh"
+            ],
+            "District": [
+                "Mymensingh"
+            ],
+            "Coo\u0308rdinaten": [
+                "24\u00b0 45\u2032 NB, 90\u00b0 24\u2032 OL"
+            ],
+            "Inwoners (2001)": [
+                "332.721"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Bangladesh"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Mymensingh City Corporation"
+            ],
+            "Burgemeester": [
+                "Ekramul Haque Titu"
+            ],
+            "Naam inwoner": [
+                "Moymonshinga"
+            ],
+            "Postcodes": [
+                "2200, 2201, 2202, 2203, 2204, 2205, 2206"
+            ],
+            "Website": [
+                "mcc.gov.bd"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Bangladesh"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Mymensingh City Corporation"
+            ],
+            "Burgemeester": [
+                "Ekramul Haque Titu"
+            ],
+            "UTC": [
+                "91.315km2 (35.257sqmi)"
+            ],
+            "Naam inwoner": [
+                "Moymonshinga"
+            ],
+            "Postcodes": [
+                "2200, 2201, 2202, 2203, 2204, 2205, 2206"
+            ],
+            "Website": [
+                "mcc.gov.bd"
+            ]
+        }
+    },
+    {
+        "name": "Fergana",
+        "uri": "http://www.wikidata.org/entity/Q486329",
+        "url_en": "https://en.wikipedia.org/wiki/Fergana",
+        "url_nl": "https://nl.wikipedia.org/wiki/Farg%27ona_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Uzbekistan"
+            ],
+            "Region": [
+                "Fergana Region"
+            ],
+            "Established": [
+                "1876"
+            ],
+            "Type": [
+                "City Administration"
+            ],
+            "Hakim (Mayor)": [
+                "Vosiljon Nazarov"
+            ],
+            "Total": [
+                "299,200"
+            ],
+            "Elevation": [
+                "590m (1,940ft)"
+            ],
+            "Density": [
+                "3,100/km2 (8,100/sqmi)"
+            ],
+            "Area code": [
+                "(+998) 73"
+            ],
+            "Website": [
+                "ferghana.uz"
+            ]
+        },
+        "infobox_nl": {
+            "Vilayat": [
+                "Farg\u02bbona"
+            ],
+            "Coo\u0308rdinaten": [
+                "40\u00b0 23\u2032 NB, 71\u00b0 47\u2032 OL"
+            ],
+            "Inwoners (1989)": [
+                "200.373"
+            ],
+            "Hoogte": [
+                "574 m"
+            ],
+            "Postcode": [
+                "712000-712200"
+            ],
+            "Netnummer": [
+                "(+998) 73"
+            ],
+            "Tijdzone": [
+                "UTC+5"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Uzbekistan"
+            ],
+            "Regio": [
+                "Fergana Region"
+            ],
+            "Gesticht": [
+                "1876"
+            ],
+            "Inwoners (2008)": [
+                "299,200"
+            ],
+            "Website": [
+                "ferghana.uz"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Uzbekistan"
+            ],
+            "Regio": [
+                "Fergana Region"
+            ],
+            "Gesticht": [
+                "1876"
+            ],
+            "Inwoners (2008)": [
+                "299,200"
+            ],
+            "Website": [
+                "ferghana.uz"
+            ]
+        }
+    },
+    {
+        "name": "Brampton",
+        "uri": "http://www.wikidata.org/entity/Q44198",
+        "url_en": "https://en.wikipedia.org/wiki/Brampton",
+        "url_nl": "https://nl.wikipedia.org/wiki/Brampton_(Ontario)",
+        "infobox_en": {
+            "Country": [
+                "Canada"
+            ],
+            "Province": [
+                "Ontario"
+            ],
+            "Region": [
+                "Peel"
+            ],
+            "Incorporation": [
+                "1853 (village)"
+            ],
+            "": [
+                "1974 (city)"
+            ],
+            "Mayor": [
+                "Patrick Brown"
+            ],
+            "Governing Body": [
+                "Brampton City Council"
+            ],
+            "Federalrepresentation": [
+                "List of MPs",
+                "Maninder Sidhu (Liberal)Kamal Khera (Liberal)Ruby Sahota (Liberal)Shafqat Ali (Liberal)Sonia Sidhu (Liberal)"
+            ],
+            "Provincialrepresentation": [
+                "List of MPPs",
+                "Amarjot Sandhu (PC)Prabmeet Sarkaria (PC)Hardeep Grewal (PC)Charmaine Williams (PC)Graham McGregor (PC)"
+            ],
+            "Land": [
+                "265.89km2 (102.66sqmi)"
+            ],
+            "Elevation": [
+                "218m (715ft)"
+            ],
+            "Total": [
+                "656,480 (9th)"
+            ],
+            "Density": [
+                "2,469/km2 (6,390/sqmi)"
+            ],
+            "Demonym": [
+                "Bramptonian"
+            ],
+            "Time zone": [
+                "UTC\u22125 (EST)"
+            ],
+            "Summer (DST)": [
+                "UTC\u22124 (EDT)"
+            ],
+            "Forward sortation area": [
+                "L6P to L7A"
+            ],
+            "Area code(s)": [
+                "905, 289, 365, and 742"
+            ],
+            "Website": [
+                "www.brampton.ca"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Ontario"
+            ],
+            "Coo\u0308rdinaten": [
+                "43\u00b0 41\u2032 NB, 79\u00b0 46\u2032 WL"
+            ],
+            "Inwoners (2006)": [
+                "433.806"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Canada"
+            ],
+            "Regio": [
+                "Peel"
+            ],
+            "Burgemeester": [
+                "Patrick Brown"
+            ],
+            "Inwoners (2008)": [
+                "656,480 (9th)"
+            ],
+            "Naam inwoner": [
+                "Bramptonian"
+            ],
+            "Website": [
+                "www.brampton.ca"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Canada"
+            ],
+            "Regio": [
+                "Peel"
+            ],
+            "Burgemeester": [
+                "Patrick Brown"
+            ],
+            "Land": [
+                "265.89km2 (102.66sqmi)"
+            ],
+            "Inwoners (2008)": [
+                "656,480 (9th)"
+            ],
+            "Naam inwoner": [
+                "Bramptonian"
+            ],
+            "Website": [
+                "www.brampton.ca"
+            ]
+        }
+    },
+    {
+        "name": "Lan\u00fas",
+        "uri": "http://www.wikidata.org/entity/Q1622565",
+        "url_en": "https://en.wikipedia.org/wiki/Lan%C3%BAs",
+        "url_nl": "https://nl.wikipedia.org/wiki/Lan%C3%BAs_(Buenos_Aires)",
+        "infobox_en": {
+            "Country": [
+                "Argentina"
+            ],
+            "Province": [
+                "Buenos Aires"
+            ],
+            "Partido": [
+                "Lanu\u0301s"
+            ],
+            "Founded": [
+                "October 20, 1888"
+            ],
+            "Intendant": [
+                "Ne\u0301stor Grindetti (Cambiemos)"
+            ],
+            "Elevation": [
+                "9m (30ft)"
+            ],
+            "Total": [
+                "212,152"
+            ],
+            "Demonym": [
+                "lanusense"
+            ],
+            "CPA Base": [
+                "B 1824"
+            ],
+            "Area code": [
+                "+54 11"
+            ],
+            "Patron saint": [
+                "Santa Teresa de Jesus"
+            ],
+            "Website": [
+                "www.lanus.gob.ar"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Buenos Aires"
+            ],
+            "Departement": [
+                "Lanu\u0301s"
+            ],
+            "Coo\u0308rdinaten": [
+                "34\u00b0 42\u2032 ZB, 58\u00b0 24\u2032 WL"
+            ],
+            "Inwoners (2001)": [
+                "212.150"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Argentina"
+            ],
+            "Gesticht": [
+                "October 20, 1888"
+            ],
+            "Intendente": [
+                "Ne\u0301stor Grindetti (Cambiemos)"
+            ],
+            "Inwoners (2008)": [
+                "212,152"
+            ],
+            "Naam inwoner": [
+                "lanusense"
+            ],
+            "Netnummer": [
+                "+54 11"
+            ],
+            "Website": [
+                "www.lanus.gob.ar"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Argentina"
+            ],
+            "Partido": [
+                "Lanu\u0301s"
+            ],
+            "Gesticht": [
+                "October 20, 1888"
+            ],
+            "Intendente": [
+                "Ne\u0301stor Grindetti (Cambiemos)"
+            ],
+            "Inwoners (2008)": [
+                "212,152"
+            ],
+            "Naam inwoner": [
+                "lanusense"
+            ],
+            "Netnummer": [
+                "+54 11"
+            ],
+            "Website": [
+                "www.lanus.gob.ar"
+            ]
+        }
+    },
+    {
+        "name": "Sambhajinagar",
+        "uri": "http://www.wikidata.org/entity/Q200713",
+        "url_en": "https://en.wikipedia.org/wiki/Aurangabad",
+        "url_nl": "https://nl.wikipedia.org/wiki/Aurangabad_(stad_in_Maharashtra)",
+        "infobox_en": {
+            "Country": [
+                "India"
+            ],
+            "State": [
+                "Maharashtra"
+            ],
+            "Region": [
+                "Marathwada"
+            ],
+            "Division": [
+                "Aurangabad"
+            ],
+            "District": [
+                "Aurangabad"
+            ],
+            "Established": [
+                "1610; 413years ago(1610)"
+            ],
+            "Founded by": [
+                "Malik Ambar"
+            ],
+            "Named for": [
+                "Aurangzeb (formerly)   Sambhaji (presently)"
+            ],
+            "Type": [
+                "Municipal Corporation"
+            ],
+            "Body": [
+                "Aurangabad Municipal Corporation"
+            ],
+            "Divisional Commissioner of Aurangabad": [
+                "Sunil Kendrekar (IAS)"
+            ],
+            "Police Commissioner of Aurangabad": [
+                "Nikhil Gupta (IPS)"
+            ],
+            "MP": [
+                "Imtiyaz Jaleel (AIMIM)"
+            ],
+            "Mayor": [
+                "Vacant (Administrator Rule)"
+            ],
+            "MLAs": [
+                "Sanjay Shirsat (Aurangabad West)",
+                "Atul Moreshwar Save (Aurangabad East)",
+                "Pradeep Jaiswal (Aurangabad Central)"
+            ],
+            "Metropolis": [
+                "1,175,116"
+            ],
+            "Elevation": [
+                "568m (1,864ft)"
+            ],
+            "Rank": [
+                "India: 32ndMaharashtra: 6thMarathwada: 1st"
+            ],
+            "Density": [
+                "8,300/km2 (22,000/sqmi)"
+            ],
+            "Metro": [
+                "1,193,167"
+            ],
+            "Metro rank": [
+                "43rd"
+            ],
+            "Demonym(s)": [
+                "Aurangabadkar, Aurangabadi"
+            ],
+            "Official": [
+                "Marathi"
+            ],
+            "Spoken": [
+                "Marathi, Urdu, Hindi"
+            ],
+            "Time zone": [
+                "UTC+5:30 (IST)"
+            ],
+            "PIN": [
+                "431 001"
+            ],
+            "Telephone code 0240": [
+                "0240"
+            ],
+            "Vehicle registration": [
+                "MH 20"
+            ],
+            "Nominal GDP": [
+                "$7 billion+ US dollar(2019-20)"
+            ],
+            "Website": [
+                "aurangabadmahapalika.org"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Maharashtra"
+            ],
+            "District": [
+                "Aurangabad"
+            ],
+            "Coo\u0308rdinaten": [
+                "19\u00b0 47\u2032 NB, 75\u00b0 17\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "200 km2"
+            ],
+            "Inwoners (2001)": [
+                "872.667"
+            ],
+            "Hoogte": [
+                "513 m"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Regio": [
+                "Marathwada"
+            ],
+            "Gesticht": [
+                "1610; 413years ago(1610)"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Aurangabad Municipal Corporation"
+            ],
+            "Burgemeester": [
+                "Vacant (Administrator Rule)"
+            ],
+            "Kenteken": [
+                "MH 20"
+            ],
+            "Website": [
+                "aurangabadmahapalika.org"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Regio": [
+                "Marathwada"
+            ],
+            "Gesticht": [
+                "1610; 413years ago(1610)"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Aurangabad Municipal Corporation"
+            ],
+            "Burgemeester": [
+                "Vacant (Administrator Rule)"
+            ],
+            "Boom": [
+                "India: 32ndMaharashtra: 6thMarathwada: 1st"
+            ],
+            "UTC": [
+                "1,193,167"
+            ],
+            "Status": [
+                "431 001"
+            ],
+            "Kenteken": [
+                "MH 20"
+            ],
+            "Website": [
+                "aurangabadmahapalika.org"
+            ]
+        }
+    },
+    {
+        "name": "Cluj-Napoca",
+        "uri": "http://www.wikidata.org/entity/Q100188",
+        "url_en": "https://en.wikipedia.org/wiki/Cluj-Napoca",
+        "url_nl": "https://nl.wikipedia.org/wiki/Cluj-Napoca",
+        "infobox_en": {
+            "Country": [
+                "Romania"
+            ],
+            "County": [
+                "Cluj County"
+            ],
+            "Status": [
+                "County seat"
+            ],
+            "Founded": [
+                "1213 (first official record as Clus)"
+            ],
+            "Mayor (2020\u20132024)": [
+                "Emil Boc (PNL)"
+            ],
+            "Deputy Mayor": [
+                "Emese Ola\u0301h (UDMR)"
+            ],
+            "City Manager": [
+                "Gheorghe S\u0326urubaru (PNL)"
+            ],
+            "City": [
+                "286,598"
+            ],
+            "Metro": [
+                "1,537.5km2 (593.6sqmi)"
+            ],
+            "Elevation": [
+                "340m (1,120ft)"
+            ],
+            "Density": [
+                "1,597/km2 (4,140/sqmi)"
+            ],
+            "Metro(2011)": [
+                "411,379"
+            ],
+            "Time zone": [
+                "UTC+2 (EET)"
+            ],
+            "Summer (DST)": [
+                "UTC+3 (EEST)"
+            ],
+            "Postal Code": [
+                "400xyz1"
+            ],
+            "Area code": [
+                "+40 x642"
+            ],
+            "Car Plates": [
+                "CJ3"
+            ],
+            "Website": [
+                "primariaclujnapoca.ro"
+            ]
+        },
+        "infobox_nl": {
+            "District (judet\u0326)": [
+                "Cluj"
+            ],
+            "Historische regio": [
+                "Transsylvanie\u0308"
+            ],
+            "Coo\u0308rdinaten": [
+                "46\u00b0 47\u2032 NB, 23\u00b0 36\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "179,5 km2"
+            ],
+            "Inwoners (2011 (census))": [
+                "324 576 (1771 inw./km2)"
+            ],
+            "Burgemeester (2012)": [
+                "Emil Boc"
+            ],
+            "Partij": [
+                "Partidul Democrat liberal"
+            ],
+            "Website": [
+                "clujnapoca.ro"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Romania"
+            ],
+            "Provincie": [
+                "Cluj County"
+            ],
+            "Gesticht": [
+                "1213 (first official record as Clus)"
+            ],
+            "Netnummer": [
+                "+40 x642"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Romania"
+            ],
+            "Provincie": [
+                "Cluj County"
+            ],
+            "Status": [
+                "County seat"
+            ],
+            "Gesticht": [
+                "1213 (first official record as Clus)"
+            ],
+            "UTC": [
+                "1,537.5km2 (593.6sqmi)"
+            ],
+            "Netnummer": [
+                "+40 x642"
+            ]
+        }
+    },
+    {
+        "name": "Tripoli",
+        "uri": "http://www.wikidata.org/entity/Q3579",
+        "url_en": "https://en.wikipedia.org/wiki/Tripoli,_Libya",
+        "url_nl": "https://nl.wikipedia.org/wiki/Tripoli_(Libi%C3%AB)",
+        "infobox_en": {
+            "Country": [
+                "Libya"
+            ],
+            "Region": [
+                "Tripolitania"
+            ],
+            "District": [
+                "Tripoli District"
+            ],
+            "First settled": [
+                "7th century BC"
+            ],
+            "Founded by": [
+                "Phoenicians"
+            ],
+            "Mayor (Tripoli Central)": [
+                "Ibrahim Khalifi"
+            ],
+            "Governing body": [
+                "Tripoli Local Council"
+            ],
+            "Total": [
+                "1,183,000"
+            ],
+            "Elevation": [
+                "81m (266ft)"
+            ],
+            "Time zone": [
+                "UTC+2 (EET)"
+            ],
+            "Area code": [
+                "21"
+            ],
+            "License Plate Code": [
+                "5"
+            ],
+            "Website": [
+                "tlc.gov.ly (archived)"
+            ]
+        },
+        "infobox_nl": {
+            "Coo\u0308rdinaten": [
+                "32\u00b0 53\u2032 NB, 13\u00b0 10\u2032 OL"
+            ],
+            "Inwoners (2011)": [
+                "2.220.000"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Libya"
+            ],
+            "Regio": [
+                "Tripolitania"
+            ],
+            "District": [
+                "Tripoli District"
+            ],
+            "Inwoners (2008)": [
+                "1,183,000"
+            ],
+            "Netnummer": [
+                "21"
+            ],
+            "Website": [
+                "tlc.gov.ly (archived)"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Libya"
+            ],
+            "Regio": [
+                "Tripolitania"
+            ],
+            "District": [
+                "Tripoli District"
+            ],
+            "Inwoners (2008)": [
+                "1,183,000"
+            ],
+            "Netnummer": [
+                "21"
+            ],
+            "Website": [
+                "tlc.gov.ly (archived)"
+            ]
+        }
+    },
+    {
+        "name": "El Mahalla El Kubra",
+        "uri": "http://www.wikidata.org/entity/Q312723",
+        "url_en": "https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra",
+        "url_nl": "https://nl.wikipedia.org/wiki/El-Mahalla_El-Kubra",
+        "infobox_en": {
+            "Country": [
+                "Egypt"
+            ],
+            "Governorate": [
+                "Gharbia"
+            ],
+            "Named for": [
+                "\"great mahallah\""
+            ],
+            "Total": [
+                "281,271"
+            ],
+            "Elevation": [
+                "17m (56ft)"
+            ],
+            "Density": [
+                "24,000/km2 (63,000/sqmi)"
+            ],
+            "Time zone": [
+                "UTC+2 (EET)"
+            ],
+            "Area code": [
+                "(+20) 40"
+            ]
+        },
+        "infobox_nl": {
+            "Gouvernement": [
+                "Al Gharbiyah"
+            ],
+            "Coo\u0308rdinaten": [
+                "30\u00b0 58\u2032 NB, 31\u00b0 10\u2032 OL"
+            ],
+            "Inwoners (2006)": [
+                "442.884"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Egypt"
+            ],
+            "Provincie": [
+                "Gharbia"
+            ],
+            "Inwoners (2008)": [
+                "281,271"
+            ],
+            "Netnummer": [
+                "(+20) 40"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Egypt"
+            ],
+            "Provincie": [
+                "Gharbia"
+            ],
+            "Inwoners (2008)": [
+                "281,271"
+            ],
+            "Netnummer": [
+                "(+20) 40"
+            ]
+        }
+    },
+    {
+        "name": "Lagos",
+        "uri": "http://www.wikidata.org/entity/Q8673",
+        "url_en": "https://en.wikipedia.org/wiki/Lagos",
+        "url_nl": "https://nl.wikipedia.org/wiki/Lagos_(Nigeria)",
+        "infobox_en": {
+            "Country": [
+                "Nigeria"
+            ],
+            "State": [
+                "Lagos"
+            ],
+            "LGA(s)[note 1]": [
+                "List of LGAs",
+                "Island Apapa Eti-Osa Lagos Island",
+                "MainlandAjeromi-IfelodunLagos MainlandSurulere",
+                "Suburban Agege  Alimosho Ifako-Ijaiye  Ikeja Kosofe Mushin Ojo Oshodi-Isolo Shomolu Amuwo-Odofin"
+            ],
+            "Settled": [
+                "15th century"
+            ],
+            "Founded by": [
+                "Awori subgroup of the Yoruba"
+            ],
+            "Governor of Lagos": [
+                "Babajide Sanwo-Olu"
+            ],
+            "Deputy Governor": [
+                "Femi Hamzat"
+            ],
+            "Supreme Judge": [
+                "Kazeem Alogba"
+            ],
+            "Metropolis": [
+                "8,048,430"
+            ],
+            "Land": [
+                "999.6km2 (385.9sqmi)"
+            ],
+            "Water": [
+                "171.68km2 (66.29sqmi)"
+            ],
+            "Urban": [
+                "16,637,000"
+            ],
+            "Metro": [
+                "21,000,000 (estimated)"
+            ],
+            "Elevation": [
+                "41m (135ft)"
+            ],
+            "Estimate(2018 by LASG)": [
+                "16,437,435"
+            ],
+            "Rank": [
+                "1st"
+            ],
+            "Density": [
+                "6,871/km2 (17,800/sqmi)"
+            ],
+            "Urbandensity": [
+                "14,469/km2 (37,470/sqmi)"
+            ],
+            "Metrodensity": [
+                "7,759/km2 (20,100/sqmi)"
+            ],
+            "Demonym": [
+                "Lagosian"
+            ],
+            "Time zone": [
+                "UTC+1"
+            ],
+            "Area code": [
+                "010"
+            ],
+            "Climate": [
+                "Aw"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Lagos"
+            ],
+            "Coo\u0308rdinaten": [
+                "6\u00b0 27\u2032 NB, 3\u00b0 23\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "1.171 km2"
+            ],
+            "Inwoners (2021)": [
+                "14 862 000"
+            ],
+            "Hoogte": [
+                "41 m"
+            ],
+            "Website": [
+                "lagosstate.gov.ng"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Nigeria"
+            ],
+            "Stichtingsjaar": [
+                "15th century"
+            ],
+            "Naam inwoner": [
+                "Lagosian"
+            ],
+            "Netnummer": [
+                "010"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Nigeria"
+            ],
+            "Stichtingsjaar": [
+                "15th century"
+            ],
+            "Land": [
+                "999.6km2 (385.9sqmi)"
+            ],
+            "UTC": [
+                "21,000,000 (estimated)"
+            ],
+            "Boom": [
+                "1st"
+            ],
+            "Naam inwoner": [
+                "Lagosian"
+            ],
+            "Netnummer": [
+                "010"
+            ]
+        }
+    },
+    {
+        "name": "Bhilai",
+        "uri": "http://www.wikidata.org/entity/Q242144",
+        "url_en": "https://en.wikipedia.org/wiki/Bhilai",
+        "url_nl": "https://nl.wikipedia.org/wiki/Bhilai",
+        "infobox_en": {
+            "Country": [
+                "India"
+            ],
+            "State": [
+                "Chhattisgarh"
+            ],
+            "District": [
+                "Durg"
+            ],
+            "Named for": [
+                "Bhils"
+            ],
+            "Type": [
+                "Municipal corporation"
+            ],
+            "Mayor": [
+                "Neeraj Pal"
+            ],
+            "Metropolis": [
+                "624,700"
+            ],
+            "Rank": [
+                "2nd in state, 50th in India"
+            ],
+            "Elevation": [
+                "297m (974ft)"
+            ],
+            "Density": [
+                "1,700/km2 (4,500/sqmi)"
+            ],
+            "Metro": [
+                "1,064,222"
+            ],
+            "Metro rank": [
+                "50th"
+            ],
+            "Time zone": [
+                "UTC+5:30 (IST)"
+            ],
+            "PIN": [
+                "490XXX"
+            ],
+            "Vehicle registration": [
+                "CG-07"
+            ],
+            "Website": [
+                "www.bhilainagarnigam.com"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Chhattisgarh"
+            ],
+            "District": [
+                "Durg"
+            ],
+            "Coo\u0308rdinaten": [
+                "21\u00b0 13\u2032 NB, 81\u00b0 26\u2032 OL"
+            ],
+            "Inwoners (2001)": [
+                "553.837"
+            ],
+            "Hoogte": [
+                "293 m"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Burgemeester": [
+                "Neeraj Pal"
+            ],
+            "Kenteken": [
+                "CG-07"
+            ],
+            "Website": [
+                "www.bhilainagarnigam.com"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Burgemeester": [
+                "Neeraj Pal"
+            ],
+            "Boom": [
+                "2nd in state, 50th in India"
+            ],
+            "UTC": [
+                "1,064,222"
+            ],
+            "Status": [
+                "490XXX"
+            ],
+            "Kenteken": [
+                "CG-07"
+            ],
+            "Website": [
+                "www.bhilainagarnigam.com"
+            ]
+        }
+    },
+    {
+        "name": "Muzaffarpur",
+        "uri": "http://www.wikidata.org/entity/Q1453196",
+        "url_en": "https://en.wikipedia.org/wiki/Muzaffarpur",
+        "url_nl": "https://nl.wikipedia.org/wiki/Muzaffarpur_(stad)",
+        "infobox_en": {
+            "Country": [
+                "India"
+            ],
+            "State": [
+                "Bihar"
+            ],
+            "District": [
+                "Muzaffarpur"
+            ],
+            "Division": [
+                "Tirhut"
+            ],
+            "Established": [
+                "1 January 1875"
+            ],
+            "Municipal Corporation": [
+                "Muzaffarpur Municipal Corporation"
+            ],
+            "Member of Parliament": [
+                "Ajay Nishad"
+            ],
+            "Member of Legislative Council": [
+                "Dinesh Prasad Singh"
+            ],
+            "Member of Legislative Assembly": [
+                "Vijendra Chaudhary"
+            ],
+            "Mayor": [
+                "Nirmala Sahu"
+            ],
+            "Total": [
+                "354,462"
+            ],
+            "Elevation": [
+                "60m (200ft)"
+            ],
+            "Rank": [
+                "2nd (Bihar)127th (India)"
+            ],
+            "Official": [
+                "Hindi"
+            ],
+            "Additionalofficial": [
+                "English"
+            ],
+            "Regional Languages": [
+                "Maithili"
+            ],
+            "Time zone": [
+                "UTC+5:30 (IST)"
+            ],
+            "PIN": [
+                "842001-05 (Muzaffarpur)"
+            ],
+            "Telephone code": [
+                "0621"
+            ],
+            "Vehicle registration": [
+                "BR-06"
+            ],
+            "Sex ratio": [
+                "890 (females per thousand males)\u2642/\u2640"
+            ],
+            "Literacy": [
+                "85.16%"
+            ],
+            "Lok Sabha constituency": [
+                "Muzaffarpur"
+            ],
+            "Vidhan Sabha constituency": [
+                "Muzaffarpur"
+            ],
+            "Website": [
+                "muzaffarpur.bih.nic.in"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Bihar"
+            ],
+            "District": [
+                "Muzaffarpur"
+            ],
+            "Coo\u0308rdinaten": [
+                "26\u00b0 7\u2032 NB, 85\u00b0 23\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "93 km2"
+            ],
+            "Inwoners (2011)": [
+                "354.462"
+            ],
+            "Hoogte": [
+                "60 m"
+            ],
+            "Alfabetisme": [
+                "83%"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Gesticht": [
+                "1 January 1875"
+            ],
+            "Burgemeester": [
+                "Nirmala Sahu"
+            ],
+            "Inwoners (2008)": [
+                "354,462"
+            ],
+            "Netnummer(s)": [
+                "0621"
+            ],
+            "Kenteken": [
+                "BR-06"
+            ],
+            "Website": [
+                "muzaffarpur.bih.nic.in"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Gesticht": [
+                "1 January 1875"
+            ],
+            "Burgemeester": [
+                "Nirmala Sahu"
+            ],
+            "Inwoners (2008)": [
+                "354,462"
+            ],
+            "Boom": [
+                "2nd (Bihar)127th (India)"
+            ],
+            "Status": [
+                "842001-05 (Muzaffarpur)"
+            ],
+            "Netnummer(s)": [
+                "0621"
+            ],
+            "Kenteken": [
+                "BR-06"
+            ],
+            "Website": [
+                "muzaffarpur.bih.nic.in"
+            ]
+        }
+    },
+    {
+        "name": "M\u00e9rida",
+        "uri": "http://www.wikidata.org/entity/Q165204",
+        "url_en": "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n",
+        "url_nl": "https://nl.wikipedia.org/wiki/M%C3%A9rida_(Yucat%C3%A1n)",
+        "infobox_en": {
+            "Country": [
+                "Mexico"
+            ],
+            "State": [
+                "Yucata\u0301n"
+            ],
+            "Municipality": [
+                "Me\u0301rida"
+            ],
+            "City founded": [
+                "January 6, 1542"
+            ],
+            "Mayor": [
+                "Rena\u0301n Barrera Concha (Mayor, 2022) (PAN)"
+            ],
+            "Elevation": [
+                "10m (30ft)"
+            ],
+            "Total": [
+                "1,201,000"
+            ],
+            "Rank": [
+                "34th in North America12th in Mexico"
+            ],
+            "Demonym": [
+                "Meridiano"
+            ],
+            "Time zone": [
+                "UTC\u22126 (CST)"
+            ],
+            "Summer (DST)": [
+                "UTC\u22125 (CDT)"
+            ],
+            "Postal code": [
+                "97000"
+            ],
+            "Area code": [
+                "999"
+            ],
+            "Major airport": [
+                "Me\u0301rida International Airport"
+            ],
+            "IATA Code": [
+                "MID"
+            ],
+            "ICAO Code": [
+                "MMMD"
+            ],
+            "INEGI Code": [
+                "310500001"
+            ],
+            "Climate": [
+                "Aw"
+            ]
+        },
+        "infobox_nl": {
+            "Deelstaat": [
+                "Yucata\u0301n"
+            ],
+            "Gemeente": [
+                "Me\u0301rida"
+            ],
+            "Coo\u0308rdinaten": [
+                "20\u00b0 58\u2032 NB, 89\u00b0 37\u2032 WL"
+            ],
+            "Inwoners": [
+                "734.153 (2005)"
+            ],
+            "Hoogte": [
+                "10 m"
+            ],
+            "Tijdzone": [
+                "UTC\u22126"
+            ],
+            "Website": [
+                "merida.gob.mx"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Burgemeester": [
+                "Rena\u0301n Barrera Concha (Mayor, 2022) (PAN)"
+            ],
+            "Inwoners (2008)": [
+                "1,201,000"
+            ],
+            "Naam inwoner": [
+                "Meridiano"
+            ],
+            "Postcode": [
+                "97000"
+            ],
+            "Netnummer": [
+                "999"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Burgemeester": [
+                "Rena\u0301n Barrera Concha (Mayor, 2022) (PAN)"
+            ],
+            "Inwoners (2008)": [
+                "1,201,000"
+            ],
+            "Boom": [
+                "34th in North America12th in Mexico"
+            ],
+            "Naam inwoner": [
+                "Meridiano"
+            ],
+            "Postcode": [
+                "97000"
+            ],
+            "Netnummer": [
+                "999"
+            ]
+        }
+    },
+    {
+        "name": "Lalitpur",
+        "uri": "http://www.wikidata.org/entity/Q6647",
+        "url_en": "https://en.wikipedia.org/wiki/Lalitpur,_Nepal",
+        "url_nl": "https://nl.wikipedia.org/wiki/Patan_(Nepal)",
+        "infobox_en": {
+            "Country": [
+                "Nepal"
+            ],
+            "Province": [
+                "Bagmati Province"
+            ],
+            "District": [
+                "Lalitpur District"
+            ],
+            "Incorporated": [
+                "1918"
+            ],
+            "Mayor": [
+                "Chiri Babu Maharjan",
+                "(NC)"
+            ],
+            "Deputy Mayor": [
+                "Manjali Shakya Bajracharya ([CPN-UML])"
+            ],
+            "Executive officer": [
+                "Ganesh Aryal"
+            ],
+            "Total": [
+                "299,283"
+            ],
+            "Rank": [
+                "4th"
+            ],
+            "Density": [
+                "8,002/km2 (20,730/sqmi)"
+            ],
+            "Time zone": [
+                "UTC+5:45 (NST)"
+            ],
+            "Postal Code": [
+                "44700"
+            ],
+            "Area code": [
+                "01"
+            ],
+            "Website": [
+                "www.lalitpurmun.gov.np"
+            ]
+        },
+        "infobox_nl": {
+            "Regio": [
+                "Central (CDR)"
+            ],
+            "Zone": [
+                "Bagmati"
+            ],
+            "District": [
+                "Lalitpur"
+            ],
+            "Coo\u0308rdinaten": [
+                "27\u00b0 40\u2032 NB, 85\u00b0 19\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "15,15 km2"
+            ],
+            "Inwoners (2011)": [
+                "220.802 (14.574 inw./km2)"
+            ],
+            "Hoogte": [
+                "1305 - 1312 m"
+            ],
+            "Website": [
+                "www.lalitpurmun.gov.np"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Nepal"
+            ],
+            "Provincie": [
+                "Bagmati Province"
+            ],
+            "Burgemeester": [
+                "Chiri Babu Maharjan",
+                "(NC)"
+            ],
+            "Inwoners (2008)": [
+                "299,283"
+            ],
+            "Netnummer": [
+                "01"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Nepal"
+            ],
+            "Provincie": [
+                "Bagmati Province"
+            ],
+            "Burgemeester": [
+                "Chiri Babu Maharjan",
+                "(NC)"
+            ],
+            "Inwoners (2008)": [
+                "299,283"
+            ],
+            "Boom": [
+                "4th"
+            ],
+            "Netnummer": [
+                "01"
+            ]
+        }
+    },
+    {
+        "name": "Belgrade",
+        "uri": "http://www.wikidata.org/entity/Q3711",
+        "url_en": "https://en.wikipedia.org/wiki/Belgrade",
+        "url_nl": "https://nl.wikipedia.org/wiki/Belgrado",
+        "infobox_en": {
+            "Country": [
+                "Serbia"
+            ],
+            "District": [
+                "Belgrade"
+            ],
+            "Municipalities": [
+                "17"
+            ],
+            "Establishment": [
+                "Prior to 279 B.C. (Singidunum)"
+            ],
+            "Body": [
+                "City Assembly of Belgrade"
+            ],
+            "Mayor": [
+                "Vacant"
+            ],
+            "Deputy Mayor": [
+                "Vacant"
+            ],
+            "Rulingparties": [
+                "SNS\u2013SPS"
+            ],
+            "Capital city": [
+                "1,197,714"
+            ],
+            "Urban": [
+                "1,383,875"
+            ],
+            "Metro": [
+                "1,681,405"
+            ],
+            "Elevation": [
+                "117m (384ft)"
+            ],
+            "Density": [
+                "3,328/km2 (8,620/sqmi)"
+            ],
+            "Urbandensity": [
+                "1,337/km2 (3,460/sqmi)"
+            ],
+            "Metrodensity": [
+                "522/km2 (1,350/sqmi)"
+            ],
+            "Demonym(s)": [
+                "Belgradian (en)Beogra\u0111anin (m.) / Beogra\u0111anka (f.) (sr)"
+            ],
+            "Time zone": [
+                "UTC+1 (CET)"
+            ],
+            "Summer (DST)": [
+                "UTC+2 (CEST)"
+            ],
+            "Postal code": [
+                "11000"
+            ],
+            "Area code": [
+                "+381(0)11"
+            ],
+            "ISO 3166 code": [
+                "RS-00"
+            ],
+            "Vehicle registration": [
+                "BG"
+            ],
+            "Airport": [
+                "Belgrade Nikola Tesla Airport"
+            ],
+            "Website": [
+                "beograd.rs"
+            ]
+        },
+        "infobox_nl": {
+            "Land": [
+                "Servie\u0308"
+            ],
+            "District": [
+                "Belgrado"
+            ],
+            "Provincie": [
+                "Centraal-Servie\u0308"
+            ],
+            "Hoogte": [
+                "117 m"
+            ],
+            "Coo\u0308rdinaten": [
+                "44\u00b0 49\u2032 NB, 20\u00b0 28\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "3223 km2"
+            ],
+            "Inwoners (2011)": [
+                "1.166.763"
+            ],
+            "Burgemeester": [
+                "Aleksandar S\u030capic\u0301"
+            ],
+            "Partij": [
+                "Servische Progressieve Partij (SNS)"
+            ],
+            "Postcode(s)": [
+                "11000"
+            ],
+            "Netnummer(s)": [
+                "(+381) 11"
+            ],
+            "Kenteken": [
+                "BG"
+            ],
+            "Website": [
+                "https://www.beograd.rs/"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Serbia"
+            ],
+            "Raadsgebied (councilarea)": [
+                "City Assembly of Belgrade"
+            ],
+            "Netnummer": [
+                "+381(0)11"
+            ],
+            "ISO 3166-2:TH": [
+                "RS-00"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Serbia"
+            ],
+            "Raadsgebied (councilarea)": [
+                "City Assembly of Belgrade"
+            ],
+            "UTC": [
+                "1,681,405"
+            ],
+            "Netnummer": [
+                "+381(0)11"
+            ],
+            "ISO 3166-2:TH": [
+                "RS-00"
+            ]
+        }
+    },
+    {
+        "name": "Caracas",
+        "uri": "http://www.wikidata.org/entity/Q1533",
+        "url_en": "https://en.wikipedia.org/wiki/Caracas",
+        "url_nl": "https://nl.wikipedia.org/wiki/Caracas",
+        "infobox_en": {
+            "Country": [
+                "Venezuela"
+            ],
+            "State": [
+                "Capital District"
+            ],
+            "Founded": [
+                "25 July 1567"
+            ],
+            "Founded by": [
+                "Diego de Losada"
+            ],
+            "Type": [
+                "Mayor\u2013council"
+            ],
+            "Body": [
+                "Government of the Capital District"
+            ],
+            "Chief of Government": [
+                "Jacqueline Fari\u0301a"
+            ],
+            "Capital city": [
+                "3,242,000"
+            ],
+            "Metro": [
+                "8,956,813"
+            ],
+            "Elevation": [
+                "900m (3,000ft)"
+            ],
+            "Highestelevation": [
+                "1,400m (4,600ft)"
+            ],
+            "Lowestelevation": [
+                "870m (2,850ft)"
+            ],
+            "Demonyms": [
+                "Caraquenian (Spanish: caraquen\u0303o (m), caraquen\u0303a (f))"
+            ],
+            "Time zone": [
+                "UTC\u22124 (VET)"
+            ],
+            "Postal codes": [
+                "1000\u20131090, 1209"
+            ],
+            "Area code": [
+                "212"
+            ],
+            "ISO 3166 code": [
+                "VE-A"
+            ],
+            "Website": [
+                "www.caracas.gob.ve"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Hoofdstedelijk DistrictMiranda"
+            ],
+            "Coo\u0308rdinaten": [
+                "10\u00b0 30\u2032 NB, 66\u00b0 55\u2032 WL"
+            ],
+            "Oppervlakte": [
+                "1302 km2"
+            ],
+            "Inwoners (2013)": [
+                "2.120.998 (1035 inw./km2)"
+            ],
+            "Hoogte": [
+                "1037 m"
+            ],
+            "Website": [
+                "caracas.gob.ve"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Venezuela"
+            ],
+            "Gesticht": [
+                "25 July 1567"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Government of the Capital District"
+            ],
+            "Postcodes": [
+                "1000\u20131090, 1209"
+            ],
+            "Netnummer": [
+                "212"
+            ],
+            "ISO 3166-2:TH": [
+                "VE-A"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Venezuela"
+            ],
+            "Gesticht": [
+                "25 July 1567"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Government of the Capital District"
+            ],
+            "UTC": [
+                "8,956,813"
+            ],
+            "Postcodes": [
+                "1000\u20131090, 1209"
+            ],
+            "Netnummer": [
+                "212"
+            ],
+            "ISO 3166-2:TH": [
+                "VE-A"
+            ]
+        }
+    },
+    {
+        "name": "Mbale",
+        "uri": "http://www.wikidata.org/entity/Q1015727",
+        "url_en": "https://en.wikipedia.org/wiki/Mbale",
+        "url_nl": "https://nl.wikipedia.org/wiki/Mbale_(Oeganda)",
+        "infobox_en": {
+            "Country": [
+                "Uganda"
+            ],
+            "Regions": [
+                "Eastern Uganda"
+            ],
+            "Subregion": [
+                "Bugisu sub-region"
+            ],
+            "Mayor": [
+                "Mutwalibi Mafabi Zandya"
+            ],
+            "Elevation": [
+                "1,156m (3,793ft)"
+            ],
+            "Total": [
+                "96,189"
+            ]
+        },
+        "infobox_nl": {
+            "Regio": [
+                "Eastern"
+            ],
+            "District": [
+                "Mbale"
+            ],
+            "Coo\u0308rdinaten": [
+                "1\u00b0 0\u2032 NB, 34\u00b0 11\u2032 OL"
+            ],
+            "Inwoners (2007)": [
+                "80.000"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Uganda"
+            ],
+            "Burgemeester": [
+                "Mutwalibi Mafabi Zandya"
+            ],
+            "Inwoners (2008)": [
+                "96,189"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Uganda"
+            ],
+            "Burgemeester": [
+                "Mutwalibi Mafabi Zandya"
+            ],
+            "Inwoners (2008)": [
+                "96,189"
+            ]
+        }
+    },
+    {
+        "name": "Mexico City",
+        "uri": "http://www.wikidata.org/entity/Q1489",
+        "url_en": "https://en.wikipedia.org/wiki/Mexico_City",
+        "url_nl": "https://nl.wikipedia.org/wiki/Mexico-Stad",
+        "infobox_en": {
+            "Country": [
+                "Mexico"
+            ],
+            "Founded": [
+                "13March1325(1325-03-13):Mexico-Tenochtitlan",
+                "13August1521(1521-08-13):Ciudad de Me\u0301xico",
+                "18November1824(1824-11-18):Distrito Federal",
+                "29January2016(2016-01-29):Ciudad de Me\u0301xico"
+            ],
+            "Founded by": [
+                "Tenoch (as Mexico-Tenochtitlan)",
+                "Herna\u0301n Corte\u0301s (as Mexico City)"
+            ],
+            "Mayor": [
+                "Marti\u0301 Batres"
+            ],
+            "Total": [
+                "9,209,944"
+            ],
+            "": [
+                "Ranked 32nd"
+            ],
+            "Elevation": [
+                "2,240m (7,350ft)"
+            ],
+            "Highestelevation (Ajusco)": [
+                "3,930m (12,890ft)"
+            ],
+            "Rank": [
+                "1st"
+            ],
+            "Density": [
+                "6,200/km2 (16,000/sqmi)"
+            ],
+            "Metro area": [
+                "21,804,515"
+            ],
+            "Demonyms": [
+                "Capitalino (a)Mexiquen\u0303o (a) (archaic)Chilango (a) (colloquial)"
+            ],
+            "Time zone": [
+                "UTC\u221206:00 (CST)"
+            ],
+            "Postal code": [
+                "00\u201316"
+            ],
+            "Area code": [
+                "55/56"
+            ],
+            "ISO 3166 code": [
+                "MX-CMX"
+            ],
+            "Patron Saint": [
+                "Philip of Jesus (Spanish: San Felipe de Jesu\u0301s)"
+            ],
+            "HDI": [
+                "0.837 Very High"
+            ],
+            "Gross metropolitan product": [
+                "US$340.750billion (Nominal)",
+                "US$711.405billion (PPP)"
+            ],
+            "Website": [
+                "www.cdmx.gob.mx (in Spanish)"
+            ],
+            "Official name": [
+                "Historic center of Mexico City, Xochimilco and Central University City Campus of the UNAM"
+            ],
+            "Type": [
+                "Cultural"
+            ],
+            "Criteria": [
+                "i, ii, iii, iv, v"
+            ],
+            "Designated": [
+                "1987, 2007 (11th, 31st sessions)"
+            ],
+            "Referenceno.": [
+                "412, 1250"
+            ],
+            "Region": [
+                "Latin America and the Caribbean"
+            ]
+        },
+        "infobox_nl": {
+            "Coo\u0308rdinaten": [
+                "19\u00b0 26\u2032 NB, 99\u00b0 8\u2032 WL"
+            ],
+            "Oppervlakte": [
+                "1.485 km2"
+            ],
+            "Inwoners (2020)": [
+                "9.209.944"
+            ],
+            "Hoogte": [
+                "2.240 m"
+            ],
+            "Regeringsleider": [
+                "Marti Batres (Morena)"
+            ],
+            "Tijdzone": [
+                "UTC\u22126"
+            ],
+            "Website": [
+                "turismo.cdmx.gob.mx"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Mexico"
+            ],
+            "Gesticht": [
+                "13March1325(1325-03-13):Mexico-Tenochtitlan",
+                "13August1521(1521-08-13):Ciudad de Me\u0301xico",
+                "18November1824(1824-11-18):Distrito Federal",
+                "29January2016(2016-01-29):Ciudad de Me\u0301xico"
+            ],
+            "Burgemeester": [
+                "Marti\u0301 Batres"
+            ],
+            "Inwoners (2008)": [
+                "9,209,944"
+            ],
+            "Postcode": [
+                "00\u201316"
+            ],
+            "Netnummer": [
+                "55/56"
+            ],
+            "ISO 3166-2:TH": [
+                "MX-CMX"
+            ],
+            "Regio": [
+                "Latin America and the Caribbean"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Mexico"
+            ],
+            "Gesticht": [
+                "13March1325(1325-03-13):Mexico-Tenochtitlan",
+                "13August1521(1521-08-13):Ciudad de Me\u0301xico",
+                "18November1824(1824-11-18):Distrito Federal",
+                "29January2016(2016-01-29):Ciudad de Me\u0301xico"
+            ],
+            "Burgemeester": [
+                "Marti\u0301 Batres"
+            ],
+            "Inwoners (2008)": [
+                "9,209,944"
+            ],
+            "Boom": [
+                "1st"
+            ],
+            "Postcode": [
+                "00\u201316"
+            ],
+            "Netnummer": [
+                "55/56"
+            ],
+            "ISO 3166-2:TH": [
+                "MX-CMX"
+            ],
+            "Regio": [
+                "Latin America and the Caribbean"
+            ]
+        }
+    },
+    {
+        "name": "El Alto",
+        "uri": "http://www.wikidata.org/entity/Q30996",
+        "url_en": "https://en.wikipedia.org/wiki/El_Alto",
+        "url_nl": "https://nl.wikipedia.org/wiki/El_Alto_(La_Paz)",
+        "infobox_en": {
+            "Country": [
+                "Bolivia"
+            ],
+            "Department": [
+                "La Paz Department"
+            ],
+            "Province": [
+                "Pedro Domingo Murillo"
+            ],
+            "Municipality": [
+                "El Alto Municipality"
+            ],
+            "Mayor": [
+                "Eva Copa"
+            ],
+            "City and municipality of El Alto": [
+                "363km2 (140sqmi)"
+            ],
+            "Elevation": [
+                "4,150m (13,620ft)"
+            ],
+            "Rank": [
+                "2nd"
+            ],
+            "Urban": [
+                "943,000"
+            ],
+            "Metro": [
+                "2,200,000"
+            ],
+            "Time zone": [
+                "UTC\u22124 (BOT)"
+            ],
+            "Website": [
+                "Official website"
+            ]
+        },
+        "infobox_nl": {
+            "Departement": [
+                "La Paz"
+            ],
+            "Provincie": [
+                "Pedro Domingo Murillo"
+            ],
+            "Coo\u0308rdinaten": [
+                "16\u00b0 31\u2032 ZB, 68\u00b0 10\u2032 WL"
+            ],
+            "Oppervlakte": [
+                "363 km2"
+            ],
+            "Inwoners (2006)": [
+                "827.239"
+            ],
+            "Hoogte": [
+                "4.070 m"
+            ],
+            "Stichtingsjaar": [
+                "6 maart 1984"
+            ],
+            "Website": [
+                "elalto.gob.bo"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Bolivia"
+            ],
+            "Gemeente": [
+                "El Alto Municipality"
+            ],
+            "Burgemeester": [
+                "Eva Copa"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Bolivia"
+            ],
+            "Gemeente": [
+                "El Alto Municipality"
+            ],
+            "Burgemeester": [
+                "Eva Copa"
+            ],
+            "Boom": [
+                "2nd"
+            ],
+            "UTC": [
+                "2,200,000"
+            ]
+        }
+    },
+    {
+        "name": "Ismailia",
+        "uri": "http://www.wikidata.org/entity/Q217156",
+        "url_en": "https://en.wikipedia.org/wiki/Ismailia",
+        "url_nl": "https://nl.wikipedia.org/wiki/Isma%C3%AFlia_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Egypt"
+            ],
+            "Governorate": [
+                "Ismailia"
+            ],
+            "Total": [
+                "429,465"
+            ],
+            "Elevation": [
+                "14m (46ft)"
+            ],
+            "Density": [
+                "6,200/km2 (16,000/sqmi)"
+            ],
+            "Demonym": [
+                "Ismailiata"
+            ],
+            "Time zone": [
+                "UTC+2 (EET)"
+            ],
+            "Area code": [
+                "(+20) 69 or (+20) 64"
+            ]
+        },
+        "infobox_nl": {
+            "Gouvernement": [
+                "Ismai\u0308lia"
+            ],
+            "Coo\u0308rdinaten": [
+                "30\u00b0 35\u2032 NB, 32\u00b0 16\u2032 OL"
+            ],
+            "Inwoners": [
+                "\u00b1 750.000"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Egypt"
+            ],
+            "Provincie": [
+                "Ismailia"
+            ],
+            "Inwoners (2008)": [
+                "429,465"
+            ],
+            "Naam inwoner": [
+                "Ismailiata"
+            ],
+            "Netnummer": [
+                "(+20) 69 or (+20) 64"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Egypt"
+            ],
+            "Provincie": [
+                "Ismailia"
+            ],
+            "Inwoners (2008)": [
+                "429,465"
+            ],
+            "Naam inwoner": [
+                "Ismailiata"
+            ],
+            "Netnummer": [
+                "(+20) 69 or (+20) 64"
+            ]
+        }
+    },
+    {
+        "name": "Imphal",
+        "uri": "http://www.wikidata.org/entity/Q208097",
+        "url_en": "https://en.wikipedia.org/wiki/Imphal",
+        "url_nl": "https://nl.wikipedia.org/wiki/Imphal",
+        "infobox_en": {
+            "Country": [
+                "India"
+            ],
+            "State": [
+                "Manipur"
+            ],
+            "District": [
+                "Imphal East, Imphal West"
+            ],
+            "Type": [
+                "Municipal Corporation"
+            ],
+            "Body": [
+                "Imphal Municipal Corporation"
+            ],
+            "Mayor": [
+                "L. Lokeshwor Singh"
+            ],
+            "Elevation": [
+                "786m (2,579ft)"
+            ],
+            "Total": [
+                "576,000(2,023)"
+            ],
+            "Official": [
+                "Manipuri (Meitei)English"
+            ],
+            "Time zone": [
+                "UTC+5:30 (IST)"
+            ],
+            "PIN": [
+                "795001"
+            ],
+            "Telephone code": [
+                "3852"
+            ],
+            "Vehicle registration": [
+                "MN-01"
+            ],
+            "Website": [
+                "imc.mn.gov.in"
+            ]
+        },
+        "infobox_nl": {
+            "Staat": [
+                "Manipur"
+            ],
+            "District": [
+                "Imphal-West, Imphal-Oost"
+            ],
+            "Coo\u0308rdinaten": [
+                "24\u00b0 49\u2032 NB, 93\u00b0 57\u2032 OL"
+            ],
+            "Inwoners (2001)": [
+                "217.275"
+            ],
+            "Burgemeester": [
+                "L. Lokeshwor Singh"
+            ],
+            "Alfabetisme": [
+                "79%"
+            ],
+            "Mannen": [
+                "107.593"
+            ],
+            "Vrouwen": [
+                "109.682"
+            ],
+            "Kinderen": [
+                "21.032"
+            ],
+            "Website": [
+                "imc.mn.gov.in"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Imphal Municipal Corporation"
+            ],
+            "Inwoners (2008)": [
+                "576,000(2,023)"
+            ],
+            "Netnummer(s)": [
+                "3852"
+            ],
+            "Kenteken": [
+                "MN-01"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "India"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Imphal Municipal Corporation"
+            ],
+            "Inwoners (2008)": [
+                "576,000(2,023)"
+            ],
+            "Status": [
+                "795001"
+            ],
+            "Netnummer(s)": [
+                "3852"
+            ],
+            "Kenteken": [
+                "MN-01"
+            ]
+        }
+    },
+    {
+        "name": "Shobra Elkhema",
+        "uri": "http://www.wikidata.org/entity/Q269960",
+        "url_en": "https://en.wikipedia.org/wiki/Shubra_El_Kheima",
+        "url_nl": "https://nl.wikipedia.org/wiki/Shubra_El_Khema",
+        "infobox_en": {
+            "Country": [
+                "Egypt"
+            ],
+            "Governorate": [
+                "Qalyubia"
+            ],
+            "Total": [
+                "1,240,289"
+            ],
+            "Elevation": [
+                "26m (85ft)"
+            ],
+            "Density": [
+                "41,000/km2 (110,000/sqmi)"
+            ],
+            "Time zone": [
+                "UTC+2 (EST)"
+            ]
+        },
+        "infobox_nl": {
+            "Gouvernement": [
+                "Cai\u0308ro"
+            ],
+            "Coo\u0308rdinaten": [
+                "30\u00b0 8\u2032 NB, 31\u00b0 15\u2032 OL"
+            ],
+            "Inwoners (2005)": [
+                "1.033.728"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Egypt"
+            ],
+            "Provincie": [
+                "Qalyubia"
+            ],
+            "Inwoners (2008)": [
+                "1,240,289"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Egypt"
+            ],
+            "Provincie": [
+                "Qalyubia"
+            ],
+            "Inwoners (2008)": [
+                "1,240,289"
+            ]
+        }
+    },
+    {
+        "name": "Piura",
+        "uri": "http://www.wikidata.org/entity/Q223966",
+        "url_en": "https://en.wikipedia.org/wiki/Piura",
+        "url_nl": "https://nl.wikipedia.org/wiki/Piura_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Peru"
+            ],
+            "Region": [
+                "Piura"
+            ],
+            "Province": [
+                "Piura"
+            ],
+            "Founded": [
+                "1532"
+            ],
+            "Alcalde": [
+                "Juan Jose\u0301 Di\u0301as Dios (2019-2022)"
+            ],
+            "Total": [
+                "484,475"
+            ],
+            "Elevation": [
+                "55m (180ft)"
+            ],
+            "Estimate(2015)": [
+                "436,440"
+            ],
+            "Density": [
+                "780/km2 (2,000/sqmi)"
+            ],
+            "Time zone": [
+                "UTC/GMT-5"
+            ],
+            "Area code": [
+                "73"
+            ],
+            "Website": [
+                "munipiura.gob.pe"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie": [
+                "Piura"
+            ],
+            "Regio": [
+                "Piura"
+            ],
+            "Coo\u0308rdinaten": [
+                "5\u00b0 12\u2032 ZB, 80\u00b0 38\u2032 WL"
+            ],
+            "Oppervlakte": [
+                "621,2 km2"
+            ],
+            "Inwoners (2015)": [
+                "436.440"
+            ],
+            "Hoogte": [
+                "36 m"
+            ],
+            "Burgemeester": [
+                "Gabriel Madrid(2023-2026)"
+            ],
+            "Gesticht": [
+                "15 augustus 1532"
+            ],
+            "Website": [
+                "munipiura.gob.pe"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Peru"
+            ],
+            "Inwoners (2008)": [
+                "484,475"
+            ],
+            "Netnummer": [
+                "73"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Peru"
+            ],
+            "Inwoners (2008)": [
+                "484,475"
+            ],
+            "Netnummer": [
+                "73"
+            ]
+        }
+    },
+    {
+        "name": "Chengdu",
+        "uri": "http://www.wikidata.org/entity/Q30002",
+        "url_en": "https://en.wikipedia.org/wiki/Chengdu",
+        "url_nl": "https://nl.wikipedia.org/wiki/Chengdu",
+        "infobox_en": {
+            "Country": [
+                "China"
+            ],
+            "Province": [
+                "Sichuan"
+            ],
+            "Municipal seat": [
+                "Wuhou District"
+            ],
+            "Divisions- County-level": [
+                "12 districts, 5 county-level cities, 3 counties"
+            ],
+            "Type": [
+                "Sub-provincial city"
+            ],
+            "Body": [
+                "Chengdu Municipal People's Congress"
+            ],
+            "CCP Secretary": [
+                "Shi Xiaolin"
+            ],
+            "Congress Chairman": [
+                "Li Zhongbin"
+            ],
+            "Mayor": [
+                "Wang Fengchao"
+            ],
+            "CPPCC Chairman": [
+                "Zhang Shan"
+            ],
+            "Prefecture-level and sub-provincial city": [
+                "20,937,757"
+            ],
+            "Urban": [
+                "15,419,445"
+            ],
+            "Metro": [
+                "16,045,577"
+            ],
+            "Downtown": [
+                "465.88km2 (179.88sqmi)"
+            ],
+            "Elevation": [
+                "500m (1,600ft)"
+            ],
+            "Highestelevation": [
+                "5,364m (17,598ft)"
+            ],
+            "Lowestelevation": [
+                "378m (1,240ft)"
+            ],
+            "Density": [
+                "1,500/km2 (3,800/sqmi)"
+            ],
+            "Urbandensity": [
+                "4,200/km2 (11,000/sqmi)"
+            ],
+            "Metrodensity": [
+                "3,500/km2 (9,100/sqmi)"
+            ],
+            "Major Ethnic group": [
+                "Han"
+            ],
+            "Time zone": [
+                "UTC+08:00 (China Standard)"
+            ],
+            "Postal code": [
+                "610000\u2013611944"
+            ],
+            "Area code": [
+                "(0)28"
+            ],
+            "ISO 3166 code": [
+                "CN-SC-01"
+            ],
+            "GDP (2022)": [
+                "\u00a52.082 trillion$308.79 billion"
+            ],
+            "GDP Per Capita (2022)": [
+                "\u00a598,149$14,748"
+            ],
+            "License Plate Prefix": [
+                "\u5dddA and \u5dddG"
+            ],
+            "Tree": [
+                "Ginkgo biloba"
+            ],
+            "Flower": [
+                "Hibiscus mutabilis"
+            ],
+            "HDI (2015)": [
+                "0.791 (21st) \u2013 high"
+            ],
+            "Website": [
+                "Chengdu.gov.cn"
+            ]
+        },
+        "infobox_nl": {
+            "Provincie (zi\u0300zhi\u0300qu\u0304)": [
+                "Sichuan"
+            ],
+            "Coo\u0308rdinaten": [
+                "30\u00b0 39\u2032 NB, 104\u00b0 4\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "12.055 km2"
+            ],
+            "Inwoners (2020)": [
+                "15,4 miljoen (stad) 20,9 miljoen (prefectuur) (1.737 inw./km2)"
+            ],
+            "Website": [
+                "chengdu.gov.cn"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "China"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Chengdu Municipal People's Congress"
+            ],
+            "Burgemeester": [
+                "Wang Fengchao"
+            ],
+            "Postcode": [
+                "610000\u2013611944"
+            ],
+            "Netnummer": [
+                "(0)28"
+            ],
+            "ISO 3166-2:TH": [
+                "CN-SC-01"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "China"
+            ],
+            "Raadsgebied (councilarea)": [
+                "Chengdu Municipal People's Congress"
+            ],
+            "Burgemeester": [
+                "Wang Fengchao"
+            ],
+            "UTC": [
+                "16,045,577"
+            ],
+            "Postcode": [
+                "610000\u2013611944"
+            ],
+            "Netnummer": [
+                "(0)28"
+            ],
+            "ISO 3166-2:TH": [
+                "CN-SC-01"
+            ]
+        }
+    },
+    {
+        "name": "Korhogo",
+        "uri": "http://www.wikidata.org/entity/Q985627",
+        "url_en": "https://en.wikipedia.org/wiki/Korhogo",
+        "url_nl": "https://nl.wikipedia.org/wiki/Korhogo",
+        "infobox_en": {
+            "Country": [
+                "Ivory Coast"
+            ],
+            "District": [
+                "Savanes"
+            ],
+            "Regions": [
+                "Poro"
+            ],
+            "Department": [
+                "Korhogo"
+            ],
+            "Total": [
+                "440,926"
+            ],
+            "Elevation": [
+                "380m (1,250ft)"
+            ],
+            "Density": [
+                "710/km2 (1,800/sqmi)"
+            ],
+            "City": [
+                "243,048"
+            ],
+            "": [
+                "(2014 census)"
+            ],
+            "Time zone": [
+                "UTC+0 (GMT)"
+            ]
+        },
+        "infobox_nl": {
+            "Regio": [
+                "Poro"
+            ],
+            "Coo\u0308rdinaten": [
+                "9\u00b0 27\u2032 NB, 5\u00b0 39\u2032 WL"
+            ],
+            "Inwoners (2014)": [
+                "258.000"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Ivory Coast"
+            ],
+            "District": [
+                "Savanes"
+            ],
+            "Departement": [
+                "Korhogo"
+            ],
+            "Inwoners (2008)": [
+                "440,926"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Ivory Coast"
+            ],
+            "District": [
+                "Savanes"
+            ],
+            "Departement": [
+                "Korhogo"
+            ],
+            "Inwoners (2008)": [
+                "440,926"
+            ]
+        }
+    },
+    {
+        "name": "Cancun",
+        "uri": "http://www.wikidata.org/entity/Q8969",
+        "url_en": "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+        "url_nl": "https://nl.wikipedia.org/wiki/Canc%C3%BAn",
+        "infobox_en": {
+            "Country": [
+                "Mexico"
+            ],
+            "State": [
+                "Quintana Roo"
+            ],
+            "Municipality": [
+                "Benito Jua\u0301rez"
+            ],
+            "Founded": [
+                "April 20, 1970"
+            ],
+            "Mayor": [
+                "Mara Lezama Espinosa (MORENA)"
+            ],
+            "Land": [
+                "142.7km2 (55.1sqmi)"
+            ],
+            "Elevation": [
+                "10m (30ft)"
+            ],
+            "Highestelevation": [
+                "10m (30ft)"
+            ],
+            "Lowestelevation": [
+                "0m (0ft)"
+            ],
+            "Total": [
+                "888,797"
+            ],
+            "Demonym": [
+                "Cancunense"
+            ],
+            "Time zone": [
+                "UTC\u22125 (EST)"
+            ],
+            "Postal code": [
+                "77500"
+            ],
+            "Area code": [
+                "998"
+            ],
+            "Federal Routes": [
+                ""
+            ],
+            "Website": [
+                "www.cancun.gob.mx"
+            ]
+        },
+        "infobox_nl": {
+            "Deelstaat": [
+                "Quintana Roo"
+            ],
+            "Gemeente": [
+                "Benito Jua\u0301rez"
+            ],
+            "Coo\u0308rdinaten": [
+                "21\u00b0 10\u2032 NB, 86\u00b0 51\u2032 WL"
+            ],
+            "Inwoners": [
+                "526.701 (2005)"
+            ],
+            "Hoogte": [
+                "0 m"
+            ],
+            "Tijdzone": [
+                "UTC\u22125"
+            ],
+            "Website": [
+                "cancun.gob.mx"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Gesticht": [
+                "April 20, 1970"
+            ],
+            "Burgemeester": [
+                "Mara Lezama Espinosa (MORENA)"
+            ],
+            "Inwoners (2008)": [
+                "888,797"
+            ],
+            "Naam inwoner": [
+                "Cancunense"
+            ],
+            "Postcode": [
+                "77500"
+            ],
+            "Netnummer": [
+                "998"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Gesticht": [
+                "April 20, 1970"
+            ],
+            "Burgemeester": [
+                "Mara Lezama Espinosa (MORENA)"
+            ],
+            "Land": [
+                "142.7km2 (55.1sqmi)"
+            ],
+            "Inwoners (2008)": [
+                "888,797"
+            ],
+            "Naam inwoner": [
+                "Cancunense"
+            ],
+            "Postcode": [
+                "77500"
+            ],
+            "Netnummer": [
+                "998"
+            ]
+        }
+    },
+    {
+        "name": "Verona",
+        "uri": "http://www.wikidata.org/entity/Q2028",
+        "url_en": "https://en.wikipedia.org/wiki/Verona",
+        "url_nl": "https://nl.wikipedia.org/wiki/Verona_(stad)",
+        "infobox_en": {
+            "Country": [
+                "Italy"
+            ],
+            "Region": [
+                "Veneto"
+            ],
+            "Province": [
+                "Verona (VR)"
+            ],
+            "Frazioni": [
+                "Avesa, San Michele Extra, San Massimo all'Adige, Quinzano, Quinto di Valpantena, Poiano di Valpantena, Parona di Valpolicella, Montorio Veronese, Mizzole, Marchesino, Chievo, Ca\u0300 di David e Moruri"
+            ],
+            "Mayor": [
+                "Damiano Tommasi (Ind)"
+            ],
+            "Total": [
+                "248,030"
+            ],
+            "Elevation": [
+                "59m (194ft)"
+            ],
+            "Density": [
+                "1,800/km2 (4,600/sqmi)"
+            ],
+            "Demonym(s)": [
+                "VeroneseScaligero"
+            ],
+            "Time zone": [
+                "UTC+1 (CET)"
+            ],
+            "Summer (DST)": [
+                "UTC+2 (CEST)"
+            ],
+            "Postal code": [
+                "37100"
+            ],
+            "Dialingcode": [
+                "045"
+            ],
+            "ISTAT code": [
+                "023091"
+            ],
+            "Patron saint": [
+                "Saint Zeno of Verona"
+            ],
+            "Saint day": [
+                "12 April"
+            ],
+            "Website": [
+                "www.comune.verona.it"
+            ],
+            "Criteria": [
+                "Cultural: ii, iv"
+            ],
+            "Reference": [
+                "797"
+            ],
+            "Inscription": [
+                "2000 (24th Session)"
+            ],
+            "Area": [
+                "444.4 ha"
+            ],
+            "Bufferzone": [
+                "303.98 ha"
+            ]
+        },
+        "infobox_nl": {
+            "Regio": [
+                "Veneto (VEN)"
+            ],
+            "Provincie": [
+                "Verona"
+            ],
+            "Coo\u0308rdinaten": [
+                "45\u00b0 26\u2032 NB, 10\u00b0 59\u2032 OL"
+            ],
+            "Oppervlakte": [
+                "206,63 km2"
+            ],
+            "Inwoners (1 januari 2018)": [
+                "257.275 (1182 inw./km2)"
+            ],
+            "Hoogte": [
+                "59 m"
+            ],
+            "Burgemeester": [
+                "Federico Sboarina (Onafhankelijk)"
+            ],
+            "Postcode": [
+                "37100 (stad van 37121 tot 37139)"
+            ],
+            "Netnummer": [
+                "045"
+            ],
+            "Aangrenzende gemeenten": [
+                "Bussolengo, Buttapietra, Castel d'Azzano, Grezzana, Mezzane di Sotto, Negrar, Pescantina, Rovere\u0300 Veronese, San Giovanni Lupatoto, San Martino Buon Albergo, San Mauro di Saline, San Pietro in Cariano, Sommacampagna, Sona, Tregnago en Villafranca di Verona"
+            ],
+            "Beschermheilige": [
+                "San Zeno"
+            ],
+            "Naam inwoner": [
+                "Veronesi"
+            ],
+            "ISTAT-code": [
+                "023091"
+            ],
+            "Website": [
+                "comune.verona.it"
+            ]
+        },
+        "value_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Italy"
+            ],
+            "Inwoners (2008)": [
+                "248,030"
+            ]
+        },
+        "all_alignment_completed_infobox": {
+            "Deelstaat": [
+                "Italy"
+            ],
+            "Inwoners (2008)": [
+                "248,030"
+            ],
+            "Zone": [
+                "444.4 ha"
+            ]
+        }
+    }
+]
